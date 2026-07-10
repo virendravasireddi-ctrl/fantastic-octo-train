@@ -2,7 +2,7 @@
 
 **Target exams:** APPSC Group-I (Mains – History, Culture & Geography of India and AP) and Group-II (Screening/Mains – History, Culture & AP Geography). Also useful for AP-relevant sections of other state exams.
 
-This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4, files 16–20)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
+This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)**, then **Geography of India & AP (Unit 4, files 16–20)**, and closes with **Modern Andhra & the Nationalist Movement (Unit 5, files 21–26)** — Company rule to the bifurcation of 2 June 2014. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
 
 ## Syllabus items covered
 
@@ -11,6 +11,10 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 > **History —** *"The Pallavas, the Badami Chalukyas, the Eastern Chalukyas, the Rashtrakutas, the Kalyani Chalukyas and the Cholas — Socio-Cultural Contributions, Language, Literature, Art and Architecture — Delhi Sultanates — Advent of Islam and its Impact — Religious Movements like Bhakti and Sufi and Its Influence — Growth of Vernacular Languages, Scripts, Literature, Fine Arts — Socio-Cultural Conditions of the Kakatiyas, the Vijayanagaras, the Bahmanis, the Qutubshahis and their contemporary South Indian kingdoms — The Mughals: Administration, Socio-Religious life and Cultural developments — Shivaji and Rise of the Maratha Empire — Advent of the Europeans in India."*
 
 > **Geography —** *"Physical Features and Resources: India and Andhra Pradesh — Major landforms, Climatic changes, Soil types, Rivers, Water, Streams, Geology, Rocks, Mineral Resources, Metals, Clays, Construction Materials, Reservoirs, Dams — Forests, Mountains, Hills, Flora and fauna, Plateau Forests, Hill Forests, Vegetation Classification."*
+
+> **Modern Andhra —** *"European Trade Establishments in Andhra — Andhra under the Company Rule — Role of Christian Missionaries — Socio-Cultural, Literary Awakening — C.P. Brown, Thomas Munro, Mackenzie — Zamindary, Polegary System — Native States and Little Kings — Role of Social Reformers (Gurajada Apparao, Kandukuri Veeresalingam, Raghupati Venkataratnam Naidu, Gidugu Ramamurthy, Annie Besant and others) — Library Movement in Andhra Pradesh — Role of News Paper — Folk and Tribal Culture, Oral Traditions, Subaltern Culture, Role of Women."*
+
+> **Nationalist Movement —** *"Role of Andhra leaders — Justice Party, Non-Brahmin Movement — Nationalist and Revolutionary Literature (Gurram Jashuva, Boyi Bheemanna, Sri Sri, Garimella Satyanarayana, Rayaprolu Subbarao, Unnava Lakshminarayana, Tripuraneni Ramaswamy Choudhary and others) — Andhra Mahasabhas, Andhra Movement — prominent leaders (Alluri Sitaramraju, Duggirala Gopalakrishnaiah, Konda Venkatappayya, Pattabhi Seetaramaiah, Ponaka Kanakamma, Dokka Sitamma) — Grandhalaya Movement (Ayyanki Venkataramanaiah, Gadicherla Harisarvothamarao, Kasinathuni Nagesvara Rao) — Potti Sreeramulu, Formation of Andhra State 1953 — Emergence of Andhra Pradesh 1956 — Andhra Pradesh 1956 to 2014 — Causes for Bifurcation, 2nd June 2014 Impact."*
 
 ## How these notes are organised
 
@@ -75,6 +79,21 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 | [19-AP-Geology-Mineral-Resources.md](19-AP-Geology-Mineral-Resources.md) | Dharwar craton, Cuddapah basin, Eastern Ghats khondalites, KG basin; Mangampeta barytes, Tummalapalle uranium, diamonds, beach sands, clays, Black Galaxy granite; Samata 1997 | ⭐⭐⭐ (AP-core) |
 | [20-Forests-Hills-Flora-Fauna.md](20-Forests-Hills-Flora-Fauna.md) | Vegetation classification (NCERT 5-type + Champion-Seth), ISFR data; plateau vs hill forests; AP hills→forests→species table; protected areas; Unit-4 MCQs & Mains skeletons | ⭐⭐⭐ + revision |
 
+### Unit 5 — Modern Andhra & the Nationalist Movement (Company rule → 2 June 2014)
+
+> *"European Trade Establishments in Andhra — Andhra under the Company Rule — Missionaries — Brown, Munro, Mackenzie — Zamindary, Polegary — Social Reformers — Library Movement — News Papers — Folk & Tribal Culture — Nationalist Movement, Justice Party, Revolutionary Literature — Andhra Mahasabhas — Potti Sreeramulu — Andhra State 1953 — Andhra Pradesh 1956 — Bifurcation, 2 June 2014."*
+
+**Every verified paper draws Q8–Q10 from this unit** — it is the densest AP-specific PYQ zone after Ancient India.
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [21-European-Trade-Company-Rule-Land-Systems.md](21-European-Trade-Company-Rule-Land-Systems.md) | Factories at Masulipatnam-Pulicat-Yanam; Circars 1765–66 & Ceded Districts 1800; Padmanabham 1794, Renadu 1846; zamindari vs ryotwari; poligars & little kings; **Munro, Mackenzie, C.P. Brown, Arthur Cotton** (2023 PYQ set) | ⭐⭐⭐ |
+| [22-Missionaries-Reformers-Social-Awakening.md](22-Missionaries-Reformers-Social-Awakening.md) | Missions (LMS 1805 → Clough's Ongole), education & Dalit uplift; awakening factors (2025 PYQs); **Veeresalingam, Gurajada, Venkataratnam Naidu, Gidugu, Besant**; role of women (Sitamma → Durgabai) | ⭐⭐⭐ |
+| [23-Press-Library-Movement-Folk-Tribal-Culture.md](23-Press-Library-Movement-Folk-Tribal-Culture.md) | Telugu press (Krishna Patrika, Andhra Patrika); **Grandhalaya movement** (Ayyanki, Gadicherla, Nageswara Rao — 2020 PYQ); Harikatha-Burrakatha & folk arts; tribes; oral & subaltern culture, Adi-Andhra 1917 | ⭐⭐⭐ |
+| [24-Nationalist-Movement-Justice-Party-Literature.md](24-Nationalist-Movement-Justice-Party-Literature.md) | Vandemataram 1907 → Quit India; Chirala-Perala, Palnadu, Pedanandipadu; **Alluri's Rampa rebellion** (2023 PYQ); **Justice Party/Non-Brahmin movement** (2020 PYQ); nationalist & Dalit literature (Garimella → Sri Sri, Jashuva, Bheemanna); Andhra Mahasabhas & leader gallery | ⭐⭐⭐ |
+| [25-Andhra-State-1953-AP-1956-Bifurcation-2014.md](25-Andhra-State-1953-AP-1956-Bifurcation-2014.md) | Sribagh 1937, JVP, **Potti Sreeramulu**, Andhra State 1953 (Kurnool); SRC & **Gentlemen's Agreement** (2025 PYQ), AP 1956; 1969/1972 agitations, Art 371-D, NTR, TRS → **Act 2014 & 2 June 2014 impact** | ⭐⭐⭐ (asked every cycle) |
+| [26-Modern-Andhra-Practice.md](26-Modern-Andhra-Practice.md) | Master timeline 1605–2014, epithet/work/paper match-pairs, 24 MCQs with key, 10 Mains skeletons, last-mile checklist | Revision aid |
+
 ## Companion material (other series & essays)
 
 **Deep-dive essays (Mains enrichment):**
@@ -87,7 +106,7 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 
 **Paper overview & PYQs:** [`../APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md`](../APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md) — the full Paper-II syllabus mapped topic-wise to previous years' questions (use it to prioritise).
 
-## How to use (suggested 6-day Ancient India + 20-day History + 6-day Geography cycle)
+## How to use (suggested 6-day Ancient India + 20-day History + 6-day Geography + 7-day Modern Andhra cycle)
 
 0. **Ancient India lead-in (6 days):** Day A — 00A (prehistory + Harappa; write the 2020/2023/2025 Q1s as drills); Day B — 00B; Day C — 00C (councils + comparison tables from memory); Day D — 00D + 00E; Day E — 00F (Satavahanas to full depth — it doubles as Part-B Andhra material); Day F — 00G + 00H MCQs and 2 timed Mains answers.
 1. **Days 1–3:** File 01, one pair of dynasties per day (Pallava+Badami / Eastern Chalukya+Rashtrakuta / Kalyani+Chola). Make your own one-page sheet per dynasty.
@@ -102,6 +121,7 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 10. **Day 17:** File 12 (religious policy + Sikhism; architecture-painting-music). **Day 18:** File 13 (Shivaji + Ashtapradhan + Peshwas + Panipat).
 11. **Day 19:** File 14 (Europeans + Carnatic Wars + the Andhra/Circars angle). **Day 20:** File 15 synthesis + MCQs; write 2–3 Unit-3 Mains answers and re-run the checklist.
 12. **Geography add-on (6 days):** Day 21 — File 16 (landforms + climate); Day 22 — File 16 (soils + rivers) & File 17 (geology); Day 23 — File 17 (minerals, clays, dams); Days 24–25 — Files 18 & 19 (AP core — make your own district-wise mineral and river-project maps); Day 26 — File 20 + MCQs + 2 Mains answers. Geography rewards **map practice**: mark AP's hills, rivers, projects and mineral sites on a blank outline daily.
+13. **Modern Andhra add-on (7 days):** Day 27 — File 21 (trade → Company rule; drill the Munro-Mackenzie-Brown-Cotton quartet); Day 28 — File 22 (missionaries + awakening factors; write the two 2025 Q9s); Day 29 — File 22 reformers + File 23 press & library movement (write the 2020 library answer); Day 30 — File 23 folk/tribal/subaltern + File 24 (Non-cooperation trio + Alluri to full depth); Day 31 — File 24 (Justice Party + literature table from memory); Day 32 — File 25 (1952–56 chain, then 1969 → 2 June 2014 conflict chain — build both timelines from memory); Day 33 — File 26 MCQs + 3 timed Mains answers (Alluri, Gentlemen's Agreement, bifurcation causes-impact).
 
 ## Exam-craft notes
 
