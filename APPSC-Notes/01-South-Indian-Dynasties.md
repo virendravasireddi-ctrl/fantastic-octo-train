@@ -1,6 +1,6 @@
 # 01 · South Indian Dynasties (c. 550–1279 CE) — Socio-Cultural Contributions, Language, Literature, Art & Architecture
 
-[← Index](README.md) · [Next: Delhi Sultanate →](02-Delhi-Sultanate.md)
+**UNIT 1 begins here.** [← Unit 0 Practice](00H-Ancient-India-Practice.md) · [Index](README.md) · [Next: Delhi Sultanate →](02-Delhi-Sultanate.md)
 
 ---
 
@@ -325,4 +325,4 @@ Mains line: *Vengi's lasting conquest was linguistic — under the Eastern Chalu
 4. **"The Deccan as India's architectural crossroads."** Evidence: Nagara+Dravida at Pattadakal; Alampur Navabrahma (Nagara in Telugu land); Vesara at Itagi/Lakkundi; export of Pallava craftsmen after Kanchi wars.
 5. **"Royal patronage, not royal faith alone, drove culture."** Evidence: Jain Ravikirti under Shaiva Chalukyas; Amoghavarsha's Jainism with Shaiva grants; Muslim traders under Rashtrakutas; Chola canon-making as statecraft.
 
-[← Index](README.md) · [Next: Delhi Sultanate →](02-Delhi-Sultanate.md)
+**UNIT 1 begins here.** [← Unit 0 Practice](00H-Ancient-India-Practice.md) · [Index](README.md) · [Next: Delhi Sultanate →](02-Delhi-Sultanate.md)

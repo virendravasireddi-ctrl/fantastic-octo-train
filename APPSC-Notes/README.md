@@ -2,15 +2,34 @@
 
 **Target exams:** APPSC Group-I (Mains – History, Culture & Geography of India and AP) and Group-II (Screening/Mains – History, Culture & AP Geography). Also useful for AP-relevant sections of other state exams.
 
-This series runs **chronologically through History (Units 1–3)** and then **Geography of India & AP (Unit 4)** — files **01–20**. For **Ancient India**, the **Public Administration** and **Economy** papers, and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
+This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4, files 16–20)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
 
 ## Syllabus items covered
+
+> **Ancient India —** *"Pre-Historic Cultures — Indus Valley — Vedic Culture — Mahajanapadas — Jainism & Buddhism — Magadha & the Mauryas — Ashoka Dharma — Foreign Invasions — The Kushans — The Satavahanas, the Sangam Age in South India, the Sungas, the Guptas, the Kanauj and their contributions — Historical accounts of foreign travellers — Early educational institutions."*
 
 > **History —** *"The Pallavas, the Badami Chalukyas, the Eastern Chalukyas, the Rashtrakutas, the Kalyani Chalukyas and the Cholas — Socio-Cultural Contributions, Language, Literature, Art and Architecture — Delhi Sultanates — Advent of Islam and its Impact — Religious Movements like Bhakti and Sufi and Its Influence — Growth of Vernacular Languages, Scripts, Literature, Fine Arts — Socio-Cultural Conditions of the Kakatiyas, the Vijayanagaras, the Bahmanis, the Qutubshahis and their contemporary South Indian kingdoms — The Mughals: Administration, Socio-Religious life and Cultural developments — Shivaji and Rise of the Maratha Empire — Advent of the Europeans in India."*
 
 > **Geography —** *"Physical Features and Resources: India and Andhra Pradesh — Major landforms, Climatic changes, Soil types, Rivers, Water, Streams, Geology, Rocks, Mineral Resources, Metals, Clays, Construction Materials, Reservoirs, Dams — Forests, Mountains, Hills, Flora and fauna, Plateau Forests, Hill Forests, Vegetation Classification."*
 
 ## How these notes are organised
+
+### Unit 0 — Ancient India: Prehistory to Kanauj (Foundations)
+
+> *"Pre-Historic Cultures — Indus Valley — Vedic Culture — Mahajanapadas — Jainism & Buddhism — Magadha & the Mauryas — Ashoka Dharma — Foreign Invasions — The Kushans — The Satavahanas, the Sangam Age, the Sungas, the Guptas, the Kanauj and their contributions — Historical accounts of foreign travellers — Early educational institutions."*
+
+**Every verified Paper-II (2020/2023/2025) opened with a Question 1 from this unit** — prepare it to full-answer depth. Files use the `00X` prefix so the whole series reads in chronological order.
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [00A-Prehistory-and-Indus-Valley.md](00A-Prehistory-and-Indus-Valley.md) | Stone-age periodisation, AP prehistoric box (Jwalapuram, Kurnool caves); Harappan sites, urbanism, decline, origin-expansion & survival-continuity PYQ set-pieces | ⭐⭐⭐ (Harappa = the densest PYQ zone) |
+| [00B-Vedic-Age-Mahajanapadas-Magadha.md](00B-Vedic-Age-Mahajanapadas-Magadha.md) | Early-vs-Later Vedic master table, Aryan debate; 16 mahajanapadas (Assaka on the Godavari), gana-sanghas; why Magadha won | ⭐⭐⭐ |
+| [00C-Jainism-and-Buddhism.md](00C-Jainism-and-Buddhism.md) | Causes of the 6th-century revolt, doctrines, councils, sects, comparison table; **Andhra's Buddhist chain (Bhattiprolu → Nagarjunakonda → Thotlakonda)** | ⭐⭐⭐ |
+| [00D-Mauryas-Ashoka-Dhamma-Administration-Art.md](00D-Mauryas-Ashoka-Dhamma-Administration-Art.md) | Empire & sources triangle, Ashoka's Dhamma (edict-wise), **Yerragudi & Rajula-Mandagiri (AP edicts)**, administration, court-vs-popular art | ⭐⭐⭐ |
+| [00E-Foreign-Invasions-Kushanas-Shungas.md](00E-Foreign-Invasions-Kushanas-Shungas.md) | Persians, Alexander's paradox, Shunga revival & aniconic art, the invader relay (coins, Sanskrit epigraphy, eras), Kanishka & Gandhara-vs-Mathura | ⭐⭐ |
+| [00F-Satavahanas-and-Sangam-Age.md](00F-Satavahanas-and-Sangam-Age.md) | The first Andhra empire (Gautamiputra, land-grant seed of feudalism, Prakrit, Amaravati school, **Ikshvakus**); Sangam polity-economy-literature | ⭐⭐⭐ (Satavahanas double as Part-B Andhra material) |
+| [00G-Guptas-Harsha-Travellers-Universities.md](00G-Guptas-Harsha-Travellers-Universities.md) | Gupta kings & "golden for whom?" debate, Harsha & Kanauj's Tripartite career, the consolidated foreign-travellers table, Nalanda-to-Kanchi universities | ⭐⭐⭐ |
+| [00H-Ancient-India-Practice.md](00H-Ancient-India-Practice.md) | Source typology, historiography schools, master timeline, verified PYQ map, 15 MCQs with key, 10 Mains skeletons, last-mile checklist | Revision aid |
 
 ### Unit 1 — Early-medieval dynasties · Delhi Sultanate · Islam · Bhakti–Sufi
 
@@ -58,9 +77,6 @@ This series runs **chronologically through History (Units 1–3)** and then **Ge
 
 ## Companion material (other series & essays)
 
-**Ancient India (foundational — chronologically before Unit 1):** two source-first analytical essays at the repository root —
-[`Ancient-India-Prehistory-to-Kushanas.md`](../Ancient-India-Prehistory-to-Kushanas.md) (Stone Age · Indus · Vedic · Mahajanapadas · Jainism-Buddhism · Mauryas · Ashoka · Mauryan art · foreign invasions · Satavahanas · Kushanas · historiography) and its direct continuation [`Ancient-India-PostMauryan-to-Kanauj.md`](../Ancient-India-PostMauryan-to-Kanauj.md) (Shungas-Kanvas · Satavahanas · Sangam age · Guptas · Harsha/Kanauj · foreign travellers · early universities).
-
 **Deep-dive essays (Mains enrichment):**
 - [`Telugu-Country-Vengi-to-Reddi.md`](../Telugu-Country-Vengi-to-Reddi.md) — the Eastern Chalukya → Kakatiya → Musunuri → Reddi arc (enriches Units 1 & 2).
 - [`Molla-and-Telugu-Authors.md`](../Molla-and-Telugu-Authors.md) — caste, gender and the vernacular counter-current in Telugu literary history (c. 1420–1950).
@@ -71,8 +87,9 @@ This series runs **chronologically through History (Units 1–3)** and then **Ge
 
 **Paper overview & PYQs:** [`../APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md`](../APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md) — the full Paper-II syllabus mapped topic-wise to previous years' questions (use it to prioritise).
 
-## How to use (suggested 20-day History + 6-day Geography cycle)
+## How to use (suggested 6-day Ancient India + 20-day History + 6-day Geography cycle)
 
+0. **Ancient India lead-in (6 days):** Day A — 00A (prehistory + Harappa; write the 2020/2023/2025 Q1s as drills); Day B — 00B; Day C — 00C (councils + comparison tables from memory); Day D — 00D + 00E; Day E — 00F (Satavahanas to full depth — it doubles as Part-B Andhra material); Day F — 00G + 00H MCQs and 2 timed Mains answers.
 1. **Days 1–3:** File 01, one pair of dynasties per day (Pallava+Badami / Eastern Chalukya+Rashtrakuta / Kalyani+Chola). Make your own one-page sheet per dynasty.
 2. **Day 4:** File 02 (Sultanate rulers + administration). **Day 5:** File 02 (art, literature, Deccan impact) + File 03.
 3. **Day 6:** File 04 fully — build the Bhakti saints table and Sufi silsila chain from memory.
