@@ -16,7 +16,7 @@
 | [04-Legacy-of-British-Rule.md](04-Legacy-of-British-Rule.md) | Company → Crown milestones, ICS story (Cornwallis to Lee Commission), District Collector & Munro system, police-judiciary-rule of law, land settlements, local self-government (Ripon), finance & infrastructure, positive vs negative balance sheet, continuity after 1947 | ⭐⭐⭐ (Munro/ryotwari & Madras institutions are AP-core) |
 | [05-Evolution-Revision-and-Practice.md](05-Evolution-Revision-and-Practice.md) | One-page evolution spine, Kautilya-Mughal-British master comparison, continuity threads, quotes bank, glossary, 15 MCQs with key, 10 Mains questions with answer skeletons | Revision aid |
 
-**Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) — the Medieval India & Deccan history notes. They share load-bearing context: Delhi Sultanate administration (File 02 there) sits between Kautilya and the Mughals; Qutb Shahi Golconda (File 09 there) is where Mughal Deccan administration lands in 1687.
+**Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) — the Medieval India & Deccan history notes. They share load-bearing context: Delhi Sultanate administration (File 02 there) sits between Kautilya and the Mughals; Qutb Shahi Golconda (File 09 there) is where Mughal Deccan administration lands in 1687. Also [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) — Indian Economy: Resource Mobilization (the fiscal machinery whose ancestors — Kautilya's kosha, Mughal land revenue, British settlements — appear in this series).
 
 ## How to use (suggested 7-day cycle)
 
