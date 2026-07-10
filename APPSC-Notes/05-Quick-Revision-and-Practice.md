@@ -176,4 +176,4 @@ Vatapikonda–Narasimhavarman I · Vichitrachitta/Mattavilasa–Mahendravarman I
 - [ ] Chishti chain Ajmer→Gulbarga; Adi Granth's non-Sikh contributors?
 - [ ] Annamayya facts (dates, copper plates, titles, Timmakka)?
 
-[← Bhakti & Sufi](04-Bhakti-and-Sufi-Movements.md) · [Index](README.md)
+[← Bhakti & Sufi](04-Bhakti-and-Sufi-Movements.md) · [Index](README.md) · [Next unit: Kakatiyas →](06-Kakatiyas-and-Contemporaries.md)

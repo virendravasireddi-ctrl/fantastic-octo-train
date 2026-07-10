@@ -8,6 +8,10 @@
 
 ## How these notes are organised
 
+### Unit 1 — Early-medieval dynasties · Delhi Sultanate · Islam · Bhakti–Sufi
+
+> *"The Pallavas, the Badami Chalukyas, the Eastern Chalukyas, the Rashtrakutas, the Kalyani Chalukyas and the Cholas — Socio-Cultural Contributions, Language, Literature, Art and Architecture — Delhi Sultanates — Advent of Islam and its Impact — Religious Movements like Bhakti and Sufi and Its Influence."*
+
 | File | Coverage | Weight for APPSC |
 |---|---|---|
 | [01-South-Indian-Dynasties.md](01-South-Indian-Dynasties.md) | Pallavas, Badami Chalukyas, **Eastern Chalukyas of Vengi**, Rashtrakutas, Kalyani Chalukyas, Cholas — society, religion, language, literature, art & architecture | ⭐⭐⭐ (Eastern Chalukyas + Telugu literature are AP-core) |
@@ -16,14 +20,30 @@
 | [04-Bhakti-and-Sufi-Movements.md](04-Bhakti-and-Sufi-Movements.md) | Bhakti (South → North, Andhra bhakti stream), Sufi silsilas, mutual influence, composite culture | ⭐⭐⭐ |
 | [05-Quick-Revision-and-Practice.md](05-Quick-Revision-and-Practice.md) | Master tables, "firsts", books & authors, temples & builders, timeline, 15 MCQs with key, 10 Mains questions with answer skeletons | Revision aid |
 
-**Deep-dive companion:** the repository root has [`Telugu-Country-Vengi-to-Reddi.md`](../Telugu-Country-Vengi-to-Reddi.md) — a source-first analytical essay on the Eastern Chalukya → Kakatiya → Musunuri → Reddi arc. Read it AFTER these notes for Mains enrichment (arguments, mechanisms, historiography).
+### Unit 2 — Kakatiyas · Vijayanagara · Bahmanis · Qutb Shahis · contemporary kingdoms
 
-## How to use (suggested 8-day cycle)
+> *"Growth of Vernacular Languages, Scripts, Literature, Fine Arts — Socio-Cultural Conditions of the Kakatiyas, the Vijayanagaras, the Bahmanis, the Qutubshahis and their contemporary South Indian kingdoms."*
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [06-Kakatiyas-and-Contemporaries.md](06-Kakatiyas-and-Contemporaries.md) | Kakatiya socio-cultural conditions, Telugu-as-state-language, Ramappa/Perini; Yadava-Hoysala-Pandya snapshot; Musunuri bridge | ⭐⭐⭐ |
+| [07-Reddis-Velamas-Gajapatis.md](07-Reddis-Velamas-Gajapatis.md) | Reddi kingdom (Srinatha age), Recherla Velamas, Gajapatis in Andhra — the 1325–1518 interlude | ⭐⭐⭐ |
+| [08-Vijayanagara-Empire.md](08-Vijayanagara-Empire.md) | Four dynasties, KDR, nayankara-ayagar, travellers, Ashtadiggajas, Hampi & Lepakshi, Talikota, Nayaka successor states | ⭐⭐⭐ |
+| [09-Bahmani-and-Qutb-Shahi.md](09-Bahmani-and-Qutb-Shahi.md) | Bahmanis & Mahmud Gawan, five sultanates; Qutb Shahis — Hyderabad/Charminar, Telugu patronage, Dakhni, Ramadasu, Kuchipudi grant, 1687 | ⭐⭐⭐ (Qutb Shahi is AP-core) |
+| [10-Vernaculars-Scripts-FineArts-Practice.md](10-Vernaculars-Scripts-FineArts-Practice.md) | Cross-dynasty synthesis: why vernaculars grew, script evolution, literature by language, music-dance-painting-crafts; Unit-2 MCQs & Mains skeletons | Synthesis + revision |
+
+**Deep-dive companion:** the repository root has [`Telugu-Country-Vengi-to-Reddi.md`](../Telugu-Country-Vengi-to-Reddi.md) — a source-first analytical essay on the Eastern Chalukya → Kakatiya → Musunuri → Reddi arc. Read it AFTER these notes for Mains enrichment (arguments, mechanisms, historiography). It doubles as enrichment for BOTH units (Vengi in Unit 1; Kakatiya-Musunuri-Reddi in Unit 2).
+
+## How to use (suggested 14-day cycle)
 
 1. **Days 1–3:** File 01, one pair of dynasties per day (Pallava+Badami / Eastern Chalukya+Rashtrakuta / Kalyani+Chola). Make your own one-page sheet per dynasty.
 2. **Day 4:** File 02 (Sultanate rulers + administration). **Day 5:** File 02 (art, literature, Deccan impact) + File 03.
 3. **Day 6:** File 04 fully — build the Bhakti saints table and Sufi silsila chain from memory.
-4. **Day 7:** File 05 tables + MCQs. **Day 8:** Write 2–3 Mains answers from File 05 under time limit.
+4. **Day 7:** File 05 tables + MCQs; write 2–3 Unit-1 Mains answers under time limit.
+5. **Day 8:** File 06 (Kakatiyas + contemporaries). **Day 9:** File 07 (Reddi-Velama-Gajapati).
+6. **Days 10–11:** File 08 (Vijayanagara — rulers/administration one day; literature/art/Nayakas the next).
+7. **Day 12:** File 09 (Bahmani + Qutb Shahi). **Day 13:** File 10 synthesis + MCQs.
+8. **Day 14:** Write 2–3 Unit-2 Mains answers; re-run both last-mile checklists (Files 05 & 10).
 
 ## Exam-craft notes
 
