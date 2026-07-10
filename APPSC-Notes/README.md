@@ -34,6 +34,8 @@
 
 **Deep-dive companion:** the repository root has [`Telugu-Country-Vengi-to-Reddi.md`](../Telugu-Country-Vengi-to-Reddi.md) — a source-first analytical essay on the Eastern Chalukya → Kakatiya → Musunuri → Reddi arc. Read it AFTER these notes for Mains enrichment (arguments, mechanisms, historiography). It doubles as enrichment for BOTH units (Vengi in Unit 1; Kakatiya-Musunuri-Reddi in Unit 2).
 
+**Sister series:** [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) — Public Administration & Governance (meaning/nature/scope, Kautilya's Arthashastra, Mughal administration, legacy of British rule). It cross-uses this series' context: Sultanate administration (File 02 here) sits between Kautilya and the Mughals, and Mughal Deccan administration lands at Golconda 1687 (File 09 here).
+
 ## How to use (suggested 14-day cycle)
 
 1. **Days 1–3:** File 01, one pair of dynasties per day (Pallava+Badami / Eastern Chalukya+Rashtrakuta / Kalyani+Chola). Make your own one-page sheet per dynasty.
