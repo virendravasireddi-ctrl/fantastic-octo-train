@@ -1,6 +1,6 @@
 # 30 · Rise of Indian Nationalism — INC · Vandemataram & Home Rule · Self-Respect Movement (Phule, Narayana Guru, Periyar) · Gandhi, Satyagraha & Quit India · Bose · Patel · Ambedkar
 
-[← Education, Press & Reform](29-Education-Press-Socio-Religious-Reform-Movements.md) · [Index](README.md)
+[← Education, Press & Reform](29-Education-Press-Socio-Religious-Reform-Movements.md) · [Index](README.md) · [Next: Freedom Struggle in Three Phases →](31-Freedom-Struggle-Three-Phases-1885-1947.md)
 
 ---
 
@@ -117,4 +117,4 @@ Turned a lawyers' Congress into a **mass movement** (peasants, women, workers, "
 
 *Unit-6 sources to cross-check: Bipan Chandra et al., "India's Struggle for Independence"; Spectrum "A Brief History of Modern India"; NCERT XII "Themes in Indian History III"; Sumit Sarkar, "Modern India"; Telugu Akademi Modern India volume.*
 
-[← Education, Press & Reform](29-Education-Press-Socio-Religious-Reform-Movements.md) · [Index](README.md)
+[← Education, Press & Reform](29-Education-Press-Socio-Religious-Reform-Movements.md) · [Index](README.md) · [Next: Freedom Struggle in Three Phases →](31-Freedom-Struggle-Three-Phases-1885-1947.md)
