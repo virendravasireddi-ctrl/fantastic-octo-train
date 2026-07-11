@@ -1,6 +1,6 @@
 # 26 · Unit-5 Practice — Modern Andhra & the Nationalist Movement (Master Timeline, Match-Pairs, MCQs, Mains Skeletons)
 
-[← Andhra State 1953 → AP 1956 → 2014](25-Andhra-State-1953-AP-1956-Bifurcation-2014.md) · [Index](README.md)
+[← Andhra State 1953 → AP 1956 → 2014](25-Andhra-State-1953-AP-1956-Bifurcation-2014.md) · [Index](README.md) · [Next: EIC Hegemony & Missionaries →](27-EIC-Trade-Hegemony-Administration-Missionaries.md)
 
 ---
 
@@ -127,4 +127,4 @@
 
 *Unit-5 sources to cross-check: Telugu Akademi "History & Culture of Andhra Pradesh (Modern)"; P. Raghunadha Rao, "History of Modern Andhra"; Sarojini Regani; M. Venkatarangaiya, "The Freedom Struggle in Andhra Pradesh" volumes; Sri Krishna Committee Report (2010); AP Reorganisation Act 2014 (bare act); latest AP Socio-Economic Survey for post-2014 figures.*
 
-[← Andhra State 1953 → AP 1956 → 2014](25-Andhra-State-1953-AP-1956-Bifurcation-2014.md) · [Index](README.md)
+[← Andhra State 1953 → AP 1956 → 2014](25-Andhra-State-1953-AP-1956-Bifurcation-2014.md) · [Index](README.md) · [Next: EIC Hegemony & Missionaries →](27-EIC-Trade-Hegemony-Administration-Missionaries.md)
