@@ -9,6 +9,7 @@ A structured, source-first revision set for the **Andhra Pradesh Public Service 
 | [`APPSC-Notes/`](APPSC-Notes/README.md) | **History, Culture & Geography of India and AP** | 28 files across 5 units — **Ancient India: prehistory to Kanauj (00A–00H)**; early-medieval dynasties, Delhi Sultanate, Islam, Bhakti–Sufi (01–05); Kakatiyas–Vijayanagara–Bahmanis–Qutb Shahis (06–10); Mughals, Marathas, Advent of Europeans (11–15); Physical features & resources of India and AP (16–20) |
 | [`APPSC-Notes-PubAd/`](APPSC-Notes-PubAd/README.md) | **Public Administration & Governance** | Meaning/nature/scope, Kautilya's Arthashastra, Mughal administration, legacy of British rule, evolution & revision (01–05) |
 | [`APPSC-Notes-Economy/`](APPSC-Notes-Economy/README.md) | **Indian Economy: Resource Mobilization** | Budgetary resources, public debt, FDI/FPI, monetary-fiscal policy, financial markets & DFIs, industry-infrastructure investment, physical & energy resources, revision (01–08) |
+| [`APPSC-Notes-SciTech/`](APPSC-Notes-SciTech/README.md) | **Science, Technology & Innovation** | STI integration & everyday life, national STI policies, India's contribution (space/atomic/defence, agri/health/IT/ocean), concerns & nation-building, scientific institutes in AP & India, Indian scientists & indigenous technologies, revision (01–08) |
 
 ## Deep-dive essays (Mains enrichment)
 
@@ -21,6 +22,6 @@ A structured, source-first revision set for the **Andhra Pradesh Public Service 
 
 ## How it fits together
 
-The History series runs chronologically from **Unit 0 (Ancient India, files 00A–00H)** through the medieval units, and the two deep-dive essays enrich the Telugu-country and literature portions of Units 1–2. Public Administration and Economy are separate papers but share historical roots with this series — Kautilya's revenue state, Mughal land revenue and the British settlements reappear in the PubAd notes, and their fiscal machinery is the ancestor of the Economy unit's resource-mobilization system.
+The History series runs chronologically from **Unit 0 (Ancient India, files 00A–00H)** through the medieval units, and the two deep-dive essays enrich the Telugu-country and literature portions of Units 1–2. Public Administration and Economy are separate papers but share historical roots with this series — Kautilya's revenue state, Mughal land revenue and the British settlements reappear in the PubAd notes, and their fiscal machinery is the ancestor of the Economy unit's resource-mobilization system. The Science, Technology & Innovation series completes the General Studies coverage — its energy- and physical-resource technology overlaps the Economy unit (File 07 there), and its AP institutes (SHAR, NSTL, AMTZ, Amaravati Quantum Valley) localise the national S&T story.
 
 *Compiled July 2026. Each series' README lists the sources to cross-check against the latest editions before the exam. Economy figures are year-labelled and should be re-verified from the newest Budget / Economic Survey / RBI releases.*
