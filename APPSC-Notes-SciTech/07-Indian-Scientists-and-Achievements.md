@@ -1,6 +1,6 @@
 # 07 · Achievements of Indian Scientists; Indigenous & New Technologies
 
-[← Prev: Institutes in AP & India](06-Scientific-Institutes-AP-and-India.md) · [Index](README.md) · [Next: Revision & Practice →](08-Revision-and-Practice.md)
+[← Prev: Institutes in AP & India](06-Scientific-Institutes-AP-and-India.md) · [Index](README.md) · [Next: IPR in S&T →](08-IPR-in-Science-and-Technology.md)
 
 ---
 

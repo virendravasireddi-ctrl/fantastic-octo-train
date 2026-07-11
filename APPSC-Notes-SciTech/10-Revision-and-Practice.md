@@ -1,6 +1,6 @@
-# 08 · Science & Technology — Revision, Timelines & Practice
+# 10 · Science & Technology — Revision, Timelines & Practice
 
-[← Prev: Scientists & Achievements](07-Indian-Scientists-and-Achievements.md) · [Index](README.md)
+[← Prev: Promotion of Science](09-Promotion-of-Science-in-AP-and-India.md) · [Index](README.md)
 
 ---
 
@@ -26,10 +26,12 @@
 **Nobel ↔ Indian:** Raman-1930 · Chandrasekhar-1983 · Khorana-1968 · Venki Ramakrishnan-2009.
 **Day ↔ event:** 28 Feb-Science(Raman) · 11 May-Technology(Pokhran-II) · 23 Aug-Space(Chandrayaan-3) · 22 Dec-Maths(Ramanujan).
 **Telescope ↔ type/place ↔ operator:** DOT (3.6-m optical, Devasthal)-ARIES · HCT (2-m, Hanle)-IIA · NLST (2-m solar, Merak)-IIA · NLOT (13.7-m, Hanle)-IIA · GMRT (radio, Khodad/Pune)-NCRA-TIFR · ORT (radio, Ooty)-NCRA-TIFR · MACE (γ-ray, Hanle)-BARC · LIGO-India (grav-waves, Hingoli, Maharashtra) · AstroSat/Aditya-L1/XPoSat (space)-ISRO.
+**IPR ↔ law/term:** Patent-Patents Act 1970/20 yrs · Copyright-1957/life+60 · Trademark-1999/10 renewable · GI-1999/Registry Chennai · Plant varieties-PPV&FR 2001 · product patents from **2005 (TRIPS)** · **§3(d)**=anti-evergreening · **Novartis 2013** (Glivec) · **Natco-Bayer 2012** (first compulsory licence) · **IPR Policy 2016** "Creative India; Innovative India" (DPIIT/CIPAM) · **Patents Amendment Rules 2024** (RFE 48→31 months).
+**Science-promotion body ↔ ministry:** NCSTC-DST (communication) · Vigyan Prasar (1989)-DST media · **NCSM (1978, Kolkata)-Ministry of Culture** (science cities/centres) · Jigyasa-CSIR · APCOST (1986)-AP Govt · JVV-people's-science movement.
 
 ---
 
-## 3. MCQs with key (26)
+## 3. MCQs with key (32)
 
 1. National Science Day is observed on 28 February to commemorate — (a) Pokhran-II (b) **discovery of the Raman Effect** (c) ISRO's founding (d) Chandrayaan-3. **(b)**
 2. The scientific temper is enshrined in the Constitution as a — (a) Fundamental Right (b) DPSP (c) **Fundamental Duty [Art. 51A(h)]** (d) Preamble ideal. **(c)**
@@ -57,10 +59,16 @@
 24. MACE, the world's highest imaging Cherenkov telescope (Hanle), studies gamma rays and is operated by — (a) IIA (b) **BARC** (c) NCRA (d) ISRO. **(b)**
 25. NITI Aayog's Feb-2026 roadmap "India's Technology Services — Reimagination Ahead" targets scaling the sector to — (a) $300 bn (b) $500 bn (c) **$750–850 bn by 2035** (d) $1.2 tn. **(c)**
 26. The "Deep-Tech Fund of Funds" (Budget 2026-27) is meant to — (a) fund school labs (b) **provide long-term financing for RDI in sunrise/strategic technologies** (c) build highways (d) subsidise LPG. **(b)**
+27. India introduced product patents (from process patents) in compliance with TRIPS in — (a) 1995 (b) 2001 (c) **2005** (d) 2016. **(c)**
+28. Section 3(d) of the Patents Act is chiefly aimed at preventing — (a) biopiracy (b) **"evergreening" of patents** (c) compulsory licensing (d) parallel imports. **(b)**
+29. India's first compulsory licence (2012) was granted for the cancer drug — (a) Glivec (b) **Nexavar (Natco v. Bayer)** (c) Iressa (d) Tarceva. **(b)**
+30. The National IPR Policy 2016 carries the slogan and nodal department — (a) "Digital India"/MeitY (b) **"Creative India; Innovative India"/DPIIT** (c) "Make in India"/DPIIT (d) "Startup India"/NITI. **(b)**
+31. The National Council of Science Museums (NCSM), which runs India's science cities, is under the — (a) DST (b) **Ministry of Culture** (c) MeitY (d) Ministry of Education. **(b)**
+32. In Andhra Pradesh, the nodal body for science popularisation (est. 1986), running the Vijayawada Regional Science Centre, is — (a) APIS (b) **APCOST** (c) RGUKT (d) AMTZ. **(b)**
 
 ---
 
-## 4. Ten Mains answer-skeletons (one line of spine each)
+## 4. Twelve Mains answer-skeletons (one line of spine each)
 
 1. **Evolution of India's S&T policy (1958→2020)** — File 02 §1; critique = GERD gap; fix = ANRF/RDI.
 2. **"S&T is a double-edged sword"** — File 05 §2 buckets + §3 roles + 51A(h) close.
@@ -72,6 +80,8 @@
 8. **Protecting traditional knowledge in the IPR era** — TKDL, Biodiversity Act, GI tags (AP), AYUSH.
 9. **Challenges to proliferation of S&T (low GERD, brain drain, divide, ethics)** — File 05 §2 D+C+E + responses.
 10. **AP as a strategic-technology hub** — SHAR, NSTL/HSL, Tummalapalle, aqua-tech, AMTZ, Quantum Valley, AI hub.
+11. **IPR issues in Indian S&T (access vs incentive)** — File 08 §5; process→product patents, §3(d)/Novartis, Natco CL, IPR Policy 2016 + 2024 Rules; AP GI tie-in.
+12. **Promotion of science in India & AP** — File 09; 51A(h) + NCSTC/NCSM/INSPIRE/IISF/SSR-2022 + APCOST/RGUKT/JVV; close on scientific temper.
 
 ---
 
@@ -83,7 +93,8 @@
 - **Health/MedTech:** AMTZ Visakhapatnam (Asia's first, 2016).
 - **Deep-tech (new):** Amaravati Quantum Valley (IBM), Google AI data-centre hub Visakhapatnam (2025), drone hub Orvakal, RGUKT.
 - **AP-born scientist:** Yellapragada SubbaRow (Bhimavaram).
-- **AP GIs / traditional tech:** Kondapalli & Etikoppaka toys, Machilipatnam/Srikalahasti Kalamkari, Araku coffee, Banaganapalle mango, Uppada Jamdani.
+- **AP GIs / traditional tech (IPR):** Kondapalli & Etikoppaka toys, Machilipatnam/Srikalahasti Kalamkari, Bobbili Veena, Budithi brass, Araku coffee, Banaganapalle mango, Guntur Sannam chilli, Uppada Jamdani, Dharmavaram/Venkatagiri/Mangalagiri sarees.
+- **Science promotion:** APCOST (1986) + Patent Information Centre; Regional Science Centre Vijayawada; Sub-Regional Science Centre Rajahmundry (inaugurated 26 June 2025); RGUKT; JVV people's-science movement.
 
 ---
 

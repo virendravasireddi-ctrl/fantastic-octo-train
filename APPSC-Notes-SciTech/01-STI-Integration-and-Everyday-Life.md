@@ -66,7 +66,7 @@ Standalone science produces papers; standalone technology produces imports; **in
 - **Incubator** (nurtures startups: **Atal Incubation Centres**, T-Hub-style state hubs) vs **accelerator** (short intensive scale-up).
 - **Atal Innovation Mission (AIM, 2016 — NITI Aayog)**: **Atal Tinkering Labs (10,000+ schools)**, Atal Incubation Centres; **AIM 2.0 approved Nov 2024**.
 - **Startup India (2016)**: ~**1.8 lakh DPIIT-recognised startups (2025), 110+ unicorns** — **3rd largest startup ecosystem** (after US, China).
-- **Frugal innovation / "jugaad"**: Mangalyaan at **~₹450 crore**; Mitticool clay fridge; **grassroots innovation** institutionalised by **NIF (2000)** & Honey Bee Network (File 08).
+- **Frugal innovation / "jugaad"**: Mangalyaan at **~₹450 crore**; Mitticool clay fridge; **grassroots innovation** institutionalised by **NIF (2000)** & Honey Bee Network (File 07).
 - **Global Innovation Index (WIPO)**: India **39/133 (2024) → 38/139 (2025)** ⭐ — No. 1 among lower-middle-income economies; 4 Indian clusters (Bengaluru, Delhi, Mumbai, Chennai) in world's top-100 S&T clusters.
 
 ---

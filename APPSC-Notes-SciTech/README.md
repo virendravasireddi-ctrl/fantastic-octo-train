@@ -17,20 +17,24 @@
 | [05-Concerns-and-Challenges.md](05-Concerns-and-Challenges.md) | Concerns & challenges in proliferation/use of S&T (six buckets); role and scope of S&T in nation-building | ⭐⭐⭐ |
 | [06-Scientific-Institutes-AP-and-India.md](06-Scientific-Institutes-AP-and-India.md) | Major scientific & R&D institutes in **AP** and **India** (match institute↔location↔agency↔domain) | ⭐⭐⭐ (AP institutes are AP-core) |
 | [07-Indian-Scientists-and-Achievements.md](07-Indian-Scientists-and-Achievements.md) | Achievements of Indian scientists; indigenous technologies & developing new technologies; traditional-knowledge protection (TKDL, GIs) | ⭐⭐⭐ |
-| [08-Revision-and-Practice.md](08-Revision-and-Practice.md) | Timelines, match-sets, 20 MCQs with key, 10 Mains skeletons, AP capsule, numbers-to-refresh | Revision aid |
+| [08-IPR-in-Science-and-Technology.md](08-IPR-in-Science-and-Technology.md) | IPR issues in S&T — types & laws, TRIPS & product patents, §3(d)/Novartis/Natco, National IPR Policy 2016 & Patents Rules 2024, the six live IPR debates, AP GI tags | ⭐⭐⭐ |
+| [09-Promotion-of-Science-in-AP-and-India.md](09-Promotion-of-Science-in-AP-and-India.md) | Promotion of science — scientific temper (51A(h)), NCSTC/Vigyan Prasar/IISF, NCSM science cities & centres, INSPIRE/SSR-2022; AP: APCOST, Vijayawada & Rajahmundry science centres, RGUKT, JVV | ⭐⭐⭐ (AP-core) |
+| [10-Revision-and-Practice.md](10-Revision-and-Practice.md) | Timelines, match-sets, 32 MCQs with key, 12 Mains skeletons, AP capsule, numbers-to-refresh | Revision aid |
 
 **Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) (History, Culture & Geography) · [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration) · [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) (Indian Economy — File 07 there on physical & energy resources overlaps this series' technology-of-energy content).
 
-## How to use (suggested 8-day cycle)
+## How to use (suggested 10-day cycle)
 
 1. **Day 1:** File 01 — reproduce the "human-need ↔ technology ↔ outcome" master table.
-2. **Day 2:** File 02 — the four policies + ANRF/RDI; the GERD critique is a guaranteed evaluation point.
+2. **Day 2:** File 02 — the four policies + ANRF/RDI + 2026 updates (Deep-Tech FoF, telescopes); the GERD critique is a guaranteed evaluation point.
 3. **Day 3:** File 03 — space/nuclear/defence ladders; land one AP sentence per sector.
 4. **Day 4:** File 04 — revolutions colour-code + DPI + COVID case study.
 5. **Day 5:** File 05 — six concern-buckets + eight nation-building roles.
 6. **Day 6:** File 06 — institutes as flashcards (AP list first, then national).
 7. **Day 7:** File 07 — scientists' match-pairs + indigenous-tech bank + TKDL/GI.
-8. **Day 8:** File 08 — 20 MCQs + 2 timed Mains answers.
+8. **Day 8:** File 08 — IPR: types/laws, §3(d)/Novartis/Natco, IPR Policy 2016 + 2024 Rules, AP GIs.
+9. **Day 9:** File 09 — science promotion: NCSTC/NCSM/INSPIRE/SSR + APCOST/RGUKT/JVV.
+10. **Day 10:** File 10 — 32 MCQs + 2 timed Mains answers.
 
 ## Exam-craft notes
 
