@@ -2,7 +2,7 @@
 
 [← Kakatiyas](06-Kakatiyas-and-Contemporaries.md) · [Index](README.md) · [Next: Vijayanagara →](08-Vijayanagara-Empire.md)
 
-*The century-and-a-half between Warangal's fall and Golconda's rise, when middle-sized Telugu and Odia states carried the region's language, temples and arts. APPSC treats the Reddis as a favourite; the repo's [Vengi-to-Reddi essay](../Telugu-Country-Vengi-to-Reddi.md) is the Mains enrichment for this file.*
+*The century-and-a-half between Warangal's fall and Golconda's rise, when middle-sized Telugu and Odia states carried the region's language, temples and arts. APPSC treats the Reddis as a favourite; the "making of Andhra" synthesis in [File 38](38-Ancient-Medieval-Andhra-Synthesis-Practice.md) is the Mains enrichment for this file.*
 
 ---
 

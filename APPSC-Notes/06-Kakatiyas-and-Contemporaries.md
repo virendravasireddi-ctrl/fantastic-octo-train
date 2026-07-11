@@ -106,6 +106,6 @@
 1. **"Kakatiya rule made Telangana."** Tank irrigation + dasabandha + nayaka settlement = agrarian integration; Telugu as record-language = administrative integration; Motupalli charter = commercial integration; one dynasty, one region-formation argument.
 2. **"Assess Kakatiya contributions to Telugu literature and the fine arts."** Court Sanskrit (Vidyanatha) + Telugu champu (Tikkana line) + popular dwipada (Palkuriki, Gona Budda) + grammar/law in Telugu (Ketana) + dance codification (Jayapa/Perini) + temple-as-art (Ramappa).
 3. **"Rudramadevi's reign tests medieval attitudes to female sovereignty."** Male regnal persona, nobles' revolts (Ambadeva), foreign admiration (Polo), succession via daughter's son (Prataparudra) — evidence-rich mini-essay.
-4. **"The fall of Warangal (1323) was an end and a beginning."** Link to Musunuri revival, Vijayanagara-Bahmani world, and the repo's Vengi-to-Reddi essay themes.
+4. **"The fall of Warangal (1323) was an end and a beginning."** Link to Musunuri revival, Vijayanagara-Bahmani world, and the "making of Andhra" synthesis (File 38).
 
 [← Unit 1 Revision](05-Quick-Revision-and-Practice.md) · [Index](README.md) · [Next: Reddis, Velamas, Gajapatis →](07-Reddis-Velamas-Gajapatis.md)

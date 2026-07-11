@@ -6,14 +6,15 @@ A structured, source-first revision set for the **Andhra Pradesh Public Service 
 
 | Series | Subject | Contents |
 |---|---|---|
-| [`APPSC-Notes/`](APPSC-Notes/README.md) | **History, Culture & Geography of India and AP** | 34 files across 6 units — **Ancient India: prehistory to Kanauj (00A–00H)**; early-medieval dynasties, Delhi Sultanate, Islam, Bhakti–Sufi (01–05); Kakatiyas–Vijayanagara–Bahmanis–Qutb Shahis (06–10); Mughals, Marathas, Advent of Europeans (11–15); Physical features & resources of India and AP (16–20); **Modern Andhra & the Nationalist Movement — Company rule, missionaries & reformers, library movement, Alluri to Potti Sreeramulu, Andhra State 1953 → AP 1956 → bifurcation 2014 (21–26)** |
+| [`APPSC-Notes/`](APPSC-Notes/README.md) | **History, Culture & Geography of India and AP** | 46 files across 9 units — **Ancient India: prehistory to Kanauj (00A–00H)**; early-medieval dynasties, Delhi Sultanate, Islam, Bhakti–Sufi (01–05); Kakatiyas–Vijayanagara–Bahmanis–Qutb Shahis (06–10); Mughals, Marathas, Advent of Europeans (11–15); Physical features & resources of India and AP (16–20); **Modern Andhra & the Nationalist Movement (21–26)**; **British Rule in India & the National Movement — EIC to Ambedkar (27–30)**; **Freedom Struggle Phases, Partition & Nation-Building (31–34)**; **Ancient & Medieval Andhra for Part B — Satavahanas to Vemana, with the "making of Andhra" synthesis (35–38)** |
 | [`APPSC-Notes-PubAd/`](APPSC-Notes-PubAd/README.md) | **Public Administration & Governance** | Meaning/nature/scope, Kautilya's Arthashastra, Mughal administration, legacy of British rule, evolution & revision (01–05) |
 | [`APPSC-Notes-Economy/`](APPSC-Notes-Economy/README.md) | **Indian Economy: Resource Mobilization** | Budgetary resources, public debt, FDI/FPI, monetary-fiscal policy, financial markets & DFIs, industry-infrastructure investment, physical & energy resources, revision (01–08) |
 
-## Deep-dive essays (Mains enrichment)
+## Deep-dive essay (Mains enrichment)
 
-- [`Telugu-Country-Vengi-to-Reddi.md`](Telugu-Country-Vengi-to-Reddi.md) — the Eastern Chalukya → Kakatiya → Musunuri → Reddi arc: the political, economic, social and linguistic making of the Telugu country.
 - [`Molla-and-Telugu-Authors.md`](Molla-and-Telugu-Authors.md) — caste, gender and the vernacular counter-current in Telugu literary history (c. 1420–1950).
+
+*(The former Vengi-to-Reddi essay has been folded into the note series: political mechanics and script history into `APPSC-Notes/36`–`37`, the synthesis argument and examiner-trap table into `APPSC-Notes/38`.)*
 
 ## Paper overview & previous-year questions
 
@@ -21,6 +22,6 @@ A structured, source-first revision set for the **Andhra Pradesh Public Service 
 
 ## How it fits together
 
-The History series runs chronologically from **Unit 0 (Ancient India, files 00A–00H)** through the medieval units to **Unit 5 (Modern Andhra, files 21–26)**, and the two deep-dive essays enrich the Telugu-country and literature portions of Units 1–2. Public Administration and Economy are separate papers but share historical roots with this series — Kautilya's revenue state, Mughal land revenue and the British settlements reappear in the PubAd notes, and their fiscal machinery is the ancestor of the Economy unit's resource-mobilization system.
+The History series covers the full Paper-II syllabus: Part A runs chronologically from **Unit 0 (Ancient India, 00A–00H)** through the medieval units to **Units 6–7 (British rule, freedom struggle and nation-building, 27–34)**, while **Units 5 and 8 (21–26, 35–38)** carry the Part-B Andhra history from the Satavahanas to the 2014 bifurcation; the Molla essay enriches the Telugu-literature portions. Public Administration and Economy are separate papers but share historical roots with this series — Kautilya's revenue state, Mughal land revenue and the British settlements reappear in the PubAd notes, and their fiscal machinery is the ancestor of the Economy unit's resource-mobilization system.
 
 *Compiled July 2026. Each series' README lists the sources to cross-check against the latest editions before the exam. Economy figures are year-labelled and should be re-verified from the newest Budget / Economic Survey / RBI releases.*

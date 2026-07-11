@@ -113,7 +113,7 @@ Kakatiya **toranas & Ramappa engineering** → Reddi **Kondavidu & Srisailam man
 
 ### Skeletons
 
-**Q1 (Kakatiya integration):** thesis — first unification of Telangana + coastal Andhra + Rayalaseema fringe under one Telugu crown; evidence — tank chains & dasabandha (agrarian frontier), nayankara & 72 niyogas (service elite), Telugu-majority inscriptions + Ketana's grammar/law (administrative vernacular), Motupalli charter (commerce), trikuta temples & Perini (ideology); close — Kapaya's "Andhra Suratrana" shows the idea of "Andhra" survived the dynasty (→ repo essay's thesis).
+**Q1 (Kakatiya integration):** thesis — first unification of Telangana + coastal Andhra + Rayalaseema fringe under one Telugu crown; evidence — tank chains & dasabandha (agrarian frontier), nayankara & 72 niyogas (service elite), Telugu-majority inscriptions + Ketana's grammar/law (administrative vernacular), Motupalli charter (commerce), trikuta temples & Perini (ideology); close — Kapaya's "Andhra Suratrana" shows the idea of "Andhra" survived the dynasty (→ File 38's "making of Andhra" thesis).
 
 **Q6 (Qutb Shahi & Telugu):** open — a Shia-Persianate dynasty became Telugu's unlikely patron; body — Ibrahim "Malkibharama" (dedications by Gangadhara; Telaganarya's accha-Telugu kavya; Rudrakavi's yakshagana), administration in Telugu up to Madanna-Akkanna, devotional flowering (Kshetrayya at court; Ramadasu's Bhadrachalam and kirtanas), dance (Kuchipudi agraharam 1678), crafts & painting (kalamkari, Golconda school); balance — Persian/Dakhni high culture and Shia liturgy alongside, occasional friction (Madanna's murder); close — the Hyderabadi composite culture as the durable result.
 

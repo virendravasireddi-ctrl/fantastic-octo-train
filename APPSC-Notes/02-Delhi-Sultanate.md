@@ -215,6 +215,6 @@ Alauddin's raids (Devagiri 1307, **Warangal 1310**, Dwarasamudra 1311, Madurai 1
 2. **"MBT failed not for want of ideas but of means."** Assess each project against 14th-c. logistics; end with the ironic legacy — Daulatabad transfer seeded Deccan's Indo-Persian culture and, by reaction, Vijayanagara & Musunuri Andhra.
 3. **"The Sultanate was an Indian state run on Turko-Persian lines."** Village-level Hindu officialdom (khut-muqaddam-patwari), Hindu-majority taxation base, composite technologies & architecture.
 4. **"Trace the evolution of Indo-Islamic architecture, 1206–1526."** Use the firsts table; end at Lodi double-dome → Mughal garden-tomb.
-5. **"1323 is the hinge of Andhra history."** Kakatiya fall → Musunuri interlude → Vijayanagara/Bahmani duality → Reddi-Velama order; cultural corridor (Dakhni, Sufis) — cross-reference File 04 and the repo's Vengi-to-Reddi essay.
+5. **"1323 is the hinge of Andhra history."** Kakatiya fall → Musunuri interlude → Vijayanagara/Bahmani duality → Reddi-Velama order; cultural corridor (Dakhni, Sufis) — cross-reference File 04 and the "making of Andhra" synthesis (File 38).
 
 [← South Indian Dynasties](01-South-Indian-Dynasties.md) · [Index](README.md) · [Next: Advent of Islam →](03-Advent-of-Islam-and-Impact.md)
