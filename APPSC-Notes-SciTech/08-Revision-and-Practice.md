@@ -7,7 +7,7 @@
 ## 1. Master timelines (draw from memory)
 
 ### 1.1 Institutions & policy
-**1911** ICMR · **1929** ICAR · **1942** CSIR · **1948** AEC · **1954** DAE/BARC · **1958** SPR & DRDO · **1961** IISc-era expansion · **1969** ISRO · **1971** DST · **1972** DOS · **1983** TPS & IGMDP · **1986** DBT · **2003** STP · **2006** MoES · **2012** BIRAC · **2013** STIP · **2016** AIM/Startup India/NPCI-UPI · **2020** IN-SPACe / draft STIP · **2023** ANRF Act / Space Policy / NQM / BioE3(2024) · **2024** IndiaAI / ONOS · **2025** RDI Scheme / Amaravati Quantum Valley.
+**1911** ICMR · **1929** ICAR · **1942** CSIR · **1948** AEC · **1954** DAE/BARC · **1958** SPR & DRDO · **1961** IISc-era expansion · **1969** ISRO · **1971** DST · **1972** DOS · **1983** TPS & IGMDP · **1986** DBT · **2003** STP · **2006** MoES · **2012** BIRAC · **2013** STIP · **2016** AIM/Startup India/NPCI-UPI · **2020** IN-SPACe / draft STIP · **2023** ANRF Act / Space Policy / NQM / BioE3(2024) · **2024** IndiaAI / ONOS · **2025** RDI Scheme (₹1 lakh cr) / Amaravati Quantum Valley · **2026** Deep-Tech Fund of Funds & **NLST/NLOT Ladakh telescopes** (Budget 2026-27) / **Bharat Innovates 2026** (17 Feb) / NITI **Frontier Tech Hub** Tech-Services & Agriculture roadmaps.
 
 ### 1.2 Space ladder
 **1963** Thumba · **1975** Aryabhata · **1980** SLV-3/Rohini · **1994** PSLV · **2008** Chandrayaan-1 (water) · **2014** MOM (Mars, 1st attempt) & cryo success · **2017** 104 sats · **2023** Chandrayaan-3 (23 Aug, S-pole) & Aditya-L1 · **Jan 2025** SpaDeX docking + 100th launch · **2025** NISAR; Shubhanshu Shukla on ISS.
@@ -25,10 +25,11 @@
 **Person ↔ tag:** Kalam-Missile Man · Sarabhai-Space · Bhabha-Nuclear · Swaminathan-Green · Kurien-White · Tessy Thomas-Missile Woman · Salim Ali-Birdman.
 **Nobel ↔ Indian:** Raman-1930 · Chandrasekhar-1983 · Khorana-1968 · Venki Ramakrishnan-2009.
 **Day ↔ event:** 28 Feb-Science(Raman) · 11 May-Technology(Pokhran-II) · 23 Aug-Space(Chandrayaan-3) · 22 Dec-Maths(Ramanujan).
+**Telescope ↔ type/place ↔ operator:** DOT (3.6-m optical, Devasthal)-ARIES · HCT (2-m, Hanle)-IIA · NLST (2-m solar, Merak)-IIA · NLOT (13.7-m, Hanle)-IIA · GMRT (radio, Khodad/Pune)-NCRA-TIFR · ORT (radio, Ooty)-NCRA-TIFR · MACE (γ-ray, Hanle)-BARC · LIGO-India (grav-waves, Hingoli, Maharashtra) · AstroSat/Aditya-L1/XPoSat (space)-ISRO.
 
 ---
 
-## 3. 20 MCQs with key
+## 3. MCQs with key (26)
 
 1. National Science Day is observed on 28 February to commemorate — (a) Pokhran-II (b) **discovery of the Raman Effect** (c) ISRO's founding (d) Chandrayaan-3. **(b)**
 2. The scientific temper is enshrined in the Constitution as a — (a) Fundamental Right (b) DPSP (c) **Fundamental Duty [Art. 51A(h)]** (d) Preamble ideal. **(c)**
@@ -50,6 +51,12 @@
 18. India's first supercomputer (1991), after CRAY denial, was — (a) SAGA (b) AIRAWAT (c) **PARAM 8000** (d) PRATYUSH. **(c)**
 19. The only genetically modified crop approved for commercial cultivation in India is — (a) GM mustard (b) Bt brinjal (c) **Bt cotton** (d) Golden rice. **(c)**
 20. Amaravati Quantum Valley (2025-26) will house — (a) a fast breeder reactor (b) **IBM Quantum System Two** (c) a semiconductor fab (d) NavIC ground station. **(b)**
+21. The two new telescopes sanctioned in Budget 2026-27 (NLST & NLOT) are to be built in — (a) Uttarakhand (b) **Ladakh** (c) Tamil Nadu (d) Rajasthan. **(b)**
+22. India's largest optical telescope (3.6-m) is at — (a) Hanle (b) **Devasthal, Uttarakhand** (c) Kavalur (d) Udaipur. **(b)**
+23. The Giant Metrewave Radio Telescope (GMRT) near Pune is operated by — (a) IIA (b) ARIES (c) **NCRA-TIFR** (d) ISRO. **(c)**
+24. MACE, the world's highest imaging Cherenkov telescope (Hanle), studies gamma rays and is operated by — (a) IIA (b) **BARC** (c) NCRA (d) ISRO. **(b)**
+25. NITI Aayog's Feb-2026 roadmap "India's Technology Services — Reimagination Ahead" targets scaling the sector to — (a) $300 bn (b) $500 bn (c) **$750–850 bn by 2035** (d) $1.2 tn. **(c)**
+26. The "Deep-Tech Fund of Funds" (Budget 2026-27) is meant to — (a) fund school labs (b) **provide long-term financing for RDI in sunrise/strategic technologies** (c) build highways (d) subsidise LPG. **(b)**
 
 ---
 
@@ -86,5 +93,6 @@
 - Foodgrains **~332 MT**; startups **~1.8 lakh, 110+ unicorns (3rd largest ecosystem)**.
 - Space economy **~$8.4 bn → target $44 bn (2033)**; bioeconomy **$165.7 bn → $300 bn (2030)**.
 - Defence production **~₹1.5 lakh cr**, exports **₹23,622 cr (FY25 records)**.
+- **Budget 2026-27:** Ministry of S&T **≈₹38,261 cr** (DST ≈₹28,049 cr); **Deep-Tech Fund of Funds** + **NLST/NLOT Ladakh telescopes**; NITI tech-services target **$750–850 bn by 2035**.
 
 > **Numbers policy:** all figures are labelled by year as of compilation (July 2026). Budget outlays, capacities and mission milestones move — re-verify from the latest **Economic Survey, India Year Book, ISRO/DAE/DRDO annual reports, and Science & Technology Indicators (DST-NSTMIS)** before the exam. The *structure* of these notes is what stays.

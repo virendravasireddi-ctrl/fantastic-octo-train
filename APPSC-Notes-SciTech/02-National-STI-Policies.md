@@ -68,6 +68,53 @@
 
 ---
 
+## 3A. 2026 current-affairs updates ⭐⭐ (freshest — quote these)
+
+### 3A.1 DST & Budget 2026-27
+- **Ministry of Science & Technology outlay ≈ ₹38,260.94 crore (2026-27)**; **DST's own share ≈ ₹28,049.32 crore** (broadly flat YoY).
+- **Deep-Tech Fund of Funds** ⭐ — new **long-tenor financing** vehicle to scale RDI in "sunrise/transformative" projects and acquire strategically critical technologies; read it as the **equity twin of the RDI Scheme** (₹1 lakh crore, 2025).
+- **Bharat Innovates 2026** — launched by the **PM on 17 Feb 2026** at the inauguration of the **India–France Year of Innovation**.
+- **BharatGen** — India's **sovereign generative-AI** initiative (models across all **22 scheduled languages**) advancing.
+- **India Semiconductor Mission (ISM) 2.0** (MeitY-led) — **₹1,000 cr for FY2026-27**: chip-making **equipment & materials**, full-stack Indian chip IP, supply-chain/training centres.
+- **International S&T cooperation calls (2026):** Indo-Japan, India-Austria, U.S.-India "Partnerships to Drive Innovation."
+
+### 3A.2 NITI Aayog — the Frontier Tech Hub year ⭐
+- **NITI Frontier Tech Hub** — the standing unit that assesses **AI, quantum & biotech**, weighs their opportunity/risk for India, and designs strategies toward **Viksit Bharat @2047**.
+- **"India's Technology Services — Reimagination Ahead" (12 Feb 2026)** — a 10-year roadmap to grow India's tech-services sector **from ~$265 bn to $750–850 bn by 2035**, on **five "plays"**: **Agentic AI ($40–50 bn) · Software ($20–25 bn) · AI-ready data-centre infrastructure ($10–15 bn) · Innovation centres ($25–35 bn) · India-for-India solutions ($40–60 bn)**. Core thesis: AI is a *structural* shift toward **IP-led, outcome-based, platform** delivery — "India shouldn't shy away from frontier AI."
+- **"Reimagining Agriculture: A Roadmap for Frontier-Technology-Led Transformation"** — AI, IoT, drones, biotech for farming (ties to AP's agri/aqua sectors).
+- Lead-up 2025 reports (closely related): **"AI for Viksit Bharat"** (Sept 2025) and **"Roadmap for Job Creation in the AI Economy"** (Oct 2025). **NITI Annual Report 2025-26** released May 2026.
+
+### 3A.3 Big-science infrastructure — India's telescopes & observatories ⭐⭐
+
+**Budget 2026-27 announced two world-class Ladakh telescopes** + an upgrade, positioning India as a deep-space-research hub:
+
+| New (Budget 2026-27) | What | Where |
+|---|---|---|
+| **NLST — National Large Solar Telescope** | **2-m** solar telescope (visible + near-IR) to study solar magnetism, flares, space weather; India's **3rd major ground solar observatory** (after Kodaikanal 1899, Udaipur 1975) | **Merak**, near **Pangong Tso**, Ladakh |
+| **NLOT — National Large Optical–(Near-)IR Telescope** | **13.7-m segmented mirror** (~90 hexagonal segments) — among the **world's largest** in its band; exoplanets & cosmic evolution | **Hanle**, Ladakh |
+| **Himalayan Chandra Telescope — upgrade** + **COSMOS-2 planetarium** | modernising the existing 2-m HCT | Hanle |
+
+**The wider Indian telescope map ⭐ (match facility ↔ type ↔ place ↔ operator):**
+
+| Telescope / observatory | Type | Location | Operator | Note |
+|---|---|---|---|---|
+| **Devasthal Optical Telescope (DOT)** | 3.6-m optical/IR | **Devasthal, Uttarakhand** | **ARIES**, Nainital | **India's largest optical telescope** (2016) ⭐ |
+| **Himalayan Chandra Telescope (HCT)** | 2-m optical/IR | **Hanle, Ladakh** (IAO — one of world's highest observatories, ~4,500 m) | **IIA**, Bengaluru | remote-operated |
+| **NLOT (planned)** | 13.7-m optical/near-IR | Hanle | IIA | see above |
+| **GMRT — Giant Metrewave Radio Telescope** | 30 × 45-m dish array | **Khodad, near Pune** | **NCRA-TIFR** | among world's largest at **metre wavelengths** ⭐ |
+| **Ooty Radio Telescope (ORT)** | 530-m cylindrical | Udhagamandalam, TN | NCRA-TIFR | since 1970 |
+| **MACE — Major Atmospheric Cherenkov Experiment** | 21-m γ-ray Cherenkov | **Hanle, Ladakh (~4.3 km)** | **BARC/DAE** | **world's highest** & **Asia's largest** Cherenkov telescope (commissioned 2021) ⭐ |
+| **HAGAR / PACT** | γ-ray Cherenkov arrays | Hanle / Pachmarhi | TIFR/IIA | — |
+| **Kodaikanal (1899) · Udaipur Solar Obs. (1975) · MAST** | solar | TN / Rajasthan | IIA / PRL | historic solar sites; **NLST** is the new flagship |
+| **LIGO-India** | gravitational-wave interferometer | **Aundha, Hingoli dist., Maharashtra** | DAE/DST (with US LIGO) | approved 2016, funded 2023 (~₹2,600 cr), ~2030 ⭐ |
+| **India-TMT (Thirty Meter Telescope)** | 30-m optical/IR (international) | Hawaii (site) | India (~10%) with US, Canada, Japan, China | India builds mirror segments/sensors |
+| **AstroSat (2015) · Aditya-L1 (2023) · XPoSat (2024)** | **space** telescopes | orbit / Sun-Earth L1 | ISRO | multi-wavelength / solar / X-ray polarimetry — **see [File 03 §1](03-India-Contribution-Space-Atomic-Defence.md)** |
+
+- **Why Ladakh?** The **Hanle Dark Sky Reserve (2022 — India's first)** offers high-altitude, dry, cloud-free, low-light-pollution skies — among the world's best astronomy sites; NLST/NLOT/MACE/HCT cluster there.
+- **Operators to keep straight (trap):** **IIA** (HCT, NLST, NLOT, solar) · **ARIES** (DOT) · **NCRA-TIFR** (GMRT, ORT) · **BARC** (MACE) · **ISRO** (space telescopes) — don't mix them up.
+
+---
+
 ## 4. Proliferation = taking science to people (schemes bank)
 
 - **Human capital pipeline:** **INSPIRE/MANAK** (school-college scholarships & faculty fellowships, DST), **PMRF** (doctoral), **Ramanujan & VAJRA** (diaspora return), **Ramalingaswami** (DBT bio-diaspora), **VAIBHAV** fellowships (2023).
@@ -120,3 +167,6 @@ Use §5 numbers as the tension; ONOS/ANRF/AIM as counters; end with GII rise 81 
 8. **KIRAN/WISE-KIRAN, GATI, Vigyan Jyoti = women-in-science** (all DST).
 9. **INSPIRE-MANAK** — school innovation (DST); **AIM/ATL** — NITI Aayog (don't swap ⭐).
 10. **IN-SPACe** (2020) — private-space regulator; Indian Space Policy **2023**.
+11. **Budget 2026-27:** Ministry of S&T **≈₹38,261 cr**; **Deep-Tech Fund of Funds** launched; **Bharat Innovates 2026** (PM, 17 Feb 2026, India–France Year of Innovation).
+12. **NITI Frontier Tech Hub** — "**India's Technology Services — Reimagination Ahead**" (Feb 2026): **$265 bn → $750–850 bn by 2035**, five plays (Agentic AI etc.).
+13. **NLST (2-m solar, Merak)** & **NLOT (13.7-m, Hanle)** — new Ladakh telescopes (Budget 2026-27); **DOT Devasthal (3.6 m) = India's largest optical**; **MACE (Hanle) = world's highest Cherenkov**; **GMRT = radio (Pune)**.
