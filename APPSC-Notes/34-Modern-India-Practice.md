@@ -1,6 +1,6 @@
 # 34 · Part-A Modern India Practice — Master Timeline, Match-Pairs, MCQs, Mains Skeletons (Files 27–33)
 
-[← Independence, Partition & After](33-Independence-Partition-India-After-1947.md) · [Index](README.md)
+[← Independence, Partition & After](33-Independence-Partition-India-After-1947.md) · [Index](README.md) · [Next: Ancient Andhra I →](35-Ancient-Andhra-Satavahanas-to-Vishnukundins.md)
 
 ---
 
@@ -75,4 +75,4 @@
 
 *Part-A modern sources to cross-check: Bipan Chandra et al., "India's Struggle for Independence" and "India Since Independence"; Spectrum, "A Brief History of Modern India"; Sumit Sarkar, "Modern India"; Ramachandra Guha, "India After Gandhi"; NCERT XII "Politics in India Since Independence".*
 
-[← Independence, Partition & After](33-Independence-Partition-India-After-1947.md) · [Index](README.md)
+[← Independence, Partition & After](33-Independence-Partition-India-After-1947.md) · [Index](README.md) · [Next: Ancient Andhra I →](35-Ancient-Andhra-Satavahanas-to-Vishnukundins.md)
