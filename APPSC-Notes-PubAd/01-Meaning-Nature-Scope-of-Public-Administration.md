@@ -136,8 +136,8 @@ Balanced close: the NPM era **borrowed private techniques** (targets, outsourcin
 | Layer | Signature institutions | What survived |
 |---|---|---|
 | **Mauryan/Kautilyan** (File 02) | Saptanga state, adhyakshas (departments), samaharta (revenue), espionage, dharmasthiya courts | Departmentalisation, revenue primacy, vigilance idea, welfare rhetoric of the state |
-| Classical interlude | **Chola village assemblies (Uttaramerur inscriptions)** — India's classic local self-government exhibit (see history series, [File 01](../APPSC-Notes/01-South-Indian-Dynasties.md)) | Panchayat imagination |
-| **Delhi Sultanate** (history series, [File 02](../APPSC-Notes/02-Delhi-Sultanate.md)) | Iqta assignments, diwan-i-wizarat, market control | Revenue-assignment logic the Mughals refined |
+| Classical interlude | **Chola village assemblies (Uttaramerur inscriptions)** — India's classic local self-government exhibit (see history series, [File 09](../APPSC-Notes/09-South-Indian-Dynasties.md)) | Panchayat imagination |
+| **Delhi Sultanate** (history series, [File 10](../APPSC-Notes/10-Delhi-Sultanate.md)) | Iqta assignments, diwan-i-wizarat, market control | Revenue-assignment logic the Mughals refined |
 | **Mughal** (File 03) | Mansabdari–jagirdari, diwan/mir bakhshi, suba–sarkar–pargana, **patwari–qanungo records**, Todar Mal's dahsala | Revenue vocabulary & village records, district-tier offices, secretariat habits |
 | **British** (File 04) | ICS "steel frame", **District Collector**, Police Act 1861, codified law & courts, budget & audit, Ripon's local self-government | Almost the whole skeleton of today's administration |
 | **Constitutional** | All-India Services (Art. 312), UPSC/State PSCs, CAG, Panchayati Raj (73rd/74th) | The inherited frame, repurposed for welfare & democracy |

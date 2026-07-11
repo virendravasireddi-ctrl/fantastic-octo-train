@@ -85,7 +85,7 @@ Akbar organised the empire into **12 subas (1580)** → 15 by his death → **~2
 
 ## 7. Deccan & AP tie-in (bridge to the history series)
 
-- Aurangzeb annexed **Bijapur (1686)** and **Golconda (1687)** → the Telugu country entered the Mughal frame as part of the **Deccan subas**; see history series [File 09 — Bahmani & Qutb Shahi](../APPSC-Notes/09-Bahmani-and-Qutb-Shahi.md).
+- Aurangzeb annexed **Bijapur (1686)** and **Golconda (1687)** → the Telugu country entered the Mughal frame as part of the **Deccan subas**; see history series [File 17 — Bahmani & Qutb Shahi](../APPSC-Notes/17-Bahmani-and-Qutb-Shahi.md).
 - 1724: **Nizam-ul-Mulk Asaf Jah**, Mughal viceroy of the Deccan, became effectively independent → the **Hyderabad state** within which Telangana lived until 1948 — Mughal provincial administration (suba diwan, faujdars, Persian records) persisting there into the 20th century.
 
 ## 8. Assessment and legacy
