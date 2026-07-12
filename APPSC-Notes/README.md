@@ -2,7 +2,7 @@
 
 **Target exams:** APPSC Group-I (Mains – History, Culture & Geography of India and AP) and Group-II (Screening/Mains – History, Culture & AP Geography). Also useful for AP-relevant sections of other state exams.
 
-This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25; Unit 6 — social geography, files 26–30; Unit 7 — fauna & floral geography, files 31–35)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
+This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25; Unit 6 — social geography, files 26–30; Unit 7 — fauna & floral geography, files 31–35; Unit 8 — environmental geography, files 36–40)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
 
 ## Syllabus items covered
 
@@ -17,6 +17,8 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 > **Social Geography —** *"Population Movements and Distribution, Human Habitations, Density, Age, Sex, Rural, Urban, Race, Caste, Tribe, Religion, Linguistic composition, Urban Migration, Education characteristics."*
 
 > **Fauna & Floral Geography —** *"Wild Animals, Animals, Birds, Reptiles, Mammals, Trees and Plants and others."*
+
+> **Environmental Geography —** *"Sustainable Development, Globalization, Temperature, Humidity, Cloudiness, Winds, Special Weather Phenomena, Natural Hazards — Earthquakes, Landslides, Floods, Cyclones, Cloudburst, Disaster Management, Impact Assessment, Environmental Pollution."*
 
 ## How these notes are organised
 
@@ -123,6 +125,20 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 | [34-Wildlife-Conservation-Insitu-Exsitu-Projects.md](34-Wildlife-Conservation-Insitu-Exsitu-Projects.md) | **In-situ vs ex-situ**; PA network & biosphere/Ramsar; **Project Tiger evaluation (2020 PYQ)** & other projects; WPA 1972/BD Act 2002/FCA 1980; CITES-CMS-Ramsar-CBD; **India forest-conservation & AP in-situ / wildlife conservation (2023 & 2025 PYQs)** | ⭐⭐⭐ (most-tested file) |
 | [35-Fauna-Flora-Revision-and-Practice.md](35-Fauna-Flora-Revision-and-Practice.md) | National/AP symbols table, India superlatives, AP protected-area roll call, endemic-species darts, 15 MCQs with key, skeletons for **all five item-14 PYQs** + two predicted, last-mile checklist | Revision aid |
 
+### Unit 8 — Environmental Geography of India and Andhra Pradesh
+
+> *"Sustainable Development, Globalization, Temperature, Humidity, Cloudiness, Winds, Special Weather Phenomena, Natural Hazards — Earthquakes, Landslides, Floods, Cyclones, Cloudburst, Disaster Management, Impact Assessment, Environmental Pollution."*
+
+**Geography's densest PYQ zone** — sustainable development & pollution (2020), EIA & drought (2023), Rayalaseema drought & APPCB (2025), plus the cross-listed AP cyclone/flood question (2025 Q14b). Files 38–39 hold every one of those answers to full depth.
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [36-Weather-Elements-and-Special-Phenomena.md](36-Weather-Elements-and-Special-Phenomena.md) | Temperature, humidity, cloudiness & winds (controls, jet streams, local winds); **special phenomena — El Niño/La Niña, IOD, MJO, western disturbances, heat/cold waves, lightning** that drive the hazards | ⭐⭐ |
+| [37-Natural-Hazards-Earthquakes-Landslides-Floods.md](37-Natural-Hazards-Earthquakes-Landslides-Floods.md) | Hazard vs disaster; **earthquakes** (waves, BIS zones, AP Zone II/III), **landslides** (Eastern-Ghats agency), **floods** (Godavari-Krishna, 2009 Kurnool, Budameru) & **cloudbursts**; the mitigation ladder | ⭐⭐ |
+| [38-Cyclones-Droughts-Disaster-Management.md](38-Cyclones-Droughts-Disaster-Management.md) | **Cyclones** (mechanism, Bay alley, Diviseema→Michaung, evacuation model — 2025 Q14b); **droughts** (types, prone areas — 2023 PYQ; **Rayalaseema vulnerability & consequences — 2025 PYQ**); **DM Act 2005 framework** (NDMA/SDMA/DDMA, Sendai, APSDMA) | ⭐⭐⭐ (AP-core) |
+| [39-Pollution-EIA-Sustainable-Development-Globalization.md](39-Pollution-EIA-Sustainable-Development-Globalization.md) | **Pollution factors (2020 PYQ)** & framework; **APPCB post-disaster pollution management (2025 PYQ)** + LG Polymers 2020; **EIA evaluation (2023 PYQ)**; **sustainable development (2020 PYQ)** (Brundtland→SDGs); globalization & the environment | ⭐⭐⭐ (four PYQs) |
+| [40-Environmental-Geography-Revision-and-Practice.md](40-Environmental-Geography-Revision-and-Practice.md) | Concept one-liners, AP hazard flashcards, 15 MCQs with key, skeletons for **all six item-15 PYQs** + the cross-listed cyclone/flood question + one predicted, last-mile checklist, and the **Geography series wrap** | Revision aid |
+
 ## Companion material (other series & essays)
 
 **Deep-dive essays (Mains enrichment):**
@@ -153,6 +169,7 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 13. **Economic Geography add-on (5 days):** Day 27 — File 21 (crops table + write the Green Revolution PYQ under time); Day 28 — File 22 (breeds + fisheries kit); Day 29 — File 23 (mining economy + build GI-craft flashcards); Day 30 — File 24 (industry-by-industry with AP anchors; write the AP-manufacturing PYQ); Day 31 — File 25 (Sagarmala + AP ports + transport superlatives) + Unit-5 MCQs + 2 Mains answers. Here map practice means **economic maps**: crops, ports, corridors, industrial towns and GI-craft villages on the AP outline.
 14. **Social Geography add-on (4 days):** Day 32 — File 26 (master table from memory + write the demographic-dividend PYQ); Day 33 — Files 27 & 28 (migration streams; settlement types grid; write the rural-settlements PYQ); Day 34 — File 29 (SC/ST/religion/language composition — build the district-superlatives flashcards); Day 35 — File 30 MCQs + 2 timed Mains answers (AP urbanisation; tribal AP). Map practice: district density, urban corridor, agency belt and ITDA headquarters on the AP outline.
 15. **Fauna & Floral Geography add-on (4 days):** Day 36 — File 31 (biogeography zones, hotspots, the "AP in no hotspot" point) + File 32 (fauna groups + AP flagship table); Day 37 — File 33 (trees, endemic plants, mangroves) + start File 34; Day 38 — File 34 (in-situ vs ex-situ, Project Tiger evaluation, laws & conventions — write the forest-conservation PYQ); Day 39 — File 35 MCQs + 2 timed Mains answers (AP in-situ conservation; AP national-park flora-fauna). Map practice: mark AP's national parks, NSTR, Seshachalam BR, Rollapadu, Coringa, Kolleru and Pulicat on the outline.
+16. **Environmental Geography add-on (4 days):** Day 40 — File 36 (weather elements + special phenomena) + File 37 (earthquakes, landslides, floods, cloudbursts); Day 41 — File 38 (cyclones, droughts + DM Act 2005 — write the Rayalaseema-drought PYQ); Day 42 — File 39 (pollution, EIA, sustainable development, globalization — write the EIA and APPCB PYQs); Day 43 — File 40 MCQs + 2 timed Mains answers (sustainable development; AP cyclone/flood vulnerability) + the Geography series wrap. Practice linking each **special weather phenomenon to its hazard** (El Niño→drought; warm Bay→cyclone).
 
 ## Exam-craft notes
 
