@@ -1,6 +1,6 @@
 # 20 · Forests, Mountains & Hills, Flora and Fauna — India & AP (Plateau Forests, Hill Forests, Vegetation Classification) + Unit-4 Practice
 
-[← AP geology & minerals](19-AP-Geology-Mineral-Resources.md) · [Index](README.md)
+[← AP geology & minerals](19-AP-Geology-Mineral-Resources.md) · [Index](README.md) · [Next: Agriculture (Economic Geography) →](21-Agriculture-India-and-AP.md)
 
 ---
 

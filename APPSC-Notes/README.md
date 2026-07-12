@@ -2,7 +2,7 @@
 
 **Target exams:** APPSC Group-I (Mains – History, Culture & Geography of India and AP) and Group-II (Screening/Mains – History, Culture & AP Geography). Also useful for AP-relevant sections of other state exams.
 
-This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4, files 16–20)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
+This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
 
 ## Syllabus items covered
 
@@ -11,6 +11,8 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 > **History —** *"The Pallavas, the Badami Chalukyas, the Eastern Chalukyas, the Rashtrakutas, the Kalyani Chalukyas and the Cholas — Socio-Cultural Contributions, Language, Literature, Art and Architecture — Delhi Sultanates — Advent of Islam and its Impact — Religious Movements like Bhakti and Sufi and Its Influence — Growth of Vernacular Languages, Scripts, Literature, Fine Arts — Socio-Cultural Conditions of the Kakatiyas, the Vijayanagaras, the Bahmanis, the Qutubshahis and their contemporary South Indian kingdoms — The Mughals: Administration, Socio-Religious life and Cultural developments — Shivaji and Rise of the Maratha Empire — Advent of the Europeans in India."*
 
 > **Geography —** *"Physical Features and Resources: India and Andhra Pradesh — Major landforms, Climatic changes, Soil types, Rivers, Water, Streams, Geology, Rocks, Mineral Resources, Metals, Clays, Construction Materials, Reservoirs, Dams — Forests, Mountains, Hills, Flora and fauna, Plateau Forests, Hill Forests, Vegetation Classification."*
+
+> **Economic Geography —** *"Agriculture, Livestock, Forestry, Fishery, Quarrying, Mining, Household Manufacturing, Industries — Agro, Mineral, Forest, Fuel and Man Power — Trade and Commerce, Communication, Road Transport, Storage and others."*
 
 ## How these notes are organised
 
@@ -75,6 +77,20 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 | [19-AP-Geology-Mineral-Resources.md](19-AP-Geology-Mineral-Resources.md) | Dharwar craton, Cuddapah basin, Eastern Ghats khondalites, KG basin; Mangampeta barytes, Tummalapalle uranium, diamonds, beach sands, clays, Black Galaxy granite; Samata 1997 | ⭐⭐⭐ (AP-core) |
 | [20-Forests-Hills-Flora-Fauna.md](20-Forests-Hills-Flora-Fauna.md) | Vegetation classification (NCERT 5-type + Champion-Seth), ISFR data; plateau vs hill forests; AP hills→forests→species table; protected areas; Unit-4 MCQs & Mains skeletons | ⭐⭐⭐ + revision |
 
+### Unit 5 — Economic Geography of India and Andhra Pradesh
+
+> *"Agriculture, Livestock, Forestry, Fishery, Quarrying, Mining, Household Manufacturing, Industries — Agro, Mineral, Forest, Fuel and Man Power — Trade and Commerce, Communication, Road Transport, Storage and others."*
+
+**This sub-heading has produced a Paper-II question in every verified cycle** — Green Revolution & fisheries (2020), Sagarmala & AP sea-ports (2023), AP agriculture-vs-climate-change & AP manufacturing (2025). Every PYQ has a ready skeleton in File 25.
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [21-Agriculture-India-and-AP.md](21-Agriculture-India-and-AP.md) | Frame numbers, seasons & farming types; crop-wise India+AP table (Maruteru's Swarna, Guntur chillies, oil palm); **Green Revolution full kit (2020 PYQ)**; irrigation & agro-climatic zones; **AP agriculture vs climate change (2025 PYQ)**; policy bank | ⭐⭐⭐ |
+| [22-Livestock-Forestry-Fishery.md](22-Livestock-Forestry-Fishery.md) | Livestock census & White Revolution; **Ongole→Nelore, Punganur** breed bank; forestry economics (GCC, NTFP, farm forestry); **fisheries management & development (2020 PYQ)**; AP as India's No. 1 aqua state | ⭐⭐⭐ (AP-core) |
+| [23-Mining-Quarrying-Household-Manufacturing.md](23-Mining-Quarrying-Household-Manufacturing.md) | MMDR-DMF frame; AP "Ratna Garbha" economy (Mangampeta, Chipurupalle 1892); quarrying (Black Galaxy, Markapur slates); household manufacturing; **AP handloom-handicraft GI flashcard bank (two Kalamkaris, Kondapalli, Bobbili veena…)** | ⭐⭐⭐ (Prelims pair bank) |
+| [24-Industries-Agro-Mineral-Forest-Fuel-Manpower.md](24-Industries-Agro-Mineral-Forest-Fuel-Manpower.md) | Industry classification & location logic; agro/forest/mineral/fuel/man-power industries India→AP (RINL story, HPCL, cement belts, Kia, Sri City, AMTZ, pharma); **AP manufacturing sectors (2025 PYQ)**; Visakhapatnam–Guntur NCERT industrial region | ⭐⭐⭐ (AP-core) |
+| [25-Trade-Transport-Communication-Storage-Practice.md](25-Trade-Transport-Communication-Storage-Practice.md) | Trade & commerce; **Sagarmala and AP sea-ports (both 2023 PYQs)**; communication; road transport (NH-16, APSRTC); storage (FCI-CWC-APSWC, e-NWR); rail-air-water-pipelines (SCoR Vizag, NW-4, Buckingham canal); Unit-5 MCQs & Mains skeletons | ⭐⭐⭐ + revision |
+
 ## Companion material (other series & essays)
 
 **Deep-dive essays (Mains enrichment):**
@@ -102,12 +118,13 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 10. **Day 17:** File 12 (religious policy + Sikhism; architecture-painting-music). **Day 18:** File 13 (Shivaji + Ashtapradhan + Peshwas + Panipat).
 11. **Day 19:** File 14 (Europeans + Carnatic Wars + the Andhra/Circars angle). **Day 20:** File 15 synthesis + MCQs; write 2–3 Unit-3 Mains answers and re-run the checklist.
 12. **Geography add-on (6 days):** Day 21 — File 16 (landforms + climate); Day 22 — File 16 (soils + rivers) & File 17 (geology); Day 23 — File 17 (minerals, clays, dams); Days 24–25 — Files 18 & 19 (AP core — make your own district-wise mineral and river-project maps); Day 26 — File 20 + MCQs + 2 Mains answers. Geography rewards **map practice**: mark AP's hills, rivers, projects and mineral sites on a blank outline daily.
+13. **Economic Geography add-on (5 days):** Day 27 — File 21 (crops table + write the Green Revolution PYQ under time); Day 28 — File 22 (breeds + fisheries kit); Day 29 — File 23 (mining economy + build GI-craft flashcards); Day 30 — File 24 (industry-by-industry with AP anchors; write the AP-manufacturing PYQ); Day 31 — File 25 (Sagarmala + AP ports + transport superlatives) + Unit-5 MCQs + 2 Mains answers. Here map practice means **economic maps**: crops, ports, corridors, industrial towns and GI-craft villages on the AP outline.
 
 ## Exam-craft notes
 
-- **Prelims/Screening:** APPSC repeatedly asks *author–work*, *temple–builder*, *inscription–ruler*, *traveller–ruler*, *title–ruler* (and in Geography *mineral–district*, *river–project*, *soil–crop*) matches. Every such pair in these notes is **bolded** — harvest them into flashcards.
+- **Prelims/Screening:** APPSC repeatedly asks *author–work*, *temple–builder*, *inscription–ruler*, *traveller–ruler*, *title–ruler* (and in Geography *mineral–district*, *river–project*, *soil–crop*, *crop–district*, *craft–GI-town*, *industry–location*, *port–specialty*) matches. Every such pair in these notes is **bolded** — harvest them into flashcards.
 - **Mains:** answers score when they (a) open with a periodised thesis line (or, in Geography, a locational/spatial frame), (b) give 2–3 *specific* pieces of evidence (an inscription, a temple, a text; or a district, a project, a figure), (c) close with significance/legacy — ideally an **Andhra tie-in** (Vengi, Telugu, Warangal 1323, Annamayya, Dakhni; Golconda 1687, Shivaji's 1677 Golconda alliance, Masulipatnam, Madras-from-Chandragiri, the Northern Circars, Bobbili 1757; Polavaram, Mangampeta, Tummalapalle, KG basin).
 - **Spellings:** exam-standard anglicised forms are used (Chalukya, Rashtrakuta, Alauddin) — no diacritics.
 - **Dates:** early-medieval dates are conventional; where scholarship disputes a "fact" (e.g., Koh-i-noor from Warangal, sitar invented by Amir Khusrau), the notes flag it — write "tradition holds…" in Mains.
 
-*Compiled July 2026. Cross-check against latest Telugu Akademi / NCERT (Satish Chandra, "Medieval India"; "India: Physical Environment" XI), ISFR and AP Socio-Economic Survey editions before the exam.*
+*Compiled July 2026. Cross-check against latest Telugu Akademi / NCERT (Satish Chandra, "Medieval India"; "India: Physical Environment" XI; "India — People and Economy" XII), ISFR, Economic Survey and AP Socio-Economic Survey editions before the exam. Economic-geography figures move every year — quote them as "about" and re-verify.*
