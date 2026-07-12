@@ -2,7 +2,7 @@
 
 **Target exams:** APPSC Group-I (Mains – History, Culture & Geography of India and AP) and Group-II (Screening/Mains – History, Culture & AP Geography). Also useful for AP-relevant sections of other state exams.
 
-This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25; Unit 6 — social geography, files 26–30)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
+This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25; Unit 6 — social geography, files 26–30; Unit 7 — fauna & floral geography, files 31–35)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
 
 ## Syllabus items covered
 
@@ -15,6 +15,8 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 > **Economic Geography —** *"Agriculture, Livestock, Forestry, Fishery, Quarrying, Mining, Household Manufacturing, Industries — Agro, Mineral, Forest, Fuel and Man Power — Trade and Commerce, Communication, Road Transport, Storage and others."*
 
 > **Social Geography —** *"Population Movements and Distribution, Human Habitations, Density, Age, Sex, Rural, Urban, Race, Caste, Tribe, Religion, Linguistic composition, Urban Migration, Education characteristics."*
+
+> **Fauna & Floral Geography —** *"Wild Animals, Animals, Birds, Reptiles, Mammals, Trees and Plants and others."*
 
 ## How these notes are organised
 
@@ -107,6 +109,20 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 | [29-Race-Caste-Tribe-Religion-Language-Education.md](29-Race-Caste-Tribe-Religion-Language-Education.md) | Risley/Guha race schemes; **SC composition & 2024-25 sub-classification; ST/tribal AP (2020 PYQ) — agency vs plains, ITDA-LTR-GCC grid; religion & language maps (Telugu 4th, Munda islands); AP's literacy paradox** | ⭐⭐⭐ (2025 PYQ answered here) |
 | [30-Social-Geography-Revision-and-Practice.md](30-Social-Geography-Revision-and-Practice.md) | India-vs-AP master table, district superlatives, concept one-liners, 15 MCQs with key, skeletons for **all six Unit-6 PYQs** + two predicted, last-mile checklist | Revision aid |
 
+### Unit 7 — Fauna & Floral Geography of India and Andhra Pradesh
+
+> *"Wild Animals, Animals, Birds, Reptiles, Mammals, Trees and Plants and others."*
+
+**A question every cycle** — Project Tiger evaluation / AP national-park flora-fauna (2020), India forest-conservation / AP in-situ conservation (2023), AP wildlife conservation & biodiversity (2025). Builds on File 20 (vegetation types, ISFR, AP protected-area roll call) and goes deeper on the biological and conservation dimensions where the PYQs live.
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [31-Biodiversity-and-Biogeography.md](31-Biodiversity-and-Biogeography.md) | Biodiversity levels & India as megadiverse; zoogeographic realms (Oriental); phytogeographic regions; **Rodgers-Panwar 10 zones/27 provinces (AP = Deccan + Coasts)**; **4 hotspots — the "AP in none" trick**; Eastern-Ghats endemism; IUCN Red List | ⭐⭐⭐ (frame for the unit) |
+| [32-Faunal-Geography-Wild-Animals-Birds-Reptiles-Mammals.md](32-Faunal-Geography-Wild-Animals-Birds-Reptiles-Mammals.md) | National animal symbols; mammals, birds, reptiles, amphibians & fish India→AP; **AP flagship/endemic table — GIB, Jerdon's courser, fishing cat, golden gecko, olive ridley, Koundinya elephants** | ⭐⭐⭐ (AP-core) |
+| [33-Floral-Geography-Trees-Plants-Forests-Medicinal.md](33-Floral-Geography-Trees-Plants-Forests-Medicinal.md) | National plant symbols; economic & ecological trees (teak, red sanders, bamboo, mangroves); **AP endemic plants — red sanders, *Cycas beddomei*, *Syzygium alternifolium***; grasslands, wetland-mangrove-marine & medicinal flora | ⭐⭐⭐ |
+| [34-Wildlife-Conservation-Insitu-Exsitu-Projects.md](34-Wildlife-Conservation-Insitu-Exsitu-Projects.md) | **In-situ vs ex-situ**; PA network & biosphere/Ramsar; **Project Tiger evaluation (2020 PYQ)** & other projects; WPA 1972/BD Act 2002/FCA 1980; CITES-CMS-Ramsar-CBD; **India forest-conservation & AP in-situ / wildlife conservation (2023 & 2025 PYQs)** | ⭐⭐⭐ (most-tested file) |
+| [35-Fauna-Flora-Revision-and-Practice.md](35-Fauna-Flora-Revision-and-Practice.md) | National/AP symbols table, India superlatives, AP protected-area roll call, endemic-species darts, 15 MCQs with key, skeletons for **all five item-14 PYQs** + two predicted, last-mile checklist | Revision aid |
+
 ## Companion material (other series & essays)
 
 **Deep-dive essays (Mains enrichment):**
@@ -136,6 +152,7 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 12. **Geography add-on (6 days):** Day 21 — File 16 (landforms + climate); Day 22 — File 16 (soils + rivers) & File 17 (geology); Day 23 — File 17 (minerals, clays, dams); Days 24–25 — Files 18 & 19 (AP core — make your own district-wise mineral and river-project maps); Day 26 — File 20 + MCQs + 2 Mains answers. Geography rewards **map practice**: mark AP's hills, rivers, projects and mineral sites on a blank outline daily.
 13. **Economic Geography add-on (5 days):** Day 27 — File 21 (crops table + write the Green Revolution PYQ under time); Day 28 — File 22 (breeds + fisheries kit); Day 29 — File 23 (mining economy + build GI-craft flashcards); Day 30 — File 24 (industry-by-industry with AP anchors; write the AP-manufacturing PYQ); Day 31 — File 25 (Sagarmala + AP ports + transport superlatives) + Unit-5 MCQs + 2 Mains answers. Here map practice means **economic maps**: crops, ports, corridors, industrial towns and GI-craft villages on the AP outline.
 14. **Social Geography add-on (4 days):** Day 32 — File 26 (master table from memory + write the demographic-dividend PYQ); Day 33 — Files 27 & 28 (migration streams; settlement types grid; write the rural-settlements PYQ); Day 34 — File 29 (SC/ST/religion/language composition — build the district-superlatives flashcards); Day 35 — File 30 MCQs + 2 timed Mains answers (AP urbanisation; tribal AP). Map practice: district density, urban corridor, agency belt and ITDA headquarters on the AP outline.
+15. **Fauna & Floral Geography add-on (4 days):** Day 36 — File 31 (biogeography zones, hotspots, the "AP in no hotspot" point) + File 32 (fauna groups + AP flagship table); Day 37 — File 33 (trees, endemic plants, mangroves) + start File 34; Day 38 — File 34 (in-situ vs ex-situ, Project Tiger evaluation, laws & conventions — write the forest-conservation PYQ); Day 39 — File 35 MCQs + 2 timed Mains answers (AP in-situ conservation; AP national-park flora-fauna). Map practice: mark AP's national parks, NSTR, Seshachalam BR, Rollapadu, Coringa, Kolleru and Pulicat on the outline.
 
 ## Exam-craft notes
 

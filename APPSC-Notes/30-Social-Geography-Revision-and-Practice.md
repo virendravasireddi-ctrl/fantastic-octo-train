@@ -1,6 +1,6 @@
 # 30 · Social Geography V — Master Tables, Unit-6 Revision & Practice
 
-[← Race, caste, tribe, religion, language, education](29-Race-Caste-Tribe-Religion-Language-Education.md) · [Index](README.md)
+[← Race, caste, tribe, religion, language, education](29-Race-Caste-Tribe-Religion-Language-Education.md) · [Index](README.md) · [Next: Biodiversity & biogeography (Fauna & Flora) →](31-Biodiversity-and-Biogeography.md)
 
 ⭐ The unit-closer: superlatives tables, MCQs, Mains skeletons for every Unit-6 PYQ, and the last-mile checklist. All census figures = **2011** (AP in the **13-district frame**); flag the **2027 digital + caste census** in every answer's closing line.
 
