@@ -2,9 +2,11 @@
 
 **Target exams:** APPSC Group-I Mains (Economy of India and AP) and Group-II (Economy sections). The unit below appears in APPSC syllabi under "Resource Mobilization in Indian Economy".
 
-## Syllabus item covered
+## Syllabus items covered
 
-> *"Resource Mobilization in Indian Economy: Sources of financial resources for public and private sectors — budgetary resources — tax revenue and non-tax revenue — public debt: market borrowings, loans and grants etc., external debt from multilateral agencies — foreign institutional investment and foreign direct investment — desirability and consequences of utilizing different sources — Monetary and fiscal policies — financial markets and institutions of developmental finance — investment in industries and infrastructure projects — Physical resources — Energy resources."*
+> *"Resource Mobilization in Indian Economy: Sources of financial resources for public and private sectors — budgetary resources — tax revenue and non-tax revenue — public debt: market borrowings, loans and grants etc., external debt from multilateral agencies — foreign institutional investment and foreign direct investment — desirability and consequences of utilizing different sources — Monetary and fiscal policies — financial markets and institutions of developmental finance — investment in industries and infrastructure projects — Physical resources — Energy resources."* **(Files 01–08)**
+
+> *"Resource mobilization in Andhra Pradesh — Budgetary resources and constraints — Fulfillment of the conditions of A.P. Bifurcation Act — central assistance and issues of conflict — public debt and projects of external assistance — Physical resources — Mineral and forest resources — Water disputes with neighboring states."* **(Files 09–14, the AP unit)**
 
 ## How these notes are organised
 
@@ -19,6 +21,11 @@
 | [07-Physical-and-Energy-Resources.md](07-Physical-and-Energy-Resources.md) | Land, water, minerals (policy + AP mineral wealth), energy: capacity vs generation, coal-oil-gas-hydro-nuclear, renewables & missions, the 50% non-fossil milestone, AP energy box | ⭐⭐⭐ (AP energy/minerals are AP-core) |
 | [08-Economy-Revision-and-Practice.md](08-Economy-Revision-and-Practice.md) | Classification trees, deficits ladder, sources master-verdict table, DFI timeline, years list, 15 MCQs with key, 10 Mains skeletons, last-mile checklist | Revision aid |
 | [09-AP-State-Finances-Assessment.md](09-AP-State-Finances-Assessment.md) | "Is AP's fiscal position really that bad?" — the technical audit: indicator framework, deficits/debt/guarantees/off-budget numbers (year-labelled), RBI stress classification, White Paper vs official books, verdict table, Mains skeletons | ⭐⭐⭐ (AP-core; feeds every AP tie-in) |
+| [10-AP-Budgetary-Resources-and-Constraints.md](10-AP-Budgetary-Resources-and-Constraints.md) | AP receipts map (SGST/excise/transfers), the six sources, constraint anatomy (bifurcation wound, ceilings, welfare stack), mobilization responses (LPS-Amaravati, P4, Swarnandhra 2047) | ⭐⭐⭐ |
+| [11-AP-Reorganisation-Act-Central-Assistance-and-Conflicts.md](11-AP-Reorganisation-Act-Central-Assistance-and-Conflicts.md) | APRA 2014 section map, 13th-Schedule fulfilment scoreboard (done vs pending), SCS saga & 2016 in-lieu measure, central assistance flows, AP-Centre and AP-Telangana conflicts (Schedules IX/X, power dues) | ⭐⭐⭐ (AP-core) |
+| [12-AP-Public-Debt-and-External-Assistance.md](12-AP-Public-Debt-and-External-Assistance.md) | How AP borrows (SDL/293(3)/off-budget), EAP portfolio: 1998 WB restructuring loan → 2019 pull-out → 2024 Amaravati WB+ADB ≈$1.6 bn, VCIC, NDB roads; desirability test for a stressed state | ⭐⭐⭐ |
+| [13-AP-Mineral-and-Forest-Resources.md](13-AP-Mineral-and-Forest-Resources.md) | Minerals as revenue & industry (Mangampeta, Tummalapalle, KG basin), MMDR/DMF, *Samata* & tribal rights, forests: red sanders economy, GCC/NTFP, cover data | ⭐⭐⭐ |
+| [14-AP-Water-Disputes.md](14-AP-Water-Disputes.md) | Krishna (KWDT-I/II, 66:34, S.89 reference), Godavari (GWDT, Polavaram objections, Banakacherla ⭐ current), Vamsadhara award, Telugu Ganga cooperation case, legal frame Art. 262/ISRWD + APRA SS.84-90 | ⭐⭐⭐ (AP-core) |
 
 **Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) (Medieval History & Deccan) and [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration — Kautilya's revenue state, Mughal land revenue and the British settlements are the historical ancestors of this unit's fiscal machinery).
 
@@ -33,6 +40,7 @@
 7. **Day 7:** File 07 — minerals & energy (make the AP boxes into flashcards).
 8. **Day 8:** File 08 — MCQs + 2 timed Mains answers.
 9. **Day 9 (or with Day 8):** File 09 — reproduce the AP verdict table from memory; it doubles as the AP tie-in bank for every other file's Mains answers.
+10. **Days 10–12 (the AP unit):** Files 10–11 (budget sources + Bifurcation Act scoreboard — make the done/pending table a flashcard set), then 12–13 (EAP portfolio + minerals/forests), then 14 (water disputes — draw the Krishna timeline and the Banakacherla map from memory).
 
 ## Exam-craft notes
 
