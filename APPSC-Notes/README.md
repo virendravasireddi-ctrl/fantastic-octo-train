@@ -2,7 +2,7 @@
 
 **Target exams:** APPSC Group-I (Mains – History, Culture & Geography of India and AP) and Group-II (Screening/Mains – History, Culture & AP Geography). Also useful for AP-relevant sections of other state exams.
 
-This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
+This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) through History (Units 1–3, files 01–15)** and then **Geography of India & AP (Unit 4 — physical, files 16–20; Unit 5 — economic geography, files 21–25; Unit 6 — social geography, files 26–30)**. For the **Public Administration** and **Economy** papers and the deep-dive essays, see [Companion material](#companion-material-other-series--essays) below.
 
 ## Syllabus items covered
 
@@ -13,6 +13,8 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 > **Geography —** *"Physical Features and Resources: India and Andhra Pradesh — Major landforms, Climatic changes, Soil types, Rivers, Water, Streams, Geology, Rocks, Mineral Resources, Metals, Clays, Construction Materials, Reservoirs, Dams — Forests, Mountains, Hills, Flora and fauna, Plateau Forests, Hill Forests, Vegetation Classification."*
 
 > **Economic Geography —** *"Agriculture, Livestock, Forestry, Fishery, Quarrying, Mining, Household Manufacturing, Industries — Agro, Mineral, Forest, Fuel and Man Power — Trade and Commerce, Communication, Road Transport, Storage and others."*
+
+> **Social Geography —** *"Population Movements and Distribution, Human Habitations, Density, Age, Sex, Rural, Urban, Race, Caste, Tribe, Religion, Linguistic composition, Urban Migration, Education characteristics."*
 
 ## How these notes are organised
 
@@ -91,6 +93,20 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 | [24-Industries-Agro-Mineral-Forest-Fuel-Manpower.md](24-Industries-Agro-Mineral-Forest-Fuel-Manpower.md) | Industry classification & location logic; agro/forest/mineral/fuel/man-power industries India→AP (RINL story, HPCL, cement belts, Kia, Sri City, AMTZ, pharma); **AP manufacturing sectors (2025 PYQ)**; Visakhapatnam–Guntur NCERT industrial region | ⭐⭐⭐ (AP-core) |
 | [25-Trade-Transport-Communication-Storage-Practice.md](25-Trade-Transport-Communication-Storage-Practice.md) | Trade & commerce; **Sagarmala and AP sea-ports (both 2023 PYQs)**; communication; road transport (NH-16, APSRTC); storage (FCI-CWC-APSWC, e-NWR); rail-air-water-pipelines (SCoR Vizag, NW-4, Buckingham canal); Unit-5 MCQs & Mains skeletons | ⭐⭐⭐ + revision |
 
+### Unit 6 — Social Geography of India and Andhra Pradesh
+
+> *"Population Movements and Distribution, Human Habitations, Density, Age, Sex, Rural, Urban, Race, Caste, Tribe, Religion, Linguistic composition, Urban Migration, Education characteristics."*
+
+**A question every cycle here too** — rural-urban & tribal AP (2020), demographic dividend & rural settlements (2023), AP distribution-urbanisation & SC/ST/religion (2025). Base year is Census 2011 (residual-AP, 13-district frame); every answer should close by flagging the **2027 digital, caste-enumerating census**.
+
+| File | Coverage | Weight for APPSC |
+|---|---|---|
+| [26-Population-Distribution-Density-Age-Sex.md](26-Population-Distribution-Density-Age-Sex.md) | India-vs-AP master numbers; distribution & density gradients (Krishna ~520 → Kadapa ~190); growth & transition (AP's 9.21%); **demographic dividend (2023 PYQ)**; sex ratio (AP 997); ageing & NFHS vitals | ⭐⭐⭐ |
+| [27-Migration-and-Population-Movements.md](27-Migration-and-Population-Movements.md) | Push-pull, Ravenstein-Lee; census migration facts (45.6 cr, marriage-dominant); **urban migration**, slums, COVID reverse flow, ONORC; diaspora & remittances; **AP's eight migration streams** (Hyderabad loss, Rayalaseema→Bengaluru, US Telugu, Polavaram displacement) | ⭐⭐⭐ (AP-core analysis) |
+| [28-Settlements-Habitations-Urbanisation.md](28-Settlements-Habitations-Urbanisation.md) | **Rural settlement types-factors-patterns (2023 PYQ)** with AP illustrations (-palem/-gudem suffixes); census/statutory towns, UAs, functional types; **rural-urban AP (2020 PYQ) & spatial urbanisation of AP (2025 PYQ)** — NH-16 necklace, missing metropolis | ⭐⭐⭐ (AP-core) |
+| [29-Race-Caste-Tribe-Religion-Language-Education.md](29-Race-Caste-Tribe-Religion-Language-Education.md) | Risley/Guha race schemes; **SC composition & 2024-25 sub-classification; ST/tribal AP (2020 PYQ) — agency vs plains, ITDA-LTR-GCC grid; religion & language maps (Telugu 4th, Munda islands); AP's literacy paradox** | ⭐⭐⭐ (2025 PYQ answered here) |
+| [30-Social-Geography-Revision-and-Practice.md](30-Social-Geography-Revision-and-Practice.md) | India-vs-AP master table, district superlatives, concept one-liners, 15 MCQs with key, skeletons for **all six Unit-6 PYQs** + two predicted, last-mile checklist | Revision aid |
+
 ## Companion material (other series & essays)
 
 **Deep-dive essays (Mains enrichment):**
@@ -119,6 +135,7 @@ This series runs **chronologically from Ancient India (Unit 0, files 00A–00H) 
 11. **Day 19:** File 14 (Europeans + Carnatic Wars + the Andhra/Circars angle). **Day 20:** File 15 synthesis + MCQs; write 2–3 Unit-3 Mains answers and re-run the checklist.
 12. **Geography add-on (6 days):** Day 21 — File 16 (landforms + climate); Day 22 — File 16 (soils + rivers) & File 17 (geology); Day 23 — File 17 (minerals, clays, dams); Days 24–25 — Files 18 & 19 (AP core — make your own district-wise mineral and river-project maps); Day 26 — File 20 + MCQs + 2 Mains answers. Geography rewards **map practice**: mark AP's hills, rivers, projects and mineral sites on a blank outline daily.
 13. **Economic Geography add-on (5 days):** Day 27 — File 21 (crops table + write the Green Revolution PYQ under time); Day 28 — File 22 (breeds + fisheries kit); Day 29 — File 23 (mining economy + build GI-craft flashcards); Day 30 — File 24 (industry-by-industry with AP anchors; write the AP-manufacturing PYQ); Day 31 — File 25 (Sagarmala + AP ports + transport superlatives) + Unit-5 MCQs + 2 Mains answers. Here map practice means **economic maps**: crops, ports, corridors, industrial towns and GI-craft villages on the AP outline.
+14. **Social Geography add-on (4 days):** Day 32 — File 26 (master table from memory + write the demographic-dividend PYQ); Day 33 — Files 27 & 28 (migration streams; settlement types grid; write the rural-settlements PYQ); Day 34 — File 29 (SC/ST/religion/language composition — build the district-superlatives flashcards); Day 35 — File 30 MCQs + 2 timed Mains answers (AP urbanisation; tribal AP). Map practice: district density, urban corridor, agency belt and ITDA headquarters on the AP outline.
 
 ## Exam-craft notes
 

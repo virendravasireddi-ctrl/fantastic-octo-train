@@ -1,6 +1,6 @@
 # 25 · Economic Geography V — Trade & Commerce, Communication, Road Transport, Storage & Others + Unit-5 Practice
 
-[← Industries](24-Industries-Agro-Mineral-Forest-Fuel-Manpower.md) · [Index](README.md)
+[← Industries](24-Industries-Agro-Mineral-Forest-Fuel-Manpower.md) · [Index](README.md) · [Next: Population distribution (Social Geography) →](26-Population-Distribution-Density-Age-Sex.md)
 
 ⭐⭐ Both 2023 PYQs came from this file (**Sagarmala**; **AP sea-ports**). "Others" in the syllabus = railways, air, water transport and pipelines — covered in §6. This file closes Unit 5 with MCQs, Mains skeletons and the last-mile checklist. It also overlaps Part-B sub-heading 10 (**bifurcation's impact on trade & industry** — 2020 Q10b).
 
