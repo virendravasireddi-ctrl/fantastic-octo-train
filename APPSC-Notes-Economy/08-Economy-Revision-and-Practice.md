@@ -1,6 +1,6 @@
 # 08 · Resource Mobilization — Master Tables, Years List, MCQs & Mains Practice
 
-[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Index](README.md)
+[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Index](README.md) · [Next: AP State Finances →](09-AP-State-Finances-Assessment.md)
 
 ---
 
@@ -97,4 +97,4 @@ GOVERNMENT RECEIPTS
 - [ ] AP energy: Kurnool/NP Kunta parks, Pinnapuram RE+PSP, Polavaram 960 MW, KG first oil 2024, SPR & GH2-hub Vizag
 - [ ] Minerals: MMDR 2015/2023, NCMM 2025, Reasi lithium; Mangampeta barytes, Tummalapalle uranium
 
-[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Index](README.md)
+[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Index](README.md) · [Next: AP State Finances →](09-AP-State-Finances-Assessment.md)
