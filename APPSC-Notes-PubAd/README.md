@@ -9,6 +9,8 @@
 > *"Development processes — the role of civil society, NGOs and other stakeholders."* — File 06
 >
 > *"9. Statutory, regulatory and various quasi-judicial authorities — Role of Civil Services in Democracy."* — Files 07–08
+>
+> *"Good governance and e-governance — Transparency, accountability and responsiveness in governance — Citizen's Charter, RTI, Public Service Act and their implications, Concept of Social Audit and its importance."* — File 09
 
 ## How these notes are organised
 
@@ -22,6 +24,7 @@
 | [06-Development-Processes-Civil-Society-NGOs-Stakeholders.md](06-Development-Processes-Civil-Society-NGOs-Stakeholders.md) | Development concept (growth → Sen/HDI → SDGs), civil-society thinkers (Tocqueville, Gramsci, Putnam), 7 functions of civil society, NGO evolution/types/legal framework (Societies Act, FCRA 2010/2020, Sec. 8, CSR), other stakeholders, **full "AP the pioneer" section** (anti-arrack → Podupu Lakshmi → DWCRA → SAPAP–Velugu–IKP–SERP → Sthreenidhi/MFI Act 2010 → MACS Act/SSAAT/APCNF exports + landmark AP NGOs table), 2nd ARC 9th Report, criticisms & way forward, practice incl. AP rapid-fire | ⭐⭐⭐⭐ (the AP-pioneer section is home turf — expect a direct question; FCRA & CSR are current-affairs magnets) |
 | [07-Statutory-Regulatory-Quasi-Judicial-Authorities.md](07-Statutory-Regulatory-Quasi-Judicial-Authorities.md) | Constitutional vs statutory vs regulatory vs quasi-judicial classification, master tables (NHRC, CIC, CVC, Lokpal, NGT; RBI–SEBI–TRAI–APERC–CCI…), tribunals (Arts. 323-A/B, CAT, L. Chandra Kumar → Tribunals Reforms Act 2021), natural justice, AP bodies (APERC, Lokayukta, APAT abolition), practice | ⭐⭐⭐ (Act–year–appeal-path matches are perennial MCQs) |
 | [08-Role-of-Civil-Services-in-Democracy.md](08-Role-of-Civil-Services-in-Democracy.md) | AIS/central/state structure, Part XIV (Arts. 308–312), Patel's steel frame, 10 roles in democracy, values (neutrality–anonymity–integrity), criticisms, reform trail (Santhanam → 2nd ARC → Mission Karmayogi), T.S.R. Subramanian & Prakash Singh cases, minister–civil servant relations, AP tie-ins (secretariats, MeeSeva, Spandana), practice | ⭐⭐⭐ |
+| [09-Good-Governance-eGovernance-RTI-Citizens-Charter-Social-Audit.md](09-Good-Governance-eGovernance-RTI-Citizens-Charter-Social-Audit.md) | Good governance (World Bank/UNDP 8 characteristics, Kautilya, 2nd ARC 12th Report), transparency–accountability–responsiveness map, e-governance (NeGP→Digital India→DPDP + **AP pioneer story: CARD, e-Seva, MeeSeva, RTGS, secretariats**), Citizen's Charter & Sevottam, RTI clause-by-clause with cases and 2019/DPDP amendments, state Public Services Acts, social audit (MGNREGA Sec. 17, **AP SSAAT 2006 as national template**, Meghalaya 2017), practice | ⭐⭐⭐⭐ (RTI sections and Sevottam are perennial; AP e-gov & SSAAT are direct-question bait) |
 
 **Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) — the Medieval India & Deccan history notes. They share load-bearing context: Delhi Sultanate administration (File 02 there) sits between Kautilya and the Mughals; Qutb Shahi Golconda (File 09 there) is where Mughal Deccan administration lands in 1687. Also [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) — Indian Economy: Resource Mobilization (the fiscal machinery whose ancestors — Kautilya's kosha, Mughal land revenue, British settlements — appear in this series).
 
@@ -35,7 +38,7 @@
 6. **Day 6:** File 04 second half (land systems, local self-government, balance sheet).
 7. **Day 7:** File 05 — master table + MCQs; write 2 Mains answers under time limit.
 
-**Files 06–08 (a further 5-day cycle):** Day 1 — File 06 up to NGO legal framework (make the Act-year table your flashcard sheet); Day 2 — File 06 rest (SHG/AP architecture + criticisms); Day 3 — File 07 statutory + regulatory tables; Day 4 — File 07 tribunals & cases (draw the appeal-path map: SEBI→SAT, TRAI→TDSAT, CCI→NCLAT, NGT→SC); Day 5 — File 08 fully + write one Mains answer from each file's practice section.
+**Files 06–09 (a further 7-day cycle):** Day 1 — File 06 up to NGO legal framework (make the Act-year table your flashcard sheet); Day 2 — File 06 rest (the "AP the pioneer" section + criticisms); Day 3 — File 07 statutory + regulatory tables; Day 4 — File 07 tribunals & cases (draw the appeal-path map: SEBI→SAT, TRAI→TDSAT, CCI→NCLAT, NGT→SC); Day 5 — File 08 fully; Day 6 — File 09 good governance + e-governance (AP timeline: CARD→e-Seva→MeeSeva→RTGS→secretariats) + Citizen's Charter/Sevottam; Day 7 — File 09 RTI clause table + Public Services Acts + social audit/SSAAT, then write one Mains answer from each file's practice section.
 
 ## Exam-craft notes
 
