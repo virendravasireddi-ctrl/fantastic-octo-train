@@ -1,6 +1,6 @@
 # 09 · Major Challenges of the Indian Economy — Nature · Causes · Consequences · Solutions
 
-[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md)
+[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: Inclusive Growth →](10-Inclusive-Growth-and-Financial-Inclusion.md)
 
 ---
 
@@ -282,4 +282,4 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 
 *Compiled July 2026. This unit is deliberately number-heavy; every figure is year-labelled and must be re-verified from the latest **Economic Survey, RBI MPC/Annual Report, MoSPI, DGCI&S and Union Budget** before the exam. Pair with **File 04** (monetary-fiscal), **File 05** (banking/NPAs, DFIs) and **File 06** (investment) for the fuller treatment of the financial-sector and capital challenges.*
 
-[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md)
+[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: Inclusive Growth →](10-Inclusive-Growth-and-Financial-Inclusion.md)

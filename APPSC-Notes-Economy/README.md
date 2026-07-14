@@ -24,6 +24,7 @@
 | [07-Physical-and-Energy-Resources.md](07-Physical-and-Energy-Resources.md) | Land, water, minerals (policy + AP mineral wealth), energy: capacity vs generation, coal-oil-gas-hydro-nuclear, renewables & missions, the 50% non-fossil milestone, AP energy box | ⭐⭐⭐ (AP energy/minerals are AP-core) |
 | [08-Economy-Revision-and-Practice.md](08-Economy-Revision-and-Practice.md) | Classification trees, deficits ladder, sources master-verdict table, DFI timeline, years list, 15 MCQs with key, 10 Mains skeletons, last-mile checklist | Revision aid |
 | [09-Major-Challenges-of-Indian-Economy.md](09-Major-Challenges-of-Indian-Economy.md) | **Companion unit** — the 9 challenges (inconsistent growth; weak agri & manufacturing; inflation & oil; CAD/BoP; falling rupee; NPAs & recap; black money & laundering; capital deficiency; inclusive & sustainable growth), each as **nature → causes → consequences → solutions**; interlinkage nexuses (twin deficits, impossible trinity, twin balance sheet), 16 nuggets, 15 MCQs, 10 Mains skeletons, AP threads | ⭐⭐⭐ |
+| [10-Inclusive-Growth-and-Financial-Inclusion.md](10-Inclusive-Growth-and-Financial-Inclusion.md) | **Companion unit** (deep-dive on 09 §9A) — meaning of inclusion, causes of exclusion, the instruments stack (poverty-employment, health-education, women, social welfare), **food security & PDS**, sustainable agriculture, integrated rural development, regional diversification, **PPP (incl. AP's P4)**, **financial inclusion**; a full **Andhra Pradesh current-schemes** section (**Super Six**, pensions, Aarogyasri, PDS) and a **DWCRA** focus box; 15 nuggets, 15 MCQs, 10 Mains skeletons | ⭐⭐⭐ |
 
 **Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) (Medieval History & Deccan) and [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration — Kautilya's revenue state, Mughal land revenue and the British settlements are the historical ancestors of this unit's fiscal machinery).
 
@@ -38,6 +39,7 @@
 7. **Day 7:** File 07 — minerals & energy (make the AP boxes into flashcards).
 8. **Day 8:** File 08 — MCQs + 2 timed Mains answers.
 9. **Day 9:** File 09 — the challenges as nature→causes→consequences→solutions; drill the interlinkage diagram (twin deficits, impossible trinity, oil-inflation-rupee-CAD loop).
+10. **Day 10:** File 10 — inclusive growth: the instruments-stack spine, the food-security/PDS story, and the **AP schemes + DWCRA** boxes as flashcards.
 
 ## Exam-craft notes
 
