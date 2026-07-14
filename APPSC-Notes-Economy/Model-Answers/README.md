@@ -14,5 +14,6 @@ Full-length, exam-ready **model answers** to APPSC Group-I Mains questions, writ
 | # | Question | Draws on |
 |---|---|---|
 | [01](01-Education-Healthcare-Inclusive-Sustainable-Development.md) | Critically evaluate the role of **education and healthcare** in achieving inclusive & sustainable development; challenges & interventions | [File 09 §9](../09-Major-Challenges-of-Indian-Economy.md), [File 10 §3B](../10-Inclusive-Growth-and-Financial-Inclusion.md) |
+| [02](02-Internal-vs-External-Public-Debt.md) | Differentiate **internal vs external public debt**; their relative advantages & risks for a developing country like India | [File 02](../02-Public-Debt-Internal-and-External.md), [File 04 §2](../04-Monetary-and-Fiscal-Policy.md) |
 
 *More answers will be added here as questions are worked through.*
