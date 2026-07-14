@@ -6,6 +6,11 @@
 
 > *"Resource Mobilization in Indian Economy: Sources of financial resources for public and private sectors — budgetary resources — tax revenue and non-tax revenue — public debt: market borrowings, loans and grants etc., external debt from multilateral agencies — foreign institutional investment and foreign direct investment — desirability and consequences of utilizing different sources — Monetary and fiscal policies — financial markets and institutions of developmental finance — investment in industries and infrastructure projects — Physical resources — Energy resources."*
 
+**Companion unit (File 09):** the same paper's *"Major Challenges of the Indian Economy"* item —
+> *"Inconsistent growth rate; low growth of agriculture and manufacturing; inflation and oil prices; current account deficit and unfavourable balance of payments; falling rupee value; growing NPAs and capital infusion; money laundering and black money; insufficient financial resources and deficiency of capital; lack of inclusive growth and sustainable development — nature, causes, consequences and solutions."*
+>
+> It reuses this unit's machinery (deficits, NPAs, monetary-fiscal, DFIs, FDI/FPI) from the *problem* side, so it lives here rather than in a separate folder.
+
 ## How these notes are organised
 
 | File | Coverage | Weight for APPSC |
@@ -18,6 +23,7 @@
 | [06-Investment-in-Industries-and-Infrastructure.md](06-Investment-in-Industries-and-Infrastructure.md) | Savings-investment picture, industrial policy arc (PLI, semiconductors), NIP/Gati Shakti, the financing menu (PPP models, VGF, monetisation, InvITs/REITs), problems, AP projects box | ⭐⭐⭐ |
 | [07-Physical-and-Energy-Resources.md](07-Physical-and-Energy-Resources.md) | Land, water, minerals (policy + AP mineral wealth), energy: capacity vs generation, coal-oil-gas-hydro-nuclear, renewables & missions, the 50% non-fossil milestone, AP energy box | ⭐⭐⭐ (AP energy/minerals are AP-core) |
 | [08-Economy-Revision-and-Practice.md](08-Economy-Revision-and-Practice.md) | Classification trees, deficits ladder, sources master-verdict table, DFI timeline, years list, 15 MCQs with key, 10 Mains skeletons, last-mile checklist | Revision aid |
+| [09-Major-Challenges-of-Indian-Economy.md](09-Major-Challenges-of-Indian-Economy.md) | **Companion unit** — the 9 challenges (inconsistent growth; weak agri & manufacturing; inflation & oil; CAD/BoP; falling rupee; NPAs & recap; black money & laundering; capital deficiency; inclusive & sustainable growth), each as **nature → causes → consequences → solutions**; interlinkage nexuses (twin deficits, impossible trinity, twin balance sheet), 16 nuggets, 15 MCQs, 10 Mains skeletons, AP threads | ⭐⭐⭐ |
 
 **Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) (Medieval History & Deccan) and [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration — Kautilya's revenue state, Mughal land revenue and the British settlements are the historical ancestors of this unit's fiscal machinery).
 
@@ -31,6 +37,7 @@
 6. **Day 6:** File 06 — PPP/financing menu + AP projects.
 7. **Day 7:** File 07 — minerals & energy (make the AP boxes into flashcards).
 8. **Day 8:** File 08 — MCQs + 2 timed Mains answers.
+9. **Day 9:** File 09 — the challenges as nature→causes→consequences→solutions; drill the interlinkage diagram (twin deficits, impossible trinity, oil-inflation-rupee-CAD loop).
 
 ## Exam-craft notes
 
