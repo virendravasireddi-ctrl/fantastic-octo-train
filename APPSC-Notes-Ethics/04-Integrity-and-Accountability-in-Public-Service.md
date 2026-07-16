@@ -1,6 +1,6 @@
 # 04 · Ethics, Integrity and Accountability in Public Service
 
-[← Private & Public Relationships](03-Ethics-in-Private-and-Public-Relationships.md) · [Index](README.md) · [Next: Revision & Practice →](05-Ethics-Revision-and-Practice.md)
+[← Private & Public Relationships](03-Ethics-in-Private-and-Public-Relationships.md) · [Index](README.md) · [Next: Human Values & Harmony →](05-Human-Values-and-Harmony.md)
 
 ---
 
@@ -145,4 +145,4 @@ Overlapping agencies with thin coordination; political control over investigator
 - **Mission Karmayogi** → 2020, national civil-services capacity building
 - **AP instruments** → Spandana (grievances), RTGS 2018, Village/Ward Secretariats 2019, Meeseva 2011
 
-[← Private & Public Relationships](03-Ethics-in-Private-and-Public-Relationships.md) · [Index](README.md) · [Next: Revision & Practice →](05-Ethics-Revision-and-Practice.md)
+[← Private & Public Relationships](03-Ethics-in-Private-and-Public-Relationships.md) · [Index](README.md) · [Next: Human Values & Harmony →](05-Human-Values-and-Harmony.md)
