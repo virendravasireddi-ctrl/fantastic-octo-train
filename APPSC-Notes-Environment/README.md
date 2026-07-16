@@ -6,7 +6,9 @@ This series is **source-first and answer-oriented**: every file closes with **pr
 
 ## Syllabus items covered
 
-> *Development Vs. Nature/Environment; Depletion of Natural Resources — Metals, Minerals, Conservation Policy; Environmental Pollution (Natural & Anthropogenic) and Environmental degradation; Sustainable Development — possibilities and challenges; Climate Change and its effect on the world; Climate justice — a global phenomenon; Environment Impact Assessment; Natural Disasters — Cyclones, Earthquakes, Landslides & Tsunamis — Prediction & Management; Correlation between Health & Environment; Social Forestry, Afforestation and deforestation; Mining in AP and India; Types of Natural resources — renewable and Non-renewable; Forest resources; Fishery resources; Fossil Fuels — Coal, Petroleum and Natural Gas; Mineral resources; Water resources — Types, Watershed management; Land resources — types of soils and soil reclamation.*
+> **Block I (Files 01–08):** *Development Vs. Nature/Environment; Depletion of Natural Resources — Metals, Minerals, Conservation Policy; Environmental Pollution (Natural & Anthropogenic) and Environmental degradation; Sustainable Development — possibilities and challenges; Climate Change and its effect on the world; Climate justice — a global phenomenon; Environment Impact Assessment; Natural Disasters — Cyclones, Earthquakes, Landslides & Tsunamis — Prediction & Management; Correlation between Health & Environment; Social Forestry, Afforestation and deforestation; Mining in AP and India; Types of Natural resources — renewable and Non-renewable; Forest resources; Fishery resources; Fossil Fuels — Coal, Petroleum and Natural Gas; Mineral resources; Water resources — Types, Watershed management; Land resources — types of soils and soil reclamation.*
+
+> **Block II (Files 09–13):** *Environmental Pollution & Solid Waste Management — sources, impacts & control of air/water/soil/noise pollution; types & impacts of solid waste, recycling & reuse; remedial measures for soil & coastal erosion; Global environmental issues & the role of Information Technology in Environment & Human Health; Ozone-layer depletion; Acid rain; Global warming & its impacts; Environmental legislation — International law, Montreal Protocol, Kyoto Protocol, UNFCCC, CITES, Environment (Protection) Act 1986, Forest Conservation Act, Wildlife Protection Act, Biodiversity Bill of India, COP-21, Sustainable Development Goals, National Disaster Management Plan 2016 & disaster-management initiatives in India; White Revolution, Green Revolution and Green Pharmacy.*
 
 ## How these notes are organised
 
@@ -19,10 +21,16 @@ This series is **source-first and answer-oriented**: every file closes with **pr
 | [05-Environmental-Pollution-Degradation-and-Health.md](05-Environmental-Pollution-Degradation-and-Health.md) | **Pollution — natural & anthropogenic**; the four media + waste; **environmental degradation**; **correlation between health & environment** (One Health, fluorosis-AP) | ⭐⭐⭐ |
 | [06-Sustainable-Development-Climate-Change-and-Justice.md](06-Sustainable-Development-Climate-Change-and-Justice.md) | **Sustainable development — possibilities & challenges** (Brundtland→SDGs); **climate change & its effects**; **climate justice** (CBDR, loss & damage, LiFE) | ⭐⭐⭐ |
 | [07-EIA-and-Disaster-Management.md](07-EIA-and-Disaster-Management.md) | **Environment Impact Assessment** (framework, stages, critique); **natural disasters — cyclones, earthquakes, landslides, tsunamis — prediction & management** (IMD, NCS, GSI, INCOIS-Hyderabad) | ⭐⭐⭐ (AP-core hazards) |
-| [08-Environment-Revision-and-Practice.md](08-Environment-Revision-and-Practice.md) | Master law/convention tables, "firsts & superlatives", match-pair flashcards, **20 MCQs with key**, **12 Mains skeletons**, last-mile checklist | Revision aid |
+| [08-Environment-Revision-and-Practice.md](08-Environment-Revision-and-Practice.md) | **Revision I (Files 01–07):** master law/convention tables, "firsts & superlatives", match-pair flashcards, **20 MCQs with key**, **12 Mains skeletons**, last-mile checklist | Revision aid |
+| [09-Pollution-Control-and-Solid-Waste-Management.md](09-Pollution-Control-and-Solid-Waste-Management.md) | **Sources–impacts–control** of air/water/soil/**noise** pollution; **solid-waste management** (types, impacts, recycling/reuse, 3Rs/EPR, methods & rules); **soil- & coastal-erosion remedies** (Uppada, Coringa) | ⭐⭐⭐ |
+| [10-Global-Issues-Ozone-Acid-Rain-Warming-and-IT.md](10-Global-Issues-Ozone-Acid-Rain-Warming-and-IT.md) | Global environmental issues; **ozone-layer depletion**; **acid rain** (Taj Trapezium); **global warming & impacts**; **role of Information Technology** in environment & human health (RS/GIS, ISRO-Bhuvan, e-health) | ⭐⭐⭐ |
+| [11-Environmental-Legislation-and-Conventions.md](11-Environmental-Legislation-and-Conventions.md) | **International law & MEAs** (Montreal, Kyoto, UNFCCC, CITES, CBD, COP-21); **Indian Acts** (EP Act 1986, FC Act, WPA, **Biodiversity Act/Bill 2023**); **SDGs**; **National Disaster Management Plan 2016** & DM initiatives | ⭐⭐⭐ |
+| [12-Green-White-Revolutions-and-Green-Pharmacy.md](12-Green-White-Revolutions-and-Green-Pharmacy.md) | **Green Revolution** (Borlaug/Swaminathan, costs, Evergreen/APCNF); **White Revolution** (Operation Flood, Kurien, Amul); **Green Pharmacy** (medicinal plants/AYUSH/TKDL + green chemistry); rainbow-revolutions table | ⭐⭐⭐ |
+| [13-Environment-Revision-and-Practice-II.md](13-Environment-Revision-and-Practice-II.md) | **Revision II (Files 09–12):** match-pair flashcards, **20 MCQs with key**, Mains skeletons, last-mile checklist | Revision aid |
 
-## How to use (suggested 8-day cycle)
+## How to use (suggested 13-day cycle)
 
+**Block I — foundations & resources (Days 1–8):**
 1. **Day 1 — File 01:** build the renewable/non-renewable tree and the commons/depletion framing from memory; write the "development vs. environment" thesis line.
 2. **Day 2 — File 02:** forest cover data + social-forestry four-components + fisheries; make an AP resource map (forests, Kolleru, Red Sanders).
 3. **Day 3 — File 03:** the MMDR policy chain + AP minerals box + KG basin; harvest every mineral–district pair.
@@ -30,7 +38,14 @@ This series is **source-first and answer-oriented**: every file closes with **pr
 5. **Day 5 — File 05:** pollution typology + pollutant→disease map; write the "factors responsible for pollution" answer.
 6. **Day 6 — File 06:** Stockholm→Rio→SDGs timeline + Panchamrit + climate-justice concepts; write the "importance of sustainable development" answer.
 7. **Day 7 — File 07:** EIA stages + the four disasters' prediction agencies; write the "evaluate EIA" and "AP cyclone vulnerability" answers.
-8. **Day 8 — File 08:** all MCQs + 3 timed Mains answers + run the last-mile checklist.
+8. **Day 8 — File 08:** all MCQs + 3 timed Mains answers + run the Revision-I checklist.
+
+**Block II — pollution control, global issues, law & revolutions (Days 9–13):**
+9. **Day 9 — File 09:** source→impact→control matrices + SWM hierarchy + erosion remedies; write the "SWM in India" answer.
+10. **Day 10 — File 10:** ozone/acid-rain/warming mechanisms + the IT toolkit; write the "role of IT in environment" answer.
+11. **Day 11 — File 11:** the conventions timeline + Indian Acts + NDMP-2016; harvest every treaty–year and Act–purpose pair.
+12. **Day 12 — File 12:** rainbow-revolutions table + Green/White costs-and-corrective + Green Pharmacy; write the "Green Revolution's ecological cost" answer.
+13. **Day 13 — File 13:** all Block-II MCQs + 3 timed Mains answers + run the Revision-II checklist.
 
 ## Exam-craft notes
 

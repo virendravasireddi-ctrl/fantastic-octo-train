@@ -1,10 +1,10 @@
 # 08 · Environment — Revision, Match-Pairs, MCQs & Mains Practice
 
-[← EIA & Disaster Management](07-EIA-and-Disaster-Management.md) · [Index](README.md)
+[← EIA & Disaster Management](07-EIA-and-Disaster-Management.md) · [Index](README.md) · [Next: Pollution Control & SWM →](09-Pollution-Control-and-Solid-Waste-Management.md)
 
 ---
 
-This file consolidates the whole series into **exam-ready recall**: match-pair flashcards, a conventions/laws timeline, "firsts & superlatives", 20 MCQs with a key, 12 Mains skeletons, and a last-mile checklist. Harvest every **bolded pair** into flashcards.
+This file consolidates the **foundational block (Files 01–07)** into **exam-ready recall**: match-pair flashcards, a conventions/laws timeline, "firsts & superlatives", 20 MCQs with a key, 12 Mains skeletons, and a last-mile checklist. For the second block (pollution-control, global issues, legislation, revolutions — Files 09–12) see **[File 13 · Revision & Practice II](13-Environment-Revision-and-Practice-II.md)**. Harvest every **bolded pair** into flashcards.
 
 ## 1. Master table — laws, bodies & years ⭐⭐
 
@@ -148,4 +148,4 @@ This file consolidates the whole series into **exam-ready recall**: match-pair f
 - [ ] EIA: **NEPA 1969; EP Act 1986→1994→2006; Cat A/B; 8 stages; critique + reforms**.
 - [ ] Disasters: **DM Act 2005/NDMA; Sendai 2015–30; IMD (cyclones), NCS (quakes, Zones II–V), GSI (landslides), INCOIS-Hyderabad (tsunami)**; AP = **multi-hazard**.
 
-[← EIA & Disaster Management](07-EIA-and-Disaster-Management.md) · [Index](README.md)
+[← EIA & Disaster Management](07-EIA-and-Disaster-Management.md) · [Index](README.md) · [Next: Pollution Control & SWM →](09-Pollution-Control-and-Solid-Waste-Management.md)
