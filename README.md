@@ -8,7 +8,7 @@ A structured, source-first revision set for the **Andhra Pradesh Public Service 
 |---|---|---|
 | [`APPSC-Notes/`](APPSC-Notes/README.md) | **History, Culture & Geography of India and AP** | 28 files across 5 units — **Ancient India: prehistory to Kanauj (00A–00H)**; early-medieval dynasties, Delhi Sultanate, Islam, Bhakti–Sufi (01–05); Kakatiyas–Vijayanagara–Bahmanis–Qutb Shahis (06–10); Mughals, Marathas, Advent of Europeans (11–15); Physical features & resources of India and AP (16–20) |
 | [`APPSC-Notes-PubAd/`](APPSC-Notes-PubAd/README.md) | **Public Administration & Governance** | Meaning/nature/scope, Kautilya's Arthashastra, Mughal administration, legacy of British rule, evolution & revision (01–05) |
-| [`APPSC-Notes-Economy/`](APPSC-Notes-Economy/README.md) | **Indian Economy: Resource Mobilization** | Budgetary resources, public debt, FDI/FPI, monetary-fiscal policy, financial markets & DFIs, industry-infrastructure investment, physical & energy resources, revision (01–08) |
+| [`APPSC-Notes-Economy/`](APPSC-Notes-Economy/README.md) | **Indian Economy: Resource Mobilization** | Budgetary resources, public debt, FDI/FPI, monetary-fiscal policy, financial markets & DFIs, industry-infrastructure investment, physical & energy resources, revision, plus an **AP externally aided projects** deep-dive (01–09) |
 
 ## Deep-dive essays (Mains enrichment)
 

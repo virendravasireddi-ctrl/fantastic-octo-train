@@ -18,6 +18,7 @@
 | [06-Investment-in-Industries-and-Infrastructure.md](06-Investment-in-Industries-and-Infrastructure.md) | Savings-investment picture, industrial policy arc (PLI, semiconductors), NIP/Gati Shakti, the financing menu (PPP models, VGF, monetisation, InvITs/REITs), problems, AP projects box | ⭐⭐⭐ |
 | [07-Physical-and-Energy-Resources.md](07-Physical-and-Energy-Resources.md) | Land, water, minerals (policy + AP mineral wealth), energy: capacity vs generation, coal-oil-gas-hydro-nuclear, renewables & missions, the 50% non-fossil milestone, AP energy box | ⭐⭐⭐ (AP energy/minerals are AP-core) |
 | [08-Economy-Revision-and-Practice.md](08-Economy-Revision-and-Practice.md) | Classification trees, deficits ladder, sources master-verdict table, DFI timeline, years list, 15 MCQs with key, 10 Mains skeletons, last-mile checklist | Revision aid |
+| [09-External-Assistance-and-EAPs-in-Andhra-Pradesh.md](09-External-Assistance-and-EAPs-in-Andhra-Pradesh.md) | **AP deep-dive appendix:** the mechanism of externally aided projects (DEA/CAA&A, tripartite agreements, reimbursement, back-to-back transfer since 2005-06), agency map, past EAPs (APERP, SERP/Velugu, APWSIP), present portfolio (APIIATP, SALT, health, disaster, VCIC, NDB roads), the Amaravati 2019→2024 case study | ⭐⭐⭐ (AP-core) |
 
 **Sister series:** [`../APPSC-Notes/`](../APPSC-Notes/README.md) (Medieval History & Deccan) and [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration — Kautilya's revenue state, Mughal land revenue and the British settlements are the historical ancestors of this unit's fiscal machinery).
 
@@ -31,6 +32,7 @@
 6. **Day 6:** File 06 — PPP/financing menu + AP projects.
 7. **Day 7:** File 07 — minerals & energy (make the AP boxes into flashcards).
 8. **Day 8:** File 08 — MCQs + 2 timed Mains answers.
+9. **AP appendix (any day):** File 09 — externally aided projects mechanism + the AP project roll-call and Amaravati case study (pairs with File 02 §3 & §6).
 
 ## Exam-craft notes
 
