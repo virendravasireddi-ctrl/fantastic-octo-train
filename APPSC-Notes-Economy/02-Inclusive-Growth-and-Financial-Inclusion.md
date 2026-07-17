@@ -1,8 +1,8 @@
 # 02 · Inclusive Growth & Financial Inclusion — Meaning, Exclusion, Instruments & Andhra Pradesh Schemes
 
-[← Major Challenges](01-Major-Challenges-of-Indian-Economy.md) · [Index](README.md) · [Next: Resource Mobilization →](03-Resource-Mobilization-and-Budgetary-Resources.md)
+[← Major Challenges](01-Major-Challenges-of-Indian-Economy.md) · [Index](README.md) · [Next: Strategies Deep-Dive I →](02A-Food-Security-PDS-Sustainable-Agriculture-Rural-Development-Regional-Diversification.md)
 
-*Deep-dive on §9A of [File 01](01-Major-Challenges-of-Indian-Economy.md). This is a standalone APPSC syllabus unit — treat it as its own paper section.*
+*Deep-dive on §9A of [File 01](01-Major-Challenges-of-Indian-Economy.md). This is a standalone APPSC syllabus unit — treat it as its own paper section. This file is the survey/spine; two companions carry the named sub-topics to full depth — [File 02A](02A-Food-Security-PDS-Sustainable-Agriculture-Rural-Development-Regional-Diversification.md) (food security & PDS · sustainable agriculture · integrated rural development · regional diversification) and [File 02B](02B-AP-Current-Schemes-Compendium-PDS-and-DWCRA.md) (all AP current schemes · AP PDS · DWCRA).*
 
 ---
 
@@ -360,4 +360,4 @@ Andhra Pradesh is the **national pioneer of women's SHG-based financial inclusio
 
 *Compiled July 2026. Central-scheme coverage and **Andhra Pradesh scheme names/amounts/rollout change with the government of the day** — re-verify from the latest **Economic Survey, NITI Aayog (MPI & SDG Index), DFPD/NFSA data, RBI FI-Index, and the AP Budget / Socio-Economic Survey**. Pair with [File 01 §9](01-Major-Challenges-of-Indian-Economy.md) (inclusion & sustainability as a challenge) and Files 06–08 (the fiscal/financial machinery that funds these schemes).*
 
-[← Major Challenges](01-Major-Challenges-of-Indian-Economy.md) · [Index](README.md) · [Next: Resource Mobilization →](03-Resource-Mobilization-and-Budgetary-Resources.md)
+[← Major Challenges](01-Major-Challenges-of-Indian-Economy.md) · [Index](README.md) · [Next: Strategies Deep-Dive I →](02A-Food-Security-PDS-Sustainable-Agriculture-Rural-Development-Regional-Diversification.md)

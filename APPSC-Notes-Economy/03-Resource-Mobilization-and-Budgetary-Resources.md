@@ -1,6 +1,6 @@
 # 03 · Resource Mobilization — Concept, Sources, Budgetary Resources (Tax & Non-Tax)
 
-[← Inclusive Growth](02-Inclusive-Growth-and-Financial-Inclusion.md) · [Index](README.md) · [Next: Public Debt →](04-Public-Debt-Internal-and-External.md)
+[← AP Schemes Compendium](02B-AP-Current-Schemes-Compendium-PDS-and-DWCRA.md) · [Index](README.md) · [Next: Public Debt →](04-Public-Debt-Internal-and-External.md)
 
 ---
 
@@ -113,4 +113,4 @@
 3. **Why is India's tax-GDP ratio low, and how can it be raised without hurting growth?** Informality, exemptions (tax expenditure), agriculture outside, thresholds → remedies: base-widening, technology (e-invoice, AIS), direct-tax code 2025, rational GST, property-tax reform at local level.
 4. **Evaluate non-tax revenue's growing weight (RBI dividends, spectrum).** Windfall vs structural; volatility risk; user-charge rationality (2nd ARC); verdict: supplement, not substitute.
 
-[← Inclusive Growth](02-Inclusive-Growth-and-Financial-Inclusion.md) · [Index](README.md) · [Next: Public Debt →](04-Public-Debt-Internal-and-External.md)
+[← AP Schemes Compendium](02B-AP-Current-Schemes-Compendium-PDS-and-DWCRA.md) · [Index](README.md) · [Next: Public Debt →](04-Public-Debt-Internal-and-External.md)

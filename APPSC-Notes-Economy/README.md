@@ -4,7 +4,7 @@
 
 ## Blocks in this series (syllabus order)
 
-- **Block A — Major Challenges & Inclusive Growth:** Files `01–02`
+- **Block A — Major Challenges & Inclusive Growth:** Files `01–02` + deep-dives `02A–02B`
 - **Block B — Resource Mobilization in the Indian Economy:** Files `03–10`
 - **Block C — Government Budgeting (Union):** Files `11–15`
 - **Block D — Government Budgeting in Andhra Pradesh:** Files `16–18`
@@ -15,7 +15,9 @@
 
 ## Syllabus items covered (quoted)
 
-> *"Major challenges of the Indian economy … inclusive growth and financial inclusion."*
+> *"Major challenges of the Indian economy …"*
+
+> *"**Inclusive Growth:** Meaning of inclusion – Causes of exclusion in India – Strategies for and instruments of inclusion: Poverty alleviation and employment, Health and Education, women empowerment, social welfare schemes – Food Security and Public Distribution System – Sustainable agriculture – Integrated rural development – Regional diversification – Public and private partnership for inclusive growth – Financial inclusion. **All Andhra Pradesh government's current schemes for inclusive growth and financial inclusion – Public Distribution System and DWCRA.**"*
 
 > *"Resource Mobilization in Indian Economy: Sources of financial resources for public and private sectors — budgetary resources — tax revenue and non-tax revenue — public debt … foreign institutional investment and foreign direct investment — desirability and consequences of utilizing different sources — Monetary and fiscal policies — financial markets and institutions of developmental finance — investment in industries and infrastructure projects — Physical resources — Energy resources."*
 
@@ -34,7 +36,9 @@
 | File | Coverage | Weight for APPSC |
 |---|---|---|
 | [01-Major-Challenges-of-Indian-Economy.md](01-Major-Challenges-of-Indian-Economy.md) | The challenge map — poverty, unemployment, inequality, inflation, external sector, NPAs, informality, capital deficiency, sustainability — nature/causes/consequences/solutions per challenge | ⭐⭐⭐ |
-| [02-Inclusive-Growth-and-Financial-Inclusion.md](02-Inclusive-Growth-and-Financial-Inclusion.md) | Inclusive growth — concept & measurement; exclusion anatomy; instruments (JAM, PMJDY, DBT, MGNREGA-NRLM); AP's inclusion schemes | ⭐⭐⭐ |
+| [02-Inclusive-Growth-and-Financial-Inclusion.md](02-Inclusive-Growth-and-Financial-Inclusion.md) | The survey/spine of the whole item — meaning & measurement of inclusion, causes of exclusion, all ten instrument families, financial inclusion (JAM, PMJDY, DBT), AP schemes overview, DWCRA/PDS focus box, 15 MCQs & 10 skeletons | ⭐⭐⭐ |
+| [02A-Food-Security-PDS-Sustainable-Agriculture-Rural-Development-Regional-Diversification.md](02A-Food-Security-PDS-Sustainable-Agriculture-Rural-Development-Regional-Diversification.md) | **Deep-dive I:** food security & PDS (NFSA machinery, subsidy arithmetic, Shanta Kumar, ONORC, AP PDS), sustainable agriculture (**APCNF**), integrated rural development (IRDP→DAY-NRLM arc), regional diversification (Aspirational Districts; AP's three-region problem) | ⭐⭐⭐ |
+| [02B-AP-Current-Schemes-Compendium-PDS-and-DWCRA.md](02B-AP-Current-Schemes-Compendium-PDS-and-DWCRA.md) | **Deep-dive II:** the AP welfare lineage, **all current schemes** (Super Six, NTR Bharosa, NTR Vaidya Seva, P4 Zero-Poverty…), the SHG financial-inclusion engine, **DWCRA** full story, AP PDS, fiscal reality check | ⭐⭐⭐ (AP-core; refresh with each budget) |
 
 ### Block B — Resource Mobilization in the Indian Economy
 
