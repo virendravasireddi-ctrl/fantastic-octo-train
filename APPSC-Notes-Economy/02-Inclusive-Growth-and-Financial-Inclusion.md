@@ -1,8 +1,8 @@
-# 10 · Inclusive Growth & Financial Inclusion — Meaning, Exclusion, Instruments & Andhra Pradesh Schemes
+# 02 · Inclusive Growth & Financial Inclusion — Meaning, Exclusion, Instruments & Andhra Pradesh Schemes
 
-[← Major Challenges](17-Major-Challenges-of-Indian-Economy.md) · [Index](README.md)
+[← Major Challenges](01-Major-Challenges-of-Indian-Economy.md) · [Index](README.md) · [Next: Resource Mobilization →](03-Resource-Mobilization-and-Budgetary-Resources.md)
 
-*Deep-dive on §9A of [File 17](17-Major-Challenges-of-Indian-Economy.md). This is a standalone APPSC syllabus unit — treat it as its own paper section.*
+*Deep-dive on §9A of [File 01](01-Major-Challenges-of-Indian-Economy.md). This is a standalone APPSC syllabus unit — treat it as its own paper section.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 > **Syllabus:** *"Inclusive Growth: meaning of inclusion — causes of exclusion in India — strategies and instruments of inclusion: poverty alleviation & employment, health & education, women empowerment, social welfare schemes — food security & PDS — sustainable agriculture — integrated rural development — regional diversification — public and [private] partnership for inclusive growth — financial inclusion."*
 
-**One-line thesis ⭐:** growth is *inclusive* when its **process** (participation — jobs, assets, credit, voice) **and** its **outcomes** (poverty, inequality, human development) improve **for all groups, regions and generations**. India's problem (File 17 §9) is **K-shaped** growth — strong at the top, thin at the base — so inclusion is a deliberate **policy project**, not an automatic by-product of GDP.
+**One-line thesis ⭐:** growth is *inclusive* when its **process** (participation — jobs, assets, credit, voice) **and** its **outcomes** (poverty, inequality, human development) improve **for all groups, regions and generations**. India's problem (File 01 §9) is **K-shaped** growth — strong at the top, thin at the base — so inclusion is a deliberate **policy project**, not an automatic by-product of GDP.
 
 **The exam architecture** (memorise this spine):
 
@@ -66,12 +66,12 @@ INCLUSIVE GROWTH
 | Axis of exclusion | Drivers (exam bullets) |
 |---|---|
 | **Social identity** | Caste (SC/ST/OBC historical disability), religion, gender, disability — discrimination in land, jobs, credit, education; "graded inequality." |
-| **Economic** | Poverty & assetlessness; **~90% informal employment** (no security); landlessness & tenancy; jobless/job-light growth (File 17 §2B); indebtedness. |
+| **Economic** | Poverty & assetlessness; **~90% informal employment** (no security); landlessness & tenancy; jobless/job-light growth (File 01 §2B); indebtedness. |
 | **Spatial / regional** | Rural–urban divide; **backward regions** (east/central India, hill & tribal belts); intra-state gaps (e.g., Rayalaseema/North-Coastal AP); remoteness & poor connectivity. |
 | **Human-capital** | Low education/skills; poor health & nutrition (stunting); the **digital divide**. |
 | **Financial** | Distance from banks, lack of collateral/credit history, low financial literacy, high cost-to-serve → **exclusion from formal finance**, dependence on moneylenders. |
 | **Gender** | Low **female LFPR (~37–42%)**, unpaid care burden, safety, son-preference, asset/inheritance gaps. |
-| **Governance** | Leakages, exclusion errors in targeting, weak last-mile delivery, elite capture, corruption (File 17 §7). |
+| **Governance** | Leakages, exclusion errors in targeting, weak last-mile delivery, elite capture, corruption (File 01 §7). |
 
 **Framing line for Mains:** exclusion is **cumulative and intersectional** — a Dalit, landless, illiterate woman in a remote district faces *all* axes at once; inclusion policy must therefore be **convergent**, not siloed.
 
@@ -153,12 +153,12 @@ INCLUSIVE GROWTH
 
 ## 5. Sustainable agriculture
 
-**Why:** File 17 §2A + §9B — agriculture must lift incomes **and** stay within ecological limits (soil, water, climate).
+**Why:** File 01 §2A + §9B — agriculture must lift incomes **and** stay within ecological limits (soil, water, climate).
 
 | Instrument | Note |
 |---|---|
 | **National Mission on Natural Farming (NMNF, 2023)** + **PKVY / BPKP** | Chemical-free / organic & natural farming; **Zero-Budget Natural Farming**. |
-| **PMKSY — "Per Drop More Crop"** | Micro-irrigation, watershed, water-use efficiency (File 17 §2A). |
+| **PMKSY — "Per Drop More Crop"** | Micro-irrigation, watershed, water-use efficiency (File 01 §2A). |
 | **Soil Health Cards; PM-PRANAM** | Balanced fertiliser use; incentivise states cutting chemical use. |
 | **Millets / "Shree Anna" (Intl. Year of Millets 2023)** | Climate-resilient, nutritious, low-water crops. |
 | **PM-KUSUM** | Solar pumps/grid — clean, cheaper irrigation energy. |
@@ -200,7 +200,7 @@ INCLUSIVE GROWTH
 
 ## 8. Public–Private(–People) Partnership for inclusive growth
 
-- **Why PPP in social sectors:** government finance & delivery capacity are limited (File 17 §8); private/community partners add capital, efficiency and reach.
+- **Why PPP in social sectors:** government finance & delivery capacity are limited (File 01 §8); private/community partners add capital, efficiency and reach.
 - **Instruments:** **CSR — mandatory 2% of profits (Companies Act 2013)**; **PMJAY hospital empanelment** (private hospitals deliver public insurance); **skilling via NSDC/NSDF** (PPP by design); PPP in **school/health infrastructure**, digital public infrastructure; **SHG–bank–NGO** partnerships; philanthropies & impact investing; **Aspirational Districts** convergence with partners.
 - **Andhra Pradesh's signature model — "P4" (Public–Private–People Partnership) ⭐⭐:** the current government's poverty-eradication framework where the **top ~10% ("Bangaru Kutumbam" / golden families) voluntarily mentor & support the bottom ~20% families ("Marga Darsi" mentors)** — a **people-partnership** overlay on state welfare, folded into the **Swarnandhra @2047** vision. *(New; verify design & rollout.)*
 
@@ -326,14 +326,14 @@ Andhra Pradesh is the **national pioneer of women's SHG-based financial inclusio
 
 1. **"Growth is necessary but not sufficient for inclusion." Discuss the meaning and dimensions of inclusive growth in the Indian context.** — Definitions (11th Plan, World Bank pace+pattern, Sen/Rawls) → 4 dimensions → K-shaped evidence (top-1% 22–23%, MPI) → policy-project conclusion.
 2. **Examine the causes of exclusion in India and argue why anti-poverty policy must be "convergent".** — Axes table (social/economic/spatial/financial/gender) → intersectionality → Aspirational-Districts convergence model → JAM plumbing.
-3. **Evaluate India's employment-and-poverty-alleviation architecture.** — MGNREGA (safety net) + NRLM (livelihoods) + PMAY/MUDRA → measurement (Tendulkar→MPI) → gaps (jobless growth, informality) → skilling/manufacturing link (File 17 §2B).
+3. **Evaluate India's employment-and-poverty-alleviation architecture.** — MGNREGA (safety net) + NRLM (livelihoods) + PMAY/MUDRA → measurement (Tendulkar→MPI) → gaps (jobless growth, informality) → skilling/manufacturing link (File 01 §2B).
 4. **"Food security in India has moved from welfare to a legal right." Trace the evolution and assess the PDS.** — RPDS→TPDS→NFSA 2013 → PMGKAY/ONORC/ePoS upgrades → leakage & nutrition critique → reform (fortification, cash-vs-kind, millets) → AP (NTR ₹2 rice, doorstep MDUs).
 5. **How do health and education interventions advance inclusive growth?** — Ayushman Bharat + NHM (health-cost protection) + RTE/NEP/PM-POSHAN (human capital) → equity → spending gap (2.5% GDP target) → AP (Aarogyasri, fee reimbursement).
 6. **Assess the role of women's self-help groups in inclusion, from DWCRA to Lakhpati Didi.** — DWCRA 1982-83/IRDP/UNICEF → AP Podupu movement → NRLM SHG scale-up → bank-linkage/Sthree Nidhi → empowerment + financial-inclusion twin dividend.
 7. **"Financial inclusion is the connective tissue of all welfare." Examine India's journey.** — Access (PMJDY) → usage (DBT, UPI, JAM) → protection (Jan Suraksha) → credit frontier → RBI FI-Index → remaining gaps (informal credit, literacy).
 8. **Discuss balanced regional development as a pillar of inclusion, with reference to Andhra Pradesh.** — Disparities → Aspirational Districts/Blocks, FC equalisation, SCS debate → AP post-bifurcation backwardness (Rayalaseema/North-Coastal) & Special Package → corridors/ports as diversification.
 9. **Can public–private–people partnerships deliver inclusion? Evaluate with the AP "P4" model.** — Rationale (state-capacity limits) → CSR/PMJAY/NSDC instruments → AP P4 (golden-family mentoring) → promise vs risks (voluntarism, accountability, not a substitute for rights-based welfare).
-10. **"Andhra Pradesh has long been a laboratory of inclusion." Evaluate its schemes across food, health, women and finance.** — NTR ₹2 rice + Aarogyasri + DWCRA/SERP/Sthree Nidhi + APCNF + current Super Six/P4 → strengths (innovation, women-centric) → tension: welfare ambition vs fiscal stress (File 17 §8, File 04 AP note) → balanced close.
+10. **"Andhra Pradesh has long been a laboratory of inclusion." Evaluate its schemes across food, health, women and finance.** — NTR ₹2 rice + Aarogyasri + DWCRA/SERP/Sthree Nidhi + APCNF + current Super Six/P4 → strengths (innovation, women-centric) → tension: welfare ambition vs fiscal stress (File 01 §8, File 06 AP note) → balanced close.
 
 ---
 
@@ -358,6 +358,6 @@ Andhra Pradesh is the **national pioneer of women's SHG-based financial inclusio
 
 ---
 
-*Compiled July 2026. Central-scheme coverage and **Andhra Pradesh scheme names/amounts/rollout change with the government of the day** — re-verify from the latest **Economic Survey, NITI Aayog (MPI & SDG Index), DFPD/NFSA data, RBI FI-Index, and the AP Budget / Socio-Economic Survey**. Pair with [File 17 §9](17-Major-Challenges-of-Indian-Economy.md) (inclusion & sustainability as a challenge) and Files 04–06 (the fiscal/financial machinery that funds these schemes).*
+*Compiled July 2026. Central-scheme coverage and **Andhra Pradesh scheme names/amounts/rollout change with the government of the day** — re-verify from the latest **Economic Survey, NITI Aayog (MPI & SDG Index), DFPD/NFSA data, RBI FI-Index, and the AP Budget / Socio-Economic Survey**. Pair with [File 01 §9](01-Major-Challenges-of-Indian-Economy.md) (inclusion & sustainability as a challenge) and Files 06–08 (the fiscal/financial machinery that funds these schemes).*
 
-[← Major Challenges](17-Major-Challenges-of-Indian-Economy.md) · [Index](README.md)
+[← Major Challenges](01-Major-Challenges-of-Indian-Economy.md) · [Index](README.md) · [Next: Resource Mobilization →](03-Resource-Mobilization-and-Budgetary-Resources.md)

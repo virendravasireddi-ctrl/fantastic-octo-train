@@ -1,6 +1,6 @@
 # Model Answer 01 — Education & Healthcare for Inclusive & Sustainable Development
 
-[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 17 §9](../17-Major-Challenges-of-Indian-Economy.md) · [File 18 §3B](../18-Inclusive-Growth-and-Financial-Inclusion.md)
+[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 01 §9](../01-Major-Challenges-of-Indian-Economy.md) · [File 02 §3B](../02-Inclusive-Growth-and-Financial-Inclusion.md)
 
 **Q. Critically evaluate the role of education and healthcare in achieving inclusive and sustainable development in India. Highlight the current challenges and government interventions.**
 
@@ -33,7 +33,7 @@ Education and healthcare are the two components of **human capital** — and alo
 - **Schooling ≠ learning:** **ASER** shows less than half of Class-5 rural children can read a Class-2 text — a foundational-learning crisis.
 - **Dual system deepens inequality:** the poor depend on weak public schools/PHCs while the better-off exit to private — services meant to *equalise* end up *reproducing* inequality.
 - **Malnutrition paradox:** growth alongside **NFHS-5 stunting 35.5%, anaemia in women 57%**.
-- **AP-specific weakness:** AP's **literacy (~67%, 2011 Census) is below the national average**; **tribal/agency areas (e.g. ASR, Alluri districts) and Rayalaseema** lag on schools, doctors and specialists; **post-bifurcation fiscal stress** (loss of Hyderabad revenue — see File 17 §8 / File 04) squeezes social-sector spending even as welfare DBT stays generous.
+- **AP-specific weakness:** AP's **literacy (~67%, 2011 Census) is below the national average**; **tribal/agency areas (e.g. ASR, Alluri districts) and Rayalaseema** lag on schools, doctors and specialists; **post-bifurcation fiscal stress** (loss of Hyderabad revenue — see File 01 §8 / File 06) squeezes social-sector spending even as welfare DBT stays generous.
 
 ## Current challenges
 

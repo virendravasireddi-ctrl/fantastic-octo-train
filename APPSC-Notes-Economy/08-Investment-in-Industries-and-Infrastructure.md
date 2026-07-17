@@ -1,6 +1,6 @@
-# 06 · Investment in Industries and Infrastructure Projects — Instruments, Models, Problems
+# 08 · Investment in Industries and Infrastructure Projects — Instruments, Models, Problems
 
-[← Financial Markets & DFIs](05-Financial-Markets-and-Development-Finance.md) · [Index](README.md) · [Next: Physical & Energy Resources →](07-Physical-and-Energy-Resources.md)
+[← Financial Markets & DFIs](07-Financial-Markets-and-Development-Finance.md) · [Index](README.md) · [Next: Physical & Energy Resources →](09-Physical-and-Energy-Resources.md)
 
 ---
 
@@ -18,14 +18,14 @@
   - **India Semiconductor Mission (2021, ₹76,000 crore):** Micron ATMP (Sanand), **Tata–PSMC fab (Dholera)**, Tata OSAT (Assam), CG Power, Kaynes — **first India-made packaged chips rolled out 2025** ⭐.
   - **12 new industrial smart cities (Aug 2024, ≈₹28,600 crore) — including ORVAKAL (Kurnool) and KOPPARTHY (YSR Kadapa) in AP** ⭐⭐ (the AP pair to memorise).
 - MSMEs: credit-gap financing via SIDBI/MUDRA/CGTMSE; Udyam formalisation; delayed-payments problem.
-- Exit & balance-sheet repair as investment policy: **IBC 2016**, bank recap, **GNPA ≈2.3% (2025)** — banks able to lend again (File 05).
+- Exit & balance-sheet repair as investment policy: **IBC 2016**, bank recap, **GNPA ≈2.3% (2025)** — banks able to lend again (File 07).
 
 ## 2. Infrastructure investment — the pipeline
 
 - **National Infrastructure Pipeline (2019): ≈₹111 lakh crore (FY20–25)** across energy, roads, urban, rail ⭐.
 - **PM Gati Shakti (2021):** GIS-based multi-modal master-planning — coordination as capital-productivity reform; **National Logistics Policy (2022)** (logistics cost target single-digit % of GDP).
 - Flagships one-liners: **Bharatmala** (roads), **Dedicated Freight Corridors**, **Sagarmala** (ports-led), **UDAN** (regional air), **Jal Jeevan Mission**, **BharatNet**, Smart Cities.
-- Why infrastructure is the binding constraint: logistics costs, power reliability, urban deficits — each point of infra spend has **multiplier ≈2.5×** (File 04).
+- Why infrastructure is the binding constraint: logistics costs, power reliability, urban deficits — each point of infra spend has **multiplier ≈2.5×** (File 06).
 
 ## 3. The financing menu ⭐⭐ (how projects are actually funded)
 
@@ -37,8 +37,8 @@
 | **Viability Gap Funding (2006; revamped 2020)** | Capital grant up to **20% (Centre) + 20% (state)**; higher for social sectors | Makes marginal projects bankable |
 | **Asset monetisation** | Lease brownfield assets, recycle proceeds into greenfield | **NMP-1 (2021–25) ₹6 lakh cr target, ≈₹5.6 lakh cr achieved; NMP-2.0 (2025–30) ₹10 lakh cr** ⭐ |
 | **InvITs & REITs (SEBI regs 2014)** ⭐ | Yield vehicles: operating infra/realty cash-flows sold to investors | **First REIT — Embassy (2019)**; NHAI InvIT, PowerGrid InvIT (2021) |
-| **DFIs & funds** | **NaBFID (2021), IIFCL, NIIF (2015)**, NBFC-IFCs (PFC/REC/IREDA) | File 05 |
-| **External** | Multilateral project loans (ADB-VCIC, WB-Amaravati), JICA (bullet train), **sovereign green bonds (2023)** | File 02 |
+| **DFIs & funds** | **NaBFID (2021), IIFCL, NIIF (2015)**, NBFC-IFCs (PFC/REC/IREDA) | File 07 |
+| **External** | Multilateral project loans (ADB-VCIC, WB-Amaravati), JICA (bullet train), **sovereign green bonds (2023)** | File 04 |
 | **Municipal bonds** | SEBI 2015 framework; property-tax-backed | Still small — urban finance gap |
 
 ## 4. Problems to argue in Mains
@@ -54,7 +54,7 @@
 - **Corridors:** **Visakhapatnam–Chennai Industrial Corridor (VCIC — ADB-financed, part of East Coast Economic Corridor)**; Chennai–Bengaluru (Krishnapatnam node); Hyderabad–Bengaluru (Orvakal); nodes **Orvakal & Kopparthy** in the 2024 industrial-cities list.
 - **Capital & urban:** **Amaravati — World Bank $800 mn + ADB ≈$790 mn (2024-25)** restart ⭐.
 - **Ports & logistics:** Visakhapatnam major port; greenfield non-major ports under development — **Ramayapatnam, Machilipatnam, Mulapeta**; fishing harbours chain; **Vizag–Chennai coastal shipping/logistics play**.
-- **Water/power mega-projects:** **Polavaram (national project)**; Pinnapuram integrated RE-storage (File 07).
+- **Water/power mega-projects:** **Polavaram (national project)**; Pinnapuram integrated RE-storage (File 09).
 - **Manufacturing exhibits:** **Kia (Anantapur)**, Sri City cluster; announced: Google Vizag AI data-centre hub (2025), AM/NS steel (Anakapalli) — label "announced".
 - Use pattern: pick ONE corridor + ONE port + ONE financing fact per answer — specificity scores.
 
@@ -82,4 +82,4 @@
 3. **"Monetise brownfield, build greenfield." Assess asset monetisation as resource mobilization.** NMP logic & scoreboard → InvIT/REIT/TOT instruments → risks (monopoly pricing, undervaluation, execution) → verdict with safeguards.
 4. **Industrial corridors as AP's growth strategy.** VCIC/CBIC/HBIC + Orvakal-Kopparthy + ports + Kia/Sri City → jobs & diversification post-bifurcation → requirements: power, water, skills, credible finance (WB/ADB, NaBFID).
 
-[← Financial Markets & DFIs](05-Financial-Markets-and-Development-Finance.md) · [Index](README.md) · [Next: Physical & Energy Resources →](07-Physical-and-Energy-Resources.md)
+[← Financial Markets & DFIs](07-Financial-Markets-and-Development-Finance.md) · [Index](README.md) · [Next: Physical & Energy Resources →](09-Physical-and-Energy-Resources.md)

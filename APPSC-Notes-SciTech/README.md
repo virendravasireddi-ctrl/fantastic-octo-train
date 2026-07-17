@@ -46,6 +46,6 @@ This series has **two blocks**:
 
 - [`../APPSC-Notes-Environment/`](../APPSC-Notes-Environment/README.md) — **Environment, Ecology & Sustainable Development** (the other half of Paper-V): natural resources, pollution, climate change, EIA and disaster management. Biodiversity (File 15 here) and the Green/White revolutions overlap with that series.
 - [`../cyber-security-laws-india-and-ap.md`](../cyber-security-laws-india-and-ap.md) — deep-dive on **cyber-security laws in India and AP** (IT Act, DPDP Act 2023, and AP's cyber initiatives).
-- [`../APPSC-Notes/`](../APPSC-Notes/README.md) (History, Culture & Geography) · [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration & Governance) · [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) (Indian Economy — File 07 there on physical & energy resources overlaps this series' technology-of-energy content).
+- [`../APPSC-Notes/`](../APPSC-Notes/README.md) (History, Culture & Geography) · [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) (Public Administration & Governance) · [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) (Indian Economy — File 09 there on physical & energy resources overlaps this series' technology-of-energy content).
 
 *Compiled July 2026. Re-verify mission budgets, policy years and institute lists (ISRO/DRDO/DBT/DST releases, PIB, Economic Survey S&T chapter) before the exam; the structure of these notes is what stays.*

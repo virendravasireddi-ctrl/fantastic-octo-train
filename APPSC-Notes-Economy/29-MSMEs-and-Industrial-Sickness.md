@@ -1,6 +1,6 @@
-# 13 · MSMEs — Problems & Policy · Industrial Sickness & Support Mechanism
+# 29 · MSMEs — Problems & Policy · Industrial Sickness & Support Mechanism
 
-[← Core Industries](12-Core-Industries-and-Their-Problems.md) · [Index](README.md) · [Next: Manufacturing Policy, Make in India, Startups, NIMZ-SEZ-Corridors →](14-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md)
+[← Core Industries](28-Core-Industries-and-Their-Problems.md) · [Index](README.md) · [Next: Manufacturing Policy, Make in India, Startups, NIMZ-SEZ-Corridors →](30-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md)
 
 ---
 
@@ -52,7 +52,7 @@
 ## 5. AP box ⭐⭐ — MSME Andhra
 
 - Craft/GI clusters to cite: **Kondapalli & Etikoppaka toys, Machilipatnam imitation jewellery & Kalamkari (Pedana), Mangalagiri–Venkatagiri–Dharmavaram handlooms, Eluru pile carpets** — SFURTI/ODOP material; plus Nellore aqua-feed, Vizag pharma ancillaries.
-- **AP MSME & Entrepreneur Development Policy 4.0 (2024-29)** — with the flagship **"One Family, One Entrepreneur"** goal ⭐; MSME parks programme across constituencies; Ratan Tata Innovation Hub (announced 2025) for startups (File 15).
+- **AP MSME & Entrepreneur Development Policy 4.0 (2024-29)** — with the flagship **"One Family, One Entrepreneur"** goal ⭐; MSME parks programme across constituencies; Ratan Tata Innovation Hub (announced 2025) for startups (File 31).
 - AP is consistently among the **top states in Udyam registrations relative to size**; delayed-payment and power-cost relief are the two demands AP MSME associations raise most — use as "problems" evidence.
 
 ---
@@ -79,4 +79,4 @@
 3. **"From BIFR to IBC: India stopped nursing sickness and started resolving it." Critically evaluate** — old vs new regime table, recovery/deterrence evidence, creeping delays, MSME pre-pack.
 4. **AP tie-in:** design an MSME strategy for AP — clusters + GI crafts + aqua/food processing + "One Family, One Entrepreneur" + park infrastructure; constraints: credit depth, power cost, marketing.
 
-[← Core Industries](12-Core-Industries-and-Their-Problems.md) · [Index](README.md) · [Next: Manufacturing Policy, Make in India, Startups, NIMZ-SEZ-Corridors →](14-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md)
+[← Core Industries](28-Core-Industries-and-Their-Problems.md) · [Index](README.md) · [Next: Manufacturing Policy, Make in India, Startups, NIMZ-SEZ-Corridors →](30-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md)

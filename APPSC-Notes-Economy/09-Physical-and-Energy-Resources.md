@@ -1,6 +1,6 @@
-# 07 · Physical Resources and Energy Resources — Land, Water, Minerals, Power
+# 09 · Physical Resources and Energy Resources — Land, Water, Minerals, Power
 
-[← Industries & Infrastructure](06-Investment-in-Industries-and-Infrastructure.md) · [Index](README.md) · [Next: Revision & Practice →](08-Economy-Revision-and-Practice.md)
+[← Industries & Infrastructure](08-Investment-in-Industries-and-Infrastructure.md) · [Index](README.md) · [Next: Revision & Practice →](10-Economy-Revision-and-Practice.md)
 
 ---
 
@@ -11,7 +11,7 @@ Finance buys inputs; **land, water, minerals and energy are the inputs**. Mobili
 ## 1. Land
 
 - Geographical area **328.7 million ha**; **net sown area ≈140 m ha (~42–43%)** — among the world's highest cultivated shares; **forest cover ≈21.8% (ISFR 2023; forest+tree ≈25.2%)**.
-- Constraints: fragmentation, degradation (~30% land degraded), conversion pressure; **land acquisition (RFCTLARR Act 2013)** = cost & time (File 06); reforms: digitised land records (**SVAMITVA**, AP's resurvey drive), land pooling (**Amaravati's land-pooling scheme — 30,000+ acres, the alternative-to-acquisition exhibit** ⭐), land leasing model law.
+- Constraints: fragmentation, degradation (~30% land degraded), conversion pressure; **land acquisition (RFCTLARR Act 2013)** = cost & time (File 08); reforms: digitised land records (**SVAMITVA**, AP's resurvey drive), land pooling (**Amaravati's land-pooling scheme — 30,000+ acres, the alternative-to-acquisition exhibit** ⭐), land leasing model law.
 
 ## 2. Water
 
@@ -57,7 +57,7 @@ Finance buys inputs; **land, water, minerals and energy are the inputs**. Mobili
 - Mission stack: **National Solar Mission (2010)** → solar parks; **PM-KUSUM** (agri solar); **PM Surya Ghar Muft Bijli Yojana (2024) — 1 crore rooftop homes, ≈₹75,000 cr** ⭐; **National Green Hydrogen Mission (2023, ₹19,744 cr; 5 MMT by 2030)**; offshore-wind VGF (2024); **ethanol E20 blending achieved 2025 — five years early** ⭐; CBG/bio-energy.
 - **International Solar Alliance — HQ Gurugram; India-France, 2015** ⭐; One Sun One World One Grid.
 - Grid & distribution: **One Nation One Grid (synchronised 2013)**; the weak link = **discoms** — AT&C losses ≈15–16%, reform via **RDSS (2021)** (UDAY's successor); storage: PSP + battery PLI; green open access.
-- Financiers: **IREDA, PFC/REC, sovereign green bonds (2023)** — energy transition as a finance problem (Files 02/05 links).
+- Financiers: **IREDA, PFC/REC, sovereign green bonds (2023)** — energy transition as a finance problem (Files 04/07 links).
 
 ## 7. AP energy box ⭐⭐
 
@@ -99,4 +99,4 @@ Finance buys inputs; **land, water, minerals and energy are the inputs**. Mobili
 4. **Water as the binding physical resource.** Stress numbers → pricing/institutions → AP's Godavari surplus-to-deficit engineering (Polavaram, Pattiseema, Banakacherla-proposed) → inter-state coordination caveat (KWDT/GWDT).
 5. **Land mobilization without conflict.** Acquisition-vs-pooling (Amaravati exhibit) → titling/records → industrial land banks (APIIC) → justice safeguards (2013 Act, Fifth Schedule areas — bauxite lesson).
 
-[← Industries & Infrastructure](06-Investment-in-Industries-and-Infrastructure.md) · [Index](README.md) · [Next: Revision & Practice →](08-Economy-Revision-and-Practice.md)
+[← Industries & Infrastructure](08-Investment-in-Industries-and-Infrastructure.md) · [Index](README.md) · [Next: Revision & Practice →](10-Economy-Revision-and-Practice.md)

@@ -1,6 +1,6 @@
 # Reference · Women & Child Health Indicators (India + Andhra Pradesh)
 
-[← Reference Index](README.md) · [Economy Index](../README.md) · Used by: [Model Answer 03 (Women)](../Model-Answers/03-Women-Challenges-and-Empowerment-Programmes.md) · [File 18 §3B](../18-Inclusive-Growth-and-Financial-Inclusion.md) · [File 17 §9](../17-Major-Challenges-of-Indian-Economy.md)
+[← Reference Index](README.md) · [Economy Index](../README.md) · Used by: [Model Answer 03 (Women)](../Model-Answers/03-Women-Challenges-and-Empowerment-Programmes.md) · [File 02 §3B](../02-Inclusive-Growth-and-Financial-Inclusion.md) · [File 01 §9](../01-Major-Challenges-of-Indian-Economy.md)
 
 A flashcard data-sheet for Prelims and for anchoring Mains answers. **India figures with Andhra Pradesh alongside.** Watch the **source**: MMR/IMR come from the **SRS (Sample Registration System)**; nutrition, anaemia and sex-ratio-at-birth come from the **NFHS (National Family Health Survey)** — quote the right one.
 
@@ -51,7 +51,7 @@ A flashcard data-sheet for Prelims and for anchoring Mains answers. **India figu
 | **Pregnant women 15-49** | ~52.2% | — | — |
 | Men 15-49 | ~25% | — | — |
 
-*The across-the-board **rise** in anaemia despite **Anaemia Mukt Bharat** is the classic "growth without nutrition" critique (File 17 §9). Caveat: NFHS-5 refined its testing method — some question strict comparability with NFHS-4.*
+*The across-the-board **rise** in anaemia despite **Anaemia Mukt Bharat** is the classic "growth without nutrition" critique (File 01 §9). Caveat: NFHS-5 refined its testing method — some question strict comparability with NFHS-4.*
 
 ## 5. Sex ratio
 

@@ -1,6 +1,6 @@
-# 16 · Industrial Development & Policy — Master Tables, MCQs & Mains Practice
+# 32 · Industrial Development & Policy — Master Tables, MCQs & Mains Practice
 
-[← AP Industrial Policy, Corridors, SEZs & Power](15-AP-Industrial-Policy-Corridors-SEZs-Power.md) · [Index](README.md)
+[← AP Industrial Policy, Corridors, SEZs & Power](31-AP-Industrial-Policy-Corridors-SEZs-Power.md) · [Index](README.md)
 
 ---
 
@@ -44,7 +44,7 @@
 | **Abid Hussain 1997** | SSIs |
 | **Raghavan 1999** | Competition law (→ Act 2002) |
 | **Nayak** | MSE working capital = 20% of turnover |
-| **Kelkar 2015** | PPP revival (File 06 — don't drag into industry questions) |
+| **Kelkar 2015** | PPP revival (File 08 — don't drag into industry questions) |
 | **Baba Kalyani 2018** | SEZ → 3Es |
 | **U.K. Sinha 2019** | MSMEs (RBI) |
 | **K.V. Kamath 2020** | COVID loan-restructuring parameters |
@@ -107,4 +107,4 @@
 
 *Figures are labelled by year as of compilation (July 2026) — re-verify moving numbers (MSME limits G.O.s, capacity figures, scheme corpora) from the latest Economic Survey, AP Socio-Economic Survey and department releases in your final week.*
 
-[← AP Industrial Policy, Corridors, SEZs & Power](15-AP-Industrial-Policy-Corridors-SEZs-Power.md) · [Index](README.md)
+[← AP Industrial Policy, Corridors, SEZs & Power](31-AP-Industrial-Policy-Corridors-SEZs-Power.md) · [Index](README.md)

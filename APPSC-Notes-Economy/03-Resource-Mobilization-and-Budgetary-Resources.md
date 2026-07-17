@@ -1,6 +1,6 @@
-# 01 · Resource Mobilization — Concept, Sources, Budgetary Resources (Tax & Non-Tax)
+# 03 · Resource Mobilization — Concept, Sources, Budgetary Resources (Tax & Non-Tax)
 
-[Index](README.md) · [Next: Public Debt →](02-Public-Debt-Internal-and-External.md)
+[← Inclusive Growth](02-Inclusive-Growth-and-Financial-Inclusion.md) · [Index](README.md) · [Next: Public Debt →](04-Public-Debt-Internal-and-External.md)
 
 ---
 
@@ -30,7 +30,7 @@
 - **Receipts classification tree ⭐ (the No.1 MCQ zone):**
   - **Revenue receipts** (no liability/asset change): **tax** + **non-tax**.
   - **Capital receipts**: **debt-creating** (borrowings, small savings) + **non-debt** (loan recoveries, **disinvestment proceeds** — TRAP: disinvestment is a *capital*, non-debt receipt, never "non-tax revenue").
-- Scale (BE 2025-26): receipts other than borrowings **≈₹34.96 lakh crore**; expenditure **≈₹50.65 lakh crore**; the gap = fiscal deficit **4.4% of GDP** (File 04).
+- Scale (BE 2025-26): receipts other than borrowings **≈₹34.96 lakh crore**; expenditure **≈₹50.65 lakh crore**; the gap = fiscal deficit **4.4% of GDP** (File 06).
 
 ## 2. Tax revenue ⭐⭐
 
@@ -87,7 +87,7 @@
 
 - **AP Budget 2025-26 size ≈₹3.22 lakh crore.**
 - Structural facts to cite: post-2014 bifurcation cost AP its revenue engine (Hyderabad) → **persistent revenue deficit**, heavy reliance on central transfers and borrowings; **outstanding liabilities ≈30%+ of GSDP** (higher counting off-budget corporation borrowings — a recurring CAG observation); own-tax effort concentrated in state excise, stamps, fuel VAT, vehicle tax.
-- Mobilization responses: monetisation/land-based financing for **Amaravati**, multilateral loans (File 02), aggressive pursuit of industrial/energy investment (Files 06–07).
+- Mobilization responses: monetisation/land-based financing for **Amaravati**, multilateral loans (File 04), aggressive pursuit of industrial/energy investment (Files 08–09).
 
 ---
 
@@ -113,4 +113,4 @@
 3. **Why is India's tax-GDP ratio low, and how can it be raised without hurting growth?** Informality, exemptions (tax expenditure), agriculture outside, thresholds → remedies: base-widening, technology (e-invoice, AIS), direct-tax code 2025, rational GST, property-tax reform at local level.
 4. **Evaluate non-tax revenue's growing weight (RBI dividends, spectrum).** Windfall vs structural; volatility risk; user-charge rationality (2nd ARC); verdict: supplement, not substitute.
 
-[Index](README.md) · [Next: Public Debt →](02-Public-Debt-Internal-and-External.md)
+[← Inclusive Growth](02-Inclusive-Growth-and-Financial-Inclusion.md) · [Index](README.md) · [Next: Public Debt →](04-Public-Debt-Internal-and-External.md)

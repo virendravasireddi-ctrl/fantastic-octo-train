@@ -13,9 +13,9 @@ Full-length, exam-ready **model answers** to APPSC Group-I Mains questions, writ
 
 | # | Question | Draws on |
 |---|---|---|
-| [01](01-Education-Healthcare-Inclusive-Sustainable-Development.md) | Critically evaluate the role of **education and healthcare** in achieving inclusive & sustainable development; challenges & interventions | [File 17 §9](../17-Major-Challenges-of-Indian-Economy.md), [File 18 §3B](../18-Inclusive-Growth-and-Financial-Inclusion.md) |
-| [02](02-Internal-vs-External-Public-Debt.md) | Differentiate **internal vs external public debt**; their relative advantages & risks for a developing country like India | [File 02](../02-Public-Debt-Internal-and-External.md), [File 04 §2](../04-Monetary-and-Fiscal-Policy.md) |
-| [03](03-Women-Challenges-and-Empowerment-Programmes.md) | **Challenges faced by women** in India & recent **government empowerment programmes** | [File 18 §3C](../18-Inclusive-Growth-and-Financial-Inclusion.md), [File 17 §9](../17-Major-Challenges-of-Indian-Economy.md) |
-| [04](04-AP-Industrial-Policy-Initiatives-Bottlenecks.md) | Critically examine **Andhra Pradesh's industrial policy** — initiatives, support measures & bottlenecks | [File 06 §5](../06-Investment-in-Industries-and-Infrastructure.md), [File 17 §2B](../17-Major-Challenges-of-Indian-Economy.md) |
+| [01](01-Education-Healthcare-Inclusive-Sustainable-Development.md) | Critically evaluate the role of **education and healthcare** in achieving inclusive & sustainable development; challenges & interventions | [File 01 §9](../01-Major-Challenges-of-Indian-Economy.md), [File 02 §3B](../02-Inclusive-Growth-and-Financial-Inclusion.md) |
+| [02](02-Internal-vs-External-Public-Debt.md) | Differentiate **internal vs external public debt**; their relative advantages & risks for a developing country like India | [File 04](../04-Public-Debt-Internal-and-External.md), [File 06 §2](../06-Monetary-and-Fiscal-Policy.md) |
+| [03](03-Women-Challenges-and-Empowerment-Programmes.md) | **Challenges faced by women** in India & recent **government empowerment programmes** | [File 02 §3C](../02-Inclusive-Growth-and-Financial-Inclusion.md), [File 01 §9](../01-Major-Challenges-of-Indian-Economy.md) |
+| [04](04-AP-Industrial-Policy-Initiatives-Bottlenecks.md) | Critically examine **Andhra Pradesh's industrial policy** — initiatives, support measures & bottlenecks | [File 08 §5](../08-Investment-in-Industries-and-Infrastructure.md), [File 01 §2B](../01-Major-Challenges-of-Indian-Economy.md) |
 
 *More answers will be added here as questions are worked through.*

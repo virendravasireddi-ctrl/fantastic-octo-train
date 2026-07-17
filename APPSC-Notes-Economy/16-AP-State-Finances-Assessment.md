@@ -1,6 +1,6 @@
-# 09 · AP State Finances — "Is It Really That Bad?" A Technical Assessment
+# 16 · AP State Finances — "Is It Really That Bad?" A Technical Assessment
 
-[← Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: AP Budgetary Resources →](20-AP-Budgetary-Resources-and-Constraints.md)
+[← Federal Finance & Finance Commissions](15-Federal-Finance-Central-Assistance-and-Finance-Commissions.md) · [Index](README.md) · [Next: AP Budget Highlights →](17-AP-Government-Budgeting-and-Budget-Highlights.md)
 
 ---
 
@@ -102,4 +102,4 @@
 
 *Sources to cross-check before the exam: PRS Andhra Pradesh Budget Analysis 2025-26 & 2026-27; RBI, State Finances: A Study of Budgets and "State Finances: A Risk Analysis" (Bulletin, June 2022); CAG State Accounts at a Glance (AP); GoAP White Paper on State Finances (July 2024); NITI Aayog, Macro and Fiscal Landscape of Andhra Pradesh (2025). Compiled July 2026.*
 
-[← Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: AP Budgetary Resources →](20-AP-Budgetary-Resources-and-Constraints.md)
+[← Federal Finance & Finance Commissions](15-Federal-Finance-Central-Assistance-and-Finance-Commissions.md) · [Index](README.md) · [Next: AP Budget Highlights →](17-AP-Government-Budgeting-and-Budget-Highlights.md)

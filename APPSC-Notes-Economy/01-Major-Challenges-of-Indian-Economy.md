@@ -1,6 +1,6 @@
-# 09 · Major Challenges of the Indian Economy — Nature · Causes · Consequences · Solutions
+# 01 · Major Challenges of the Indian Economy — Nature · Causes · Consequences · Solutions
 
-[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: Inclusive Growth →](18-Inclusive-Growth-and-Financial-Inclusion.md)
+[Index](README.md) · [Next: Inclusive Growth →](02-Inclusive-Growth-and-Financial-Inclusion.md)
 
 ---
 
@@ -43,7 +43,7 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 |---|---|
 | **Causes** | Monsoon dependence of agriculture; **investment (private capex) cyclicality** — the post-2011 investment slump; global shocks (2008 GFC, 2013 taper tantrum, 2020 COVID −5.8%, 2022 Ukraine/oil); **twin balance-sheet freeze** (over-leveraged firms + NPA banks, ES 2016-17); policy shocks; jobless services-led pattern that doesn't broaden demand. |
 | **Consequences** | Employment can't keep pace with the labour force (~**12 mn** entrants/yr); revenue projections miss → fiscal slippage; investor uncertainty; **middle-income-trap** risk if we slow before we're rich; welfare gains reverse in bad years. |
-| **Solutions** | Revive the **private investment cycle** (post-COVID **capex-led** strategy, multiplier ≈2.5×, File 04); **manufacturing + exports** for durable, job-rich growth; deepen **domestic demand** (rural incomes, MSMEs); structural reforms (land, labour codes 2019–20, factor markets); **counter-cyclical macro** (FRBM flexibility + flexible inflation targeting); stable, predictable policy (avoid retro-tax-type shocks). |
+| **Solutions** | Revive the **private investment cycle** (post-COVID **capex-led** strategy, multiplier ≈2.5×, File 06); **manufacturing + exports** for durable, job-rich growth; deepen **domestic demand** (rural incomes, MSMEs); structural reforms (land, labour codes 2019–20, factor markets); **counter-cyclical macro** (FRBM flexibility + flexible inflation targeting); stable, predictable policy (avoid retro-tax-type shocks). |
 
 **AP tie-in:** state growth tracks agriculture + a thin industrial base; **crop-price and cyclone shocks** (e.g. periodic Bay-of-Bengal cyclones) make AP's own growth volatile — the case for diversification into industry/services (VCIC, ports, IT-Vizag).
 
@@ -79,7 +79,7 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 
 ## 3. Inflation and oil prices
 
-**Nature.** Inflation = a **sustained rise in the general price level**; India targets **CPI-Combined 4% ± 2%** (Flexible Inflation Targeting, File 04). India's inflation is typically **supply-side and food/fuel-driven**, not just demand-pull — so it responds weakly to rate hikes. Path: **FY23 ~6.7% → FY24 ~5.4% → FY25 ~4.6% → mid-2025 multi-year lows (~2%)** after food disinflation & **GST 2.0** — *verify the current print.*
+**Nature.** Inflation = a **sustained rise in the general price level**; India targets **CPI-Combined 4% ± 2%** (Flexible Inflation Targeting, File 06). India's inflation is typically **supply-side and food/fuel-driven**, not just demand-pull — so it responds weakly to rate hikes. Path: **FY23 ~6.7% → FY24 ~5.4% → FY25 ~4.6% → mid-2025 multi-year lows (~2%)** after food disinflation & **GST 2.0** — *verify the current print.*
 
 **The oil sub-problem ⭐⭐:** India imports **~85–88% of its crude oil** and **~50% of its natural gas** — among the world's **top-3 crude importers**. Oil is the **largest single item in the import bill**; a rule-of-thumb: **every +$10/barrel ≈ +0.4% of GDP on the CAD**, plus fiscal (subsidy/under-recovery) and inflation pressure — oil is the **transmission belt** from world markets to Indian prices, the rupee and the deficit.
 
@@ -87,7 +87,7 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 |---|---|
 | **Causes** | **Food:** supply shocks, monsoon, low farm productivity, cobweb cycles (onion-tomato-pulses "TOP"), hoarding, wastage. **Fuel:** import dependence + global crude/OPEC+ & geopolitics + high **domestic fuel taxes**. **Core:** input costs, services. **Structural:** supply bottlenecks, MSP, imported inflation via a weak rupee (§5); occasionally demand/liquidity. |
 | **Consequences** | **Inflation tax hits the poor hardest** (regressive — food is a bigger share of their basket); erodes **real wages & savings**; raises input costs & interest rates → dents investment & growth; widens **CAD** (costly oil) & pressures the **rupee**; can breach the FIT band → **MPC accountability letter** (triggered Nov 2022). |
-| **Solutions** | **Monetary:** MPC repo action + liquidity tools (File 04). **Supply-side (the real fix for food):** buffer stocks & open-market sales, imports, PDS, agri-productivity & storage, e-NAM. **Oil:** diversify crude sourcing (incl. **discounted Russian crude 2022+**), **Strategic Petroleum Reserves (incl. Vizag)**, ethanol blending (**E20**), EVs, city-gas & renewables to cut import intensity; rationalise fuel taxes / bring fuel under GST (debated). **Data/expectations:** credible FIT anchor. |
+| **Solutions** | **Monetary:** MPC repo action + liquidity tools (File 06). **Supply-side (the real fix for food):** buffer stocks & open-market sales, imports, PDS, agri-productivity & storage, e-NAM. **Oil:** diversify crude sourcing (incl. **discounted Russian crude 2022+**), **Strategic Petroleum Reserves (incl. Vizag)**, ethanol blending (**E20**), EVs, city-gas & renewables to cut import intensity; rationalise fuel taxes / bring fuel under GST (debated). **Data/expectations:** credible FIT anchor. |
 
 **AP tie-in:** **KG-basin gas (first oil 2024)**, **SPR at Visakhapatnam**, and refining/petro presence give AP a stake in the oil-and-gas story; food inflation in rice/pulses affects AP consumers and farmers alike.
 
@@ -103,7 +103,7 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 |---|---|
 | **Causes** | **Structural:** oil & gold & electronics import dependence; weak manufacturing/export base (§2B); **inelastic oil imports** (§3). **Cyclical:** global slowdowns hitting exports; commodity/oil spikes; gold demand; **FPI "sudden stops"** on the capital side (2013, 2018, 2022). |
 | **Consequences** | **Rupee depreciation** (§5); reserve drawdown; **external-sector vulnerability** ("twin deficit" with the fiscal deficit — both are dis-saving); higher external borrowing cost; in the extreme, a **BoP crisis (1991: reserves for ~2–3 weeks, gold pledged)** ⭐ — the reform trigger. |
-| **Solutions** | **Export push** (manufacturing/PLI, services, FTAs, "China+1"); **import substitution** where viable (electronics/semiconductors, edible-oil mission, defence indigenisation); **cut oil intensity** (renewables, EVs, ethanol); **remittance & services** promotion; **stable long-term capital (FDI > FPI, File 03)**; adequate **reserves + rupee-internationalisation** (rupee trade settlement, local-currency swaps); prudent external-debt profile (File 02). |
+| **Solutions** | **Export push** (manufacturing/PLI, services, FTAs, "China+1"); **import substitution** where viable (electronics/semiconductors, edible-oil mission, defence indigenisation); **cut oil intensity** (renewables, EVs, ethanol); **remittance & services** promotion; **stable long-term capital (FDI > FPI, File 05)**; adequate **reserves + rupee-internationalisation** (rupee trade settlement, local-currency swaps); prudent external-debt profile (File 04). |
 
 **Prelims pairs:** **CAD comfort ≈2.5% of GDP · FY13 peak 4.8% · 1991 BoP crisis · remittances #1 globally · reserves ~11-month cover.**
 
@@ -131,7 +131,7 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 |---|---|
 | **Causes** | **Over-lending in the 2003–08 boom** to infra/power/steel/telecom; **project delays**, over-optimistic appraisals, ALM mismatch (banks funding long infra with short deposits); global commodity downturn; **evergreening & governance failures** in PSBs; wilful default & crony lending; concealment exposed only by the **Asset Quality Review (AQR, 2015, Raghuram Rajan)** ⭐. |
 | **Consequences** | **Capital erosion** → banks under-lend (**"risk-averse", credit crunch**) → private capex freeze → slower growth; **recap burden on the exchequer** (fiscal cost); lower credit to MSMEs; systemic-stability risk; hit to depositor/investor confidence (later PMC/YES/IL&FS/DHFL episodes). |
-| **Solutions (the cleanup toolkit) ⭐⭐** | **Recognition:** AQR 2015. **Resolution:** **Insolvency & Bankruptcy Code (IBC 2016)** — time-bound, creditor-in-control; **NARCL ("bad bank") 2021** to aggregate legacy assets. **Recapitalisation:** **~₹3.1+ lakh crore into PSBs (2017–21)** incl. **recap bonds**; **Basel-III capital norms** (CRAR now ~16–17%). **Reform:** **PCA framework**, **PSB mega-mergers (2019–20 → 12 PSBs)**, EASE governance, **Bank Boards Bureau**; earlier SARFAESI 2002, DRTs. **Prevention:** better appraisal, early-warning, bond-market/DFI (NaBFID) for infra to end ALM mismatch (File 05). |
+| **Solutions (the cleanup toolkit) ⭐⭐** | **Recognition:** AQR 2015. **Resolution:** **Insolvency & Bankruptcy Code (IBC 2016)** — time-bound, creditor-in-control; **NARCL ("bad bank") 2021** to aggregate legacy assets. **Recapitalisation:** **~₹3.1+ lakh crore into PSBs (2017–21)** incl. **recap bonds**; **Basel-III capital norms** (CRAR now ~16–17%). **Reform:** **PCA framework**, **PSB mega-mergers (2019–20 → 12 PSBs)**, EASE governance, **Bank Boards Bureau**; earlier SARFAESI 2002, DRTs. **Prevention:** better appraisal, early-warning, bond-market/DFI (NaBFID) for infra to end ALM mismatch (File 07). |
 
 **"Capital infusion" nuance:** recapitalisation is **necessary but not sufficient** — without governance reform it risks **moral hazard** (repeatedly bailing out the same PSBs). Long-run answers favour **privatisation/consolidation + market discipline + a deep corporate-bond market** over perpetual budgetary infusion.
 
@@ -155,15 +155,15 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 
 ## 8. Insufficient financial resources & deficiency of capital
 
-**Nature.** Development needs **capital**; India historically suffers a **savings–investment gap** and a **low tax base**, so the state and firms are **resource-constrained**. Classic development-economics framing: **Nurkse's "vicious circle of poverty"** ⭐ — *low income → low saving → low investment → low productivity → low income* — and **"deficiency of capital"** as the binding constraint the whole Resource-Mobilization unit (Files 01–06) exists to relieve.
+**Nature.** Development needs **capital**; India historically suffers a **savings–investment gap** and a **low tax base**, so the state and firms are **resource-constrained**. Classic development-economics framing: **Nurkse's "vicious circle of poverty"** ⭐ — *low income → low saving → low investment → low productivity → low income* — and **"deficiency of capital"** as the binding constraint the whole Resource-Mobilization unit (Files 03–08) exists to relieve.
 
 | | Detail |
 |---|---|
-| **Causes** | **Low tax-GDP ratio** (Centre ~**11–12%**, general govt ~18% — below peers) due to a **narrow base, large informal sector & evasion (§7)**; **falling savings** — **gross domestic saving slipped from a ~36% peak (2007-08) toward ~30%**, and **household *financial* saving dipped to multi-decade lows (~5% of GNDI)** as households turned to physical assets & borrowing; **low per-capita income** limits the surplus; shallow **corporate-bond market** & DFI gap (File 05); **crowding-out** by fiscal deficits; capital flight via black money. |
-| **Consequences** | **Investment rate (GFCF ~30–33%) below the ~35%+** needed for sustained 8% growth; dependence on **foreign capital (FDI/FPI/ECB)** → external vulnerability (§4–5); infrastructure-financing shortfall (**NIP ₹111 lakh cr** need); high public borrowing & interest burden (File 02/04). |
-| **Solutions** | **Raise the tax base, not just rates** — GST 2.0, IT Act 2025, technology/faceless assessment, formalisation (§7). **Mobilise household savings** into financial assets — deepen capital markets, MFs/SIPs, pensions (NPS), **financial inclusion (Jan Dhan → JAM)**. **Institutions of development finance** — **NaBFID (2021)**, NIIF, bond-market deepening (File 05). **Attract stable FDI** over hot FPI (File 03). **Public-capital efficiency** — capex quality, asset monetisation (NMP), PPPs (File 06). **Curb leakages** — subsidy rationalisation via DBT, plug black money. |
+| **Causes** | **Low tax-GDP ratio** (Centre ~**11–12%**, general govt ~18% — below peers) due to a **narrow base, large informal sector & evasion (§7)**; **falling savings** — **gross domestic saving slipped from a ~36% peak (2007-08) toward ~30%**, and **household *financial* saving dipped to multi-decade lows (~5% of GNDI)** as households turned to physical assets & borrowing; **low per-capita income** limits the surplus; shallow **corporate-bond market** & DFI gap (File 07); **crowding-out** by fiscal deficits; capital flight via black money. |
+| **Consequences** | **Investment rate (GFCF ~30–33%) below the ~35%+** needed for sustained 8% growth; dependence on **foreign capital (FDI/FPI/ECB)** → external vulnerability (§4–5); infrastructure-financing shortfall (**NIP ₹111 lakh cr** need); high public borrowing & interest burden (File 04/06). |
+| **Solutions** | **Raise the tax base, not just rates** — GST 2.0, IT Act 2025, technology/faceless assessment, formalisation (§7). **Mobilise household savings** into financial assets — deepen capital markets, MFs/SIPs, pensions (NPS), **financial inclusion (Jan Dhan → JAM)**. **Institutions of development finance** — **NaBFID (2021)**, NIIF, bond-market deepening (File 07). **Attract stable FDI** over hot FPI (File 05). **Public-capital efficiency** — capex quality, asset monetisation (NMP), PPPs (File 08). **Curb leakages** — subsidy rationalisation via DBT, plug black money. |
 
-**Thread to remember:** this challenge is the **negative image of the entire Resource-Mobilization unit** — every tool in Files 01–06 (tax, debt, FDI/FPI, monetary-fiscal, DFIs, PPP) is an *answer* to "deficiency of capital." Cite them.
+**Thread to remember:** this challenge is the **negative image of the entire Resource-Mobilization unit** — every tool in Files 03–08 (tax, debt, FDI/FPI, monetary-fiscal, DFIs, PPP) is an *answer* to "deficiency of capital." Cite them.
 
 ---
 
@@ -183,11 +183,11 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 
 | | Detail |
 |---|---|
-| **Causes** | **Coal-heavy energy** (~70% of *generation*, File 07); rapid, unplanned **urbanisation**; **air pollution** (India hosts many of the world's most-polluted cities); **water stress** (NITI CWMI warnings; falling water tables); land degradation & deforestation; e-waste; climate exposure (cyclones, heat, erratic monsoon). |
+| **Causes** | **Coal-heavy energy** (~70% of *generation*, File 09); rapid, unplanned **urbanisation**; **air pollution** (India hosts many of the world's most-polluted cities); **water stress** (NITI CWMI warnings; falling water tables); land degradation & deforestation; e-waste; climate exposure (cyclones, heat, erratic monsoon). |
 | **Consequences** | **Health & productivity losses** (pollution costs ~several % of GDP); **water/food security** risk; climate-driven agrarian distress (feedback to §2A); stranded-asset & transition risk; the **growth-vs-environment trade-off** the syllabus flags. |
-| **Solutions** | **Energy transition** — **500 GW non-fossil capacity by 2030**, the **~50% non-fossil installed-capacity milestone reached July 2025 ⭐** (File 07), Green Hydrogen Mission, solar (ISA), EVs, ethanol (E20); **Net-Zero by 2070 & updated NDCs** (45% emission-intensity cut by 2030); **LiFE (Lifestyle for Environment)**; circular economy & EPR; afforestation, water (Jal Jeevan/Atal Bhujal, river rejuvenation); climate-resilient agriculture; **green finance** (sovereign green bonds 2023). Framework: **SDGs 2030 + "growth that is green is growth that lasts."** |
+| **Solutions** | **Energy transition** — **500 GW non-fossil capacity by 2030**, the **~50% non-fossil installed-capacity milestone reached July 2025 ⭐** (File 09), Green Hydrogen Mission, solar (ISA), EVs, ethanol (E20); **Net-Zero by 2070 & updated NDCs** (45% emission-intensity cut by 2030); **LiFE (Lifestyle for Environment)**; circular economy & EPR; afforestation, water (Jal Jeevan/Atal Bhujal, river rejuvenation); climate-resilient agriculture; **green finance** (sovereign green bonds 2023). Framework: **SDGs 2030 + "growth that is green is growth that lasts."** |
 
-**AP tie-in ⭐:** AP pairs **heavy welfare-DBT ("Navaratnalu"-type)** for inclusion with **fiscal stress** (Files 02/04) — the live inclusion-vs-sustainability-of-*finances* tension; on the green side, **Pinnapuram integrated RE + pumped storage, Kurnool/NP Kunta solar parks, and the Visakhapatnam green-hydrogen hub** make AP a renewable front-runner even as it manages discom losses.
+**AP tie-in ⭐:** AP pairs **heavy welfare-DBT ("Navaratnalu"-type)** for inclusion with **fiscal stress** (Files 04/06) — the live inclusion-vs-sustainability-of-*finances* tension; on the green side, **Pinnapuram integrated RE + pumped storage, Kurnool/NP Kunta solar parks, and the Visakhapatnam green-hydrogen hub** make AP a renewable front-runner even as it manages discom losses.
 
 ---
 
@@ -195,11 +195,11 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 
 | Nexus | One-line statement |
 |---|---|
-| **Twin deficits** ⭐ | A large **fiscal deficit** (public dis-saving) tends to widen the **current-account deficit** — both are the economy saving too little (§4, §8, File 04). |
-| **Impossible trinity** ⭐ | You can't simultaneously have a **fixed exchange rate, free capital flows and independent monetary policy** — India keeps monetary independence + open-ish capital account, so the **rupee must move** (§5, File 04). |
+| **Twin deficits** ⭐ | A large **fiscal deficit** (public dis-saving) tends to widen the **current-account deficit** — both are the economy saving too little (§4, §8, File 06). |
+| **Impossible trinity** ⭐ | You can't simultaneously have a **fixed exchange rate, free capital flows and independent monetary policy** — India keeps monetary independence + open-ish capital account, so the **rupee must move** (§5, File 06). |
 | **Oil → inflation → rupee → CAD loop** | An oil shock raises **inflation**, widens the **CAD**, weakens the **rupee**, which re-imports inflation — the classic feedback (§3–5). |
 | **Twin balance sheet** | **Over-leveraged firms + NPA banks** froze investment → **inconsistent growth** (§1, §6). |
-| **Vicious circle / capital deficiency** | Low income → low saving → low investment → low income (§8) — broken only by mobilising resources (Files 01–06). |
+| **Vicious circle / capital deficiency** | Low income → low saving → low investment → low income (§8) — broken only by mobilising resources (Files 03–08). |
 | **Growth vs inclusion vs sustainability "trilemma"** | Fast growth that is neither **inclusive** nor **green** is not durable — the §9 synthesis and the Viksit-Bharat-@2047 test. |
 
 ---
@@ -256,7 +256,7 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 5. **What causes the secular depreciation of the rupee, and should India resist it?** — Managed float, NEER/REER → causes (CAD, inflation-differential, dollar/FPI) → double-edged consequences → "smooth, don't fix" + fundamentals + rupee-internationalisation.
 6. **Trace the rise and resolution of the NPA crisis. Was capital infusion the right response?** — Boom-era over-lending → AQR 2015 exposure → 11.5% peak, twin balance sheet → IBC/NARCL/recap/PCA/mergers → GNPA ~2.3% → recap necessary-but-not-sufficient (moral hazard, privatisation, bond market).
 7. **"Black money is a symptom, not the disease." Evaluate India's anti-black-money and anti-money-laundering strategy.** — Define/estimate → causes (cash, rates, real estate, havens) → legal stack (PMLA, 2015/2016/2018 Acts, SIT, FATF) + systemic (demonetisation-debate, GST, JAM, GAAR, DTAA) → verdict: formalisation + simpler taxes.
-8. **"Deficiency of capital is the central problem of a developing economy." Examine with reference to India's savings–investment gap.** — Nurkse circle → low tax-GDP + falling household financial saving + shallow bond market → investment-rate shortfall & foreign-capital reliance → the Resource-Mobilization toolkit (Files 01–06) as the answer.
+8. **"Deficiency of capital is the central problem of a developing economy." Examine with reference to India's savings–investment gap.** — Nurkse circle → low tax-GDP + falling household financial saving + shallow bond market → investment-rate shortfall & foreign-capital reliance → the Resource-Mobilization toolkit (Files 03–08) as the answer.
 9. **Has India's growth been inclusive? Suggest measures to make it more so.** — Define inclusive growth (12th-Plan) → K-shaped evidence (informality, low female LFP, top-1% 22–23%, MPI gains) → jobs+skilling+DBT+JAM+education-health → demographic-dividend stakes.
 10. **"Growth that is not sustainable is not development." Discuss India's environment–development balance.** — Brundtland/SDGs → coal-heavy, pollution, water stress → transition (500 GW, 50% non-fossil Jul-2025, Net-Zero 2070, green H₂, LiFE, green bonds) → growth-vs-green trade-off → AP renewables illustration.
 
@@ -280,6 +280,6 @@ Master the arrows and you can answer any permutation the examiner throws (e.g. "
 
 ---
 
-*Compiled July 2026. This unit is deliberately number-heavy; every figure is year-labelled and must be re-verified from the latest **Economic Survey, RBI MPC/Annual Report, MoSPI, DGCI&S and Union Budget** before the exam. Pair with **File 04** (monetary-fiscal), **File 05** (banking/NPAs, DFIs) and **File 06** (investment) for the fuller treatment of the financial-sector and capital challenges.*
+*Compiled July 2026. This unit is deliberately number-heavy; every figure is year-labelled and must be re-verified from the latest **Economic Survey, RBI MPC/Annual Report, MoSPI, DGCI&S and Union Budget** before the exam. Pair with **File 06** (monetary-fiscal), **File 07** (banking/NPAs, DFIs) and **File 08** (investment) for the fuller treatment of the financial-sector and capital challenges.*
 
-[← Physical & Energy Resources](07-Physical-and-Energy-Resources.md) · [Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: Inclusive Growth →](18-Inclusive-Growth-and-Financial-Inclusion.md)
+[Index](README.md) · [Next: Inclusive Growth →](02-Inclusive-Growth-and-Financial-Inclusion.md)

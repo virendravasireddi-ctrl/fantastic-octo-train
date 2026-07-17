@@ -1,6 +1,6 @@
-# 11 · The AP Reorganisation Act, 2014 — Fulfilment, Central Assistance & Issues of Conflict
+# 20 · The AP Reorganisation Act, 2014 — Fulfilment, Central Assistance & Issues of Conflict
 
-[← AP Budgetary Resources](20-AP-Budgetary-Resources-and-Constraints.md) · [Index](README.md) · [Next: Public Debt & External Assistance →](22-AP-Public-Debt-and-External-Assistance.md)
+[← AP Budgetary Resources](19-AP-Budgetary-Resources-and-Constraints.md) · [Index](README.md) · [Next: Public Debt & External Assistance →](21-AP-Public-Debt-and-External-Assistance.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 - **Andhra Pradesh Reorganisation Act, 2014 (Act 6 of 2014); appointed day 2 June 2014** — bifurcated undivided AP into Telangana and residuary AP.
 - The Act is simultaneously AP's **grievance charter** (promises: institutions, projects, fiscal support) and its **conflict rulebook** (assets, water, dues). Exam questions come from both faces.
-- Key sections to cite: **S.5** (Hyderabad common capital ≤10 years — **expired 2 June 2024** ⭐), **S.46-50** (finance, resource gap, debt apportionment), **S.84** (Apex Council), **S.85** (KRMB/GRMB), **S.89** (Krishna tribunal reference — File 24), **S.90** (Polavaram = national project), **S.93 + Thirteenth Schedule** (institutions & infrastructure), **S.94** (tax incentives + backward-area grants), **Schedules IX & X** (division of corporations/institutions).
+- Key sections to cite: **S.5** (Hyderabad common capital ≤10 years — **expired 2 June 2024** ⭐), **S.46-50** (finance, resource gap, debt apportionment), **S.84** (Apex Council), **S.85** (KRMB/GRMB), **S.89** (Krishna tribunal reference — File 23), **S.90** (Polavaram = national project), **S.93 + Thirteenth Schedule** (institutions & infrastructure), **S.94** (tax incentives + backward-area grants), **Schedules IX & X** (division of corporations/institutions).
 
 ## 1. Fulfilment scoreboard — Thirteenth Schedule & allied promises ⭐⭐
 
@@ -19,7 +19,7 @@
 | **Education institutions** | **IIT Tirupati, NIT (Tadepalligudem), IIM Visakhapatnam, IISER Tirupati, Central University of AP (Anantapur), Central Tribal University (Vizianagaram), AIIMS Mangalagiri, IIPE Visakhapatnam (petroleum), IIITDM Kurnool** — essentially the full education slate ✔ |
 | **Railway zone** | **South Coast Railway (SCoR), HQ Visakhapatnam — operational from 1 June 2026** ⭐ (announced 2019; the newest zone) ✔ |
 | **Polavaram national project** | S.90: Centre funds **100% of the irrigation component**; executed by AP as agency; **Phase-I completion funding ≈₹12,157 cr approved (Aug 2024)** — *delivered in law and finance, delayed in construction* (~) |
-| **VCIC industrial corridor** | ADB-financed, under implementation (File 22) ✔ |
+| **VCIC industrial corridor** | ADB-financed, under implementation (File 21) ✔ |
 | **Special development package for backward districts** | 7 districts (4 Rayalaseema + 3 north-coastal) — grants **released only partially (≈₹350 cr/yr for initial years)**; AP demands a KBK-type long-horizon package (~) |
 
 ### 1.2 Undelivered / diluted (the grievance list)
@@ -38,9 +38,9 @@
 ## 2. Central assistance — what AP actually receives ⭐
 
 1. **Polavaram** — national-project funding via **NABARD-LTIF** route (S.90); the single largest central commitment to AP.
-2. **15th FC post-devolution revenue-deficit grants ≈₹30,497 cr (2021-26)** — the *de facto* bifurcation compensation ⭐ (File 20).
+2. **15th FC post-devolution revenue-deficit grants ≈₹30,497 cr (2021-26)** — the *de facto* bifurcation compensation ⭐ (File 19).
 3. **Special Assistance Measure (2016)** — Centre services principal + interest on AP's externally aided projects for the equivalent period, *in lieu of SCS*.
-4. **Amaravati re-engagement (2024):** World Bank + ADB **≈$1.6 bn** with Centre's sovereign guarantee, + HUDCO — central *facilitation* replacing central *grants* (File 22).
+4. **Amaravati re-engagement (2024):** World Bank + ADB **≈$1.6 bn** with Centre's sovereign guarantee, + HUDCO — central *facilitation* replacing central *grants* (File 21).
 5. Generic windows: 50-year interest-free capex loans, SASCI, CSS transfers — not bifurcation-specific but AP leans on them heavily.
 
 ## 3. Issues of conflict — the three fronts ⭐⭐
@@ -54,12 +54,12 @@
 |---|---|
 | **Division of Schedule IX (≈91 corporations) & Schedule X (≈142 institutions) + non-scheduled bodies** | **Still incomplete after a decade** — assets ≈₹1.4 lakh cr (heavily Hyderabad-sited) locked; **Sheela Bhide committee** recommendations part-contested ⭐ |
 | **Power dues** | TS discoms' dues to APGENCO **≈₹6,000-7,000 cr** — Centre directives + litigation, unresolved |
-| **Water sharing** | Krishna 66:34 ad-hoc split, S.89 tribunal reference, Banakacherla row — **File 24** |
+| **Water sharing** | Krishna 66:34 ad-hoc split, S.89 tribunal reference, Banakacherla row — **File 23** |
 | **Hyderabad transition** | Common-capital decade ended 2 June 2024; AP's buildings/dues claims in Hyderabad persist |
 | **Civil supplies / cash-credit debt split, employee allocation (Kamalanathan committee)** | Long-tail administrative disputes |
 
 ### 3.3 AP vs neighbours on Polavaram
-- **Odisha & Chhattisgarh** object to submergence (Sabari/Sileru backwaters); litigation in SC — S.90's deemed clearances vs riparian objections (bridge to File 24).
+- **Odisha & Chhattisgarh** object to submergence (Sabari/Sileru backwaters); litigation in SC — S.90's deemed clearances vs riparian objections (bridge to File 23).
 
 ## 4. Prelims nuggets
 
@@ -72,12 +72,12 @@
 7. Education slate delivered: **IIT Tirupati, IIM Vizag, IISER Tirupati, NIT Tadepalligudem, AIIMS Mangalagiri, IIPE Vizag, Central University Anantapur, Tribal University Vizianagaram, IIITDM Kurnool**.
 8. **Special Assistance Measure (Sept 2016)** = EAP-repayment support **in lieu of SCS**.
 9. **Schedules IX & X** — corporations/institutions division; **Sheela Bhide committee**; **Kamalanathan committee** = employees.
-10. **S.84 Apex Council; S.85 KRMB & GRMB; S.89 KWDT-II reference** (water — File 24).
+10. **S.84 Apex Council; S.85 KRMB & GRMB; S.89 KWDT-II reference** (water — File 23).
 
 ## 5. Mains angles
 
 1. **"The AP Reorganisation Act promised a hand-holding; AP got a handshake." Evaluate fulfilment of the Act's assurances.** Scoreboard (§1) → assistance actually flowing (§2) → verdict: education ✔, infrastructure ~, fiscal ✘ — and the SCS wound shapes AP politics and finances alike.
-2. **"Bifurcation created one state and two grievances." Examine AP-Telangana conflicts a decade on.** Assets/Schedules IX-X → power dues → water (File 24) → institutional fixes: empowered apex mechanism, time-bound arbitration, incentive-compatible splits.
+2. **"Bifurcation created one state and two grievances." Examine AP-Telangana conflicts a decade on.** Assets/Schedules IX-X → power dues → water (File 23) → institutional fixes: empowered apex mechanism, time-bound arbitration, incentive-compatible splits.
 3. **Special Category Status: substance or symbol?** What SCS technically confers (higher CSS share ~90:10, industrial incentives) vs what AP got (2016 measure, RD grants) → compute the gap → argue remedy: FC-route compensation vs category revival.
 4. **Polavaram as national project — cooperative federalism test case.** S.90 design → funding-cap friction → neighbour objections → lessons for inter-state project governance.
 
@@ -85,4 +85,4 @@
 
 *Sources to cross-check: AP Reorganisation Act 2014 (text + 13th Schedule); MHA/DoE releases on Polavaram & backward-area grants; PIB on South Coast Railway zone (2026); press coverage of Sheela Bhide committee and power-dues directives. Compiled July 2026.*
 
-[← AP Budgetary Resources](20-AP-Budgetary-Resources-and-Constraints.md) · [Index](README.md) · [Next: Public Debt & External Assistance →](22-AP-Public-Debt-and-External-Assistance.md)
+[← AP Budgetary Resources](19-AP-Budgetary-Resources-and-Constraints.md) · [Index](README.md) · [Next: Public Debt & External Assistance →](21-AP-Public-Debt-and-External-Assistance.md)

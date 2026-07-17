@@ -1,6 +1,6 @@
-# 03 · Foreign Direct Investment & Foreign Portfolio/Institutional Investment — and the "Desirability & Consequences" Master Table
+# 05 · Foreign Direct Investment & Foreign Portfolio/Institutional Investment — and the "Desirability & Consequences" Master Table
 
-[← Public Debt](02-Public-Debt-Internal-and-External.md) · [Index](README.md) · [Next: Monetary & Fiscal Policy →](04-Monetary-and-Fiscal-Policy.md)
+[← Public Debt](04-Public-Debt-Internal-and-External.md) · [Index](README.md) · [Next: Monetary & Fiscal Policy →](06-Monetary-and-Fiscal-Policy.md)
 
 ---
 
@@ -17,13 +17,13 @@ Foreign capital reaches India as: **FDI** · **FPI/FII** · **ECBs** · **NRI de
 - Key caps (check latest): defence **74% automatic/100% approval**; telecom **100%**; **insurance 74% → Budget 2025 announced 100%** (for insurers investing premiums domestically); space sector liberalised **2024**; single-brand retail 100%; multi-brand retail 51% (dormant); banking private 74%.
 - **India crossed $1 trillion cumulative FDI (2000–2024)** ⭐.
 - Recent trend to quote both-ways ⭐: **gross FDI inflows ≈$81 bn (FY25, +14%)** BUT **net FDI collapsed to ≈$0.4 bn** — record **repatriation/exits** (private-equity sales, IPO exits) + rising **outward FDI** by Indian firms. Interpretation: maturity of exit markets, not just weakness — but flags the financing gap.
-- Sources: **Singapore, Mauritius, USA** lead (treaty-routing caveat); sectors: services, software, trading; destination states: Maharashtra, Karnataka, Gujarat, Delhi-NCR dominate — **AP's share small (~1–2%)** → the industrial-corridor push (File 06).
+- Sources: **Singapore, Mauritius, USA** lead (treaty-routing caveat); sectors: services, software, trading; destination states: Maharashtra, Karnataka, Gujarat, Delhi-NCR dominate — **AP's share small (~1–2%)** → the industrial-corridor push (File 08).
 
 ## 2. FPI/FII — regime
 
 - **FPI** = portfolio investment **<10% equity**, plus debt instruments; regulated by **SEBI (FPI) Regulations 2019** (Categories I & II; the older "FII" label survives in the syllabus).
 - Instruments: listed equity, G-secs/SDLs (via limits), corporate bonds; **Participatory Notes (P-notes)** — offshore derivatives on Indian securities, periodically tightened (KYC concerns) ⭐; **Voluntary Retention Route (VRR)** for sticky debt money.
-- **Index-inclusion milestone ⭐: Indian G-secs entered the JP Morgan GBI-EM index (June 2024)** (and Bloomberg EM index, 2025) → tens of billions of passive debt inflows — a structural cheapening of government borrowing (link to File 02).
+- **Index-inclusion milestone ⭐: Indian G-secs entered the JP Morgan GBI-EM index (June 2024)** (and Bloomberg EM index, 2025) → tens of billions of passive debt inflows — a structural cheapening of government borrowing (link to File 04).
 - Behaviour: pro-cyclical "**hot money**" — sell-offs in 2008 (GFC), **2013 taper tantrum (India in the "Fragile Five")** ⭐, 2022 Fed tightening, late-2024/early-2025 equity outflows.
 
 ## 3. FDI vs FPI — the contrast table ⭐ (guaranteed question zone)
@@ -55,7 +55,7 @@ Foreign capital reaches India as: **FDI** · **FPI/FII** · **ECBs** · **NRI de
 
 - **Kia Motors, Anantapur (2019, ≈$2 bn)** — flagship manufacturing FDI in AP ⭐; **Sri City (Chittoor/Tirupati region)** — multinational manufacturing cluster.
 - **Announced mega-projects (label as announced, verify status):** Google's **Visakhapatnam AI data-centre hub (announced Oct 2025, ≈$15 bn with partners)** ⭐; ArcelorMittal-Nippon Steel plant (Anakapalli region).
-- The state-level lesson: FDI follows **infrastructure + logistics + power + speed of approvals** — AP's corridor/port strategy (File 06) is its FDI strategy.
+- The state-level lesson: FDI follows **infrastructure + logistics + power + speed of approvals** — AP's corridor/port strategy (File 08) is its FDI strategy.
 
 ---
 
@@ -81,4 +81,4 @@ Foreign capital reaches India as: **FDI** · **FPI/FII** · **ECBs** · **NRI de
 3. **"Liberal on paper, strategic in practice." Discuss India's evolving FDI policy.** 1991 → automatic-route expansion → PN3 security screen → sectoral pushes (defence, space, insurance) → gaps (net FDI, state concentration).
 4. **What must a state like AP do to attract investment?** Kia/Sri City lessons → infrastructure-power-logistics → corridors & ports → credibility and contract stability (capital is mobile; reputation is sticky).
 
-[← Public Debt](02-Public-Debt-Internal-and-External.md) · [Index](README.md) · [Next: Monetary & Fiscal Policy →](04-Monetary-and-Fiscal-Policy.md)
+[← Public Debt](04-Public-Debt-Internal-and-External.md) · [Index](README.md) · [Next: Monetary & Fiscal Policy →](06-Monetary-and-Fiscal-Policy.md)

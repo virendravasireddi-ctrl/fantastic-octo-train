@@ -1,6 +1,6 @@
-# 05 · Financial Markets and Institutions of Developmental Finance
+# 07 · Financial Markets and Institutions of Developmental Finance
 
-[← Monetary & Fiscal Policy](04-Monetary-and-Fiscal-Policy.md) · [Index](README.md) · [Next: Industries & Infrastructure →](06-Investment-in-Industries-and-Infrastructure.md)
+[← Monetary & Fiscal Policy](06-Monetary-and-Fiscal-Policy.md) · [Index](README.md) · [Next: Industries & Infrastructure →](08-Investment-in-Industries-and-Infrastructure.md)
 
 ---
 
@@ -13,7 +13,7 @@
 | Instrument | Facts |
 |---|---|
 | **Call/notice/term money** | Inter-bank, uncollateralised; call = overnight |
-| **T-bills 91/182/364-day; CMB** | Government paper (File 02) |
+| **T-bills 91/182/364-day; CMB** | Government paper (File 04) |
 | **Certificates of Deposit (1989)** | By banks |
 | **Commercial Paper (1990)** ⭐ | By corporates/PDs — unsecured promissory notes |
 | **Repo/TREPS** | Collateralised lending (CBLO replaced by **TREPS, 2018**) |
@@ -25,7 +25,7 @@
 - **Primary** (new issues: IPO/FPO/rights/private placement/QIP) vs **secondary** (trading).
 - Institutions: **BSE (1875 — Asia's oldest)**; **NSE (operations 1994)** — brought screen-based national trading; **SEBI: created 1988, statutory via SEBI Act 1992 after the Harshad Mehta scam** ⭐; depositories **NSDL 1996/CDSL 1999** (Depositories Act 1996 — dematerialisation); **derivatives trading from 2000**; indices: **Sensex (base 1978-79 = 100), Nifty-50 (base Nov 1995 = 1000)**.
 - Mobilization scoreboard (mid-2025 markers): **mutual-fund AUM ≈₹75 lakh crore** (SIP culture as household-savings channel ⭐); demat accounts **≈20 crore**; India among the world's busiest IPO markets (2024-25).
-- Weak spot ⭐: **corporate bond market shallow (≈18% of GDP outstanding)** — infra financing over-relies on banks (File 06 link); fixes: index inclusion spillovers, NaBFID market-making mandate, insurance/pension demand, municipal bonds (SEBI regs 2015).
+- Weak spot ⭐: **corporate bond market shallow (≈18% of GDP outstanding)** — infra financing over-relies on banks (File 08 link); fixes: index inclusion spillovers, NaBFID market-making mandate, insurance/pension demand, municipal bonds (SEBI regs 2015).
 
 ## 3. Banking & NBFC channel (the workhorse)
 
@@ -52,18 +52,18 @@
 | **EXIM Bank** | 1982 | Export-import credit |
 | **NHB** | 1988 | Housing finance regulator-refinancer |
 | **SIDBI** | **1990** | Small industries (MUDRA 2015 rides on it) |
-| **IREDA** | 1987 | Renewable-energy finance ⭐ (File 07 link) |
+| **IREDA** | 1987 | Renewable-energy finance ⭐ (File 09 link) |
 | **IIFCL** | 2006 | Long-tenor infra co-finance |
 | **NIIF** | 2015 | Sovereign-anchored infra equity fund |
 | **NaBFID** | **2021 (Act; ₹20,000 cr equity + ₹5,000 cr grant)** ⭐⭐ | The revived apex infra DFI; RBI-regulated as an **AIFI** |
 
-- **Fall:** post-1991 the concessional funding (SLR/LTO windows) dried → DFIs converted to universal banks — **ICICI reverse-merged into ICICI Bank (2002); IDBI became a bank (2004)** ⭐ → the "missing DFI" decade during the 2000s infra boom → banks filled it → **twin balance sheet crisis** (File 06).
+- **Fall:** post-1991 the concessional funding (SLR/LTO windows) dried → DFIs converted to universal banks — **ICICI reverse-merged into ICICI Bank (2002); IDBI became a bank (2004)** ⭐ → the "missing DFI" decade during the 2000s infra boom → banks filled it → **twin balance sheet crisis** (File 08).
 - **Revival logic:** NaBFID + NBFC-IFCs + NIIF + bond-market development = the new development-finance architecture. **AIFIs today: EXIM, NABARD, NHB, SIDBI, NaBFID** ⭐ (five — MCQ).
 - State tier: **APSFC (1956)** and **APIIC (1973 — industrial parks/estates)** are AP's development-finance arms (Mains localiser).
 
 ## 5. Savings-mobilization vehicles (household → system)
 
-- Small savings/NSSF (File 02); **NPS/Atal Pension Yojana** (PFRDA); insurance (**LIC 1956; IRDAI 1999 after Malhotra Committee 1994**; penetration ≈**3.7–4% of GDP** — under-insurance point); mutual funds (**UTI 1963 — first**; SEBI MF regs 1996); UPI-era deposit competition.
+- Small savings/NSSF (File 04); **NPS/Atal Pension Yojana** (PFRDA); insurance (**LIC 1956; IRDAI 1999 after Malhotra Committee 1994**; penetration ≈**3.7–4% of GDP** — under-insurance point); mutual funds (**UTI 1963 — first**; SEBI MF regs 1996); UPI-era deposit competition.
 - Financial inclusion stack: **Jan Dhan + Aadhaar + Mobile (JAM)**, Kisan Credit Cards, SHG-bank linkage (NABARD 1992 — deep AP roots: the SHG movement's showcase state ⭐), microfinance regulation (2022).
 
 ---
@@ -88,6 +88,6 @@
 1. **"India buried its DFIs in the 1990s and resurrected them in 2021." Trace and evaluate.** Why DFIs → fall (funding model, NPAs, universal banking) → gap & twin balance sheet → NaBFID/NBFC-IFC/NIIF architecture → success conditions (bond market, governance).
 2. **How do financial markets mobilize resources for development? Assess India's progress.** Savings → markets map → MF/demat/IPO boom vs shallow bond market & falling household financial savings → reforms.
 3. **"Banking reform is resource mobilization by another name."** 1969 social control → 1991 prudence → inclusion (JAM) → cleanup (IBC, GNPA 2.3%) → credit for MSME/infra; RRB consolidation with AP example.
-4. **Evaluate state-level development finance with reference to APSFC/APIIC.** Roles, constraints (capital, NPAs), and the shift to attracting central/multilateral/private finance (Files 02, 06).
+4. **Evaluate state-level development finance with reference to APSFC/APIIC.** Roles, constraints (capital, NPAs), and the shift to attracting central/multilateral/private finance (Files 04, 08).
 
-[← Monetary & Fiscal Policy](04-Monetary-and-Fiscal-Policy.md) · [Index](README.md) · [Next: Industries & Infrastructure →](06-Investment-in-Industries-and-Infrastructure.md)
+[← Monetary & Fiscal Policy](06-Monetary-and-Fiscal-Policy.md) · [Index](README.md) · [Next: Industries & Infrastructure →](08-Investment-in-Industries-and-Infrastructure.md)

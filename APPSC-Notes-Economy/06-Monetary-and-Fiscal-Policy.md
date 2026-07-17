@@ -1,6 +1,6 @@
-# 04 · Monetary and Fiscal Policies — The Twin Levers of Resource Management
+# 06 · Monetary and Fiscal Policies — The Twin Levers of Resource Management
 
-[← FDI & FPI](03-Foreign-Investment-FDI-and-FPI.md) · [Index](README.md) · [Next: Financial Markets & DFIs →](05-Financial-Markets-and-Development-Finance.md)
+[← FDI & FPI](05-Foreign-Investment-FDI-and-FPI.md) · [Index](README.md) · [Next: Financial Markets & DFIs →](07-Financial-Markets-and-Development-Finance.md)
 
 ---
 
@@ -25,7 +25,7 @@
 | **SDF (2022)** | Standing Deposit Facility — **collateral-free absorption floor** (replaced fixed reverse repo) ⭐ | repo −25 bps |
 | **MSF** | Marginal Standing Facility — penal ceiling | repo +25 bps |
 | **CRR** | Cash reserve (no interest) | **cut 4% → 3% (2025, phased)** ⭐ — releases ~₹2.5 lakh crore lendable funds |
-| **SLR** | Statutory liquidity (G-secs etc.) | 18% — the "captive demand" for public debt (File 02 link) |
+| **SLR** | Statutory liquidity (G-secs etc.) | 18% — the "captive demand" for public debt (File 04 link) |
 | **OMO / Operation Twist** | Outright G-sec purchases/sales; maturity swaps | Liquidity manager |
 | **Bank rate** | Long-term refinance signal (aligned to MSF) | — |
 
@@ -46,13 +46,13 @@
 | **Primary deficit** | FD − interest payments (this year's fresh fault) | ≈0.8% |
 | Trap | Budget deficit (old concept) abolished 1997 with ad hoc T-bills | — |
 
-- Financing of FD: market borrowings (largest), small savings, provident funds, external (tiny) — the bridge to File 02.
+- Financing of FD: market borrowings (largest), small savings, provident funds, external (tiny) — the bridge to File 04.
 - **Capex quality argument ⭐: capital-expenditure multiplier ≈2.5× vs ≈1× for revenue spending** (NIPFP/RBI estimates); Centre's capex **≈₹11.2 lakh crore (BE FY26, ~3.1% of GDP)** — the post-COVID "crowding-IN" strategy.
 
 ### 2.2 Rules & institutions
 - **FRBM 2003 → N. K. Singh review (2017) → escape clause (COVID: FY21 FD 9.2%) → glide to 4.4% (FY26) → debt-anchor regime from FY27 (Centre ≈50±1% of GDP by 2031)** — the one-line history every answer needs.
 - Off-budget cleanup (FY22): FCI-NSSF loans etc. brought on-budget — transparency milestone ⭐.
-- States: FRBM acts, **3% + 0.5% (power reforms)** net-borrowing ceilings, Art. 293(3) consent (File 02); **AP note:** repeated deviations/supplementaries and off-budget guarantees make AP a live case study of state-FRBM stress.
+- States: FRBM acts, **3% + 0.5% (power reforms)** net-borrowing ceilings, Art. 293(3) consent (File 04); **AP note:** repeated deviations/supplementaries and off-budget guarantees make AP a live case study of state-FRBM stress.
 
 ### 2.3 Consequences of deficit financing (the classic evaluation)
 - **Inflation tax** (monetisation), **crowding out** private credit vs Keynesian **crowding in** during slack; twin-deficit link (fiscal → current account); intergenerational equity (golden rule); ratings & risk premia.
@@ -88,4 +88,4 @@
 3. **"Judge deficits by what they buy." Discuss India's post-COVID fiscal strategy.** Escape clause → capex-led consolidation (multiplier logic) → new debt anchor → risks (interest burden, states' off-budget) → AP illustration.
 4. **Deficit financing: instrument of development or engine of inflation?** History (1950s–80s monetisation → 1991) → institutional locks (1997, FRBM) → when rules should bend (2020) → discipline with flexibility.
 
-[← FDI & FPI](03-Foreign-Investment-FDI-and-FPI.md) · [Index](README.md) · [Next: Financial Markets & DFIs →](05-Financial-Markets-and-Development-Finance.md)
+[← FDI & FPI](05-Foreign-Investment-FDI-and-FPI.md) · [Index](README.md) · [Next: Financial Markets & DFIs →](07-Financial-Markets-and-Development-Finance.md)

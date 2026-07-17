@@ -1,6 +1,6 @@
 # Model Answer 02 — Internal vs External Public Debt (Advantages & Risks for India)
 
-[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 02 (Public Debt)](../02-Public-Debt-Internal-and-External.md) · [File 04 §2 (Deficits)](../04-Monetary-and-Fiscal-Policy.md)
+[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 04 (Public Debt)](../04-Public-Debt-Internal-and-External.md) · [File 06 §2 (Deficits)](../06-Monetary-and-Fiscal-Policy.md)
 
 **Q. Differentiate between internal and external public debt. Explain their relative advantages and risks for a developing country like India.**
 
@@ -35,7 +35,7 @@
 - **No external conditionality** — full policy sovereignty.
 
 **Risks**
-- **Crowding out** — heavy government borrowing pre-empts domestic savings and pushes up interest rates, squeezing private investment (File 17 §1, §8).
+- **Crowding out** — heavy government borrowing pre-empts domestic savings and pushes up interest rates, squeezing private investment (File 01 §1, §8).
 - **Inflation risk** if monetised (historically via ad hoc T-bills — **abolished in 1997 → WMA**, ending automatic monetisation).
 - The **interest treadmill ⭐** — **interest payments are already India's single largest expenditure head (~35–40% of revenue receipts, ~₹12.8 lakh crore BE FY26)**; borrowing to pay interest violates the "golden rule."
 - **Financial repression** — captive SLR demand can distort the market.
@@ -43,12 +43,12 @@
 ## External debt — advantages & risks
 
 **Advantages**
-- Brings in **real additional resources / foreign exchange** a capital-scarce economy cannot mobilise domestically (addresses the "deficiency of capital", File 17 §8).
+- Brings in **real additional resources / foreign exchange** a capital-scarce economy cannot mobilise domestically (addresses the "deficiency of capital", File 01 §8).
 - **No domestic crowding out** — it doesn't compete for local savings.
 - **Concessional & project-tied** finance from multilateral agencies carries **long tenors, low rates and technical expertise** — e.g., India was the **largest IDA beneficiary (graduated 2014)**; **AIIB — India is the largest borrower**; **JICA — largest bilateral lender** (metros, bullet train).
 
 **Risks**
-- **Exchange-rate / "original sin" risk** — a falling rupee (File 17 §5) inflates the repayment burden.
+- **Exchange-rate / "original sin" risk** — a falling rupee (File 01 §5) inflates the repayment burden.
 - **Rollover & sudden-stop risk** — commercial borrowings (ECBs) and **short-term debt (~18–20%)** can flee in a crisis (the 2013 taper-tantrum lesson).
 - **Loss of sovereignty / conditionality** — the classic memory is the **1991 BoP crisis (gold pledged, IMF conditions)**.
 - Can spiral into a **debt trap** if used for consumption rather than productive assets (a warning from other developing economies).
@@ -58,7 +58,7 @@
 - India's model — **internal debt as the mainstay, external debt only at the margin, concessional and project-tied, with no sovereign foreign-currency bonds** — is widely judged prudent.
 - **Comfort indicators:** total external debt **≈$736 bn ≈19% of GDP (Mar 2025)** — moderate; **forex reserves (~$705 bn) cover 90%+ of it**; debt-service ratio ~6–7%.
 - **Sustainability test — the Domar condition (r < g) ⭐:** as long as the interest rate on debt stays below the growth rate, the debt-GDP ratio stabilises. India's new **fiscal anchor targets central debt ~50±1% of GDP by 2031**.
-- **Golden rule:** debt is justified when it **finances capital assets** (which generate returns to service it), not current consumption — hence the post-COVID **capex-led** strategy (multiplier ≈2.5×, File 04).
+- **Golden rule:** debt is justified when it **finances capital assets** (which generate returns to service it), not current consumption — hence the post-COVID **capex-led** strategy (multiplier ≈2.5×, File 06).
 
 ## Andhra Pradesh tie-in
 

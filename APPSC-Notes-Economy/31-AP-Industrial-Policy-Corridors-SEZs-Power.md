@@ -1,6 +1,6 @@
-# 15 · Andhra Pradesh — Industrial Policy, Incentives, Corridors & SEZs, Bottlenecks, Power Projects
+# 31 · Andhra Pradesh — Industrial Policy, Incentives, Corridors & SEZs, Bottlenecks, Power Projects
 
-[← Manufacturing Policy & Instruments](14-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md) · [Index](README.md) · [Next: Industry Revision & Practice →](16-Industry-Revision-and-Practice.md)
+[← Manufacturing Policy & Instruments](30-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md) · [Index](README.md) · [Next: Industry Revision & Practice →](32-Industry-Revision-and-Practice.md)
 
 ---
 
@@ -33,15 +33,15 @@
 
 - **VSEZ (Visakhapatnam)** — one of India's original central EPZs (1989) turned SEZ; its Development Commissioner oversees the AP zone ecosystem (roughly **three dozen notified, ~20 exporting** — IT, pharma, multi-product).
 - Flagships: **Sri City (2008)** — private multi-product SEZ + DTA + FTWZ near Tada (200+ firms: Isuzu, Kellogg's, Mondelez, Colgate, Foxconn units); **APIIC multi-product SEZ Atchutapuram** with **Brandix India Apparel City** (large women's employment ⭐); **Kakinada SEZ**; **Jawaharlal Nehru Pharma City (Parawada)** and Pydibhimavaram pharma cluster; **EMC 2.0 electronics cluster at Kopparthy**; **Nakkapalli bulk-drug park (one of only three sanctioned nationally)** ⭐.
-- Use in answers: AP's SEZ story = ports + cheap land + coastal logistics; constraint = the national SEZ tax-sunset problem (File 14).
+- Use in answers: AP's SEZ story = ports + cheap land + coastal logistics; constraint = the national SEZ tax-sunset problem (File 30).
 
 ## 4. Bottlenecks for industrial development ⭐⭐ (syllabus phrase — enumerate)
 
 1. **Agglomeration deficit:** no Hyderabad-scale metro; thin urban/skill ecosystems (Vizag is being groomed as the substitute).
-2. **Capital-city uncertainty (2019-24)** — three-capitals episode → investor-confidence damage; Amaravati restart with **WB+ADB ≈$1.6 bn** (File 06) is the corrective.
+2. **Capital-city uncertainty (2019-24)** — three-capitals episode → investor-confidence damage; Amaravati restart with **WB+ADB ≈$1.6 bn** (File 08) is the corrective.
 3. **Fiscal stress:** revenue-deficit state, high debt; **pending incentive dues** to industry hurt policy credibility; limited capacity for big capital subsidies.
 4. **Power economics:** industrial tariffs burdened by cross-subsidy & true-up charges; the **PPA-renegotiation episode (2019)** ⭐ spooked renewable investors — a case study in regulatory risk.
-5. **No coal, no captive mines:** post-bifurcation (Singareni → Telangana) fuel is hauled/imported (File 12); RINL's minelessness is the emblem.
+5. **No coal, no captive mines:** post-bifurcation (Singareni → Telangana) fuel is hauled/imported (File 28); RINL's minelessness is the emblem.
 6. **AP Reorganisation Act promises under-delivered** ⭐: Special Category Status denied; s.94 tax incentives came only as **Sec 32AD investment allowance (15%) + 35% additional depreciation (2015-20)**; **Kadapa steel plant (Schedule 13) still unbuilt**; backward-districts package (₹350 cr/yr for 7 districts) released fitfully; Vizag railway zone (South Coast Railway) long delayed.
 7. Land assembly frictions, port-hinterland connectivity gaps, skills mismatch, and low credit depth in Rayalaseema/north coastal districts.
 
@@ -79,4 +79,4 @@
 4. **"Power as AP's industrial input and industrial opportunity."** Input: tariff/cross-subsidy burden, discom stress; Opportunity: PSP/solar/green-hydrogen leadership (Pinnapuram, Pudimadaka, ICE 2024) — AP can sell energy transition as its next industry.
 5. **PYQ 2025 Q12(b) skeleton:** endowments (coast/ports/minerals/aqua) → sectors: pharma & medtech (Vizag/AMTZ), auto (Kia), electronics (Sri City/Kopparthy/Tirupati), textiles (Brandix), cement & steel, food processing → corridors/SEZ platform → close with IDP 4.0 targets.
 
-[← Manufacturing Policy & Instruments](14-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md) · [Index](README.md) · [Next: Industry Revision & Practice →](16-Industry-Revision-and-Practice.md)
+[← Manufacturing Policy & Instruments](30-Manufacturing-Policy-MakeInIndia-Startups-NIMZ-SEZ-Corridors.md) · [Index](README.md) · [Next: Industry Revision & Practice →](32-Industry-Revision-and-Practice.md)

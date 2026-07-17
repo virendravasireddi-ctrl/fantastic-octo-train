@@ -1,6 +1,6 @@
-# 02 · Public Debt — Market Borrowings, Loans & Grants, External Debt from Multilateral Agencies
+# 04 · Public Debt — Market Borrowings, Loans & Grants, External Debt from Multilateral Agencies
 
-[← Budgetary Resources](01-Resource-Mobilization-and-Budgetary-Resources.md) · [Index](README.md) · [Next: FDI & FPI →](03-Foreign-Investment-FDI-and-FPI.md)
+[← Budgetary Resources](03-Resource-Mobilization-and-Budgetary-Resources.md) · [Index](README.md) · [Next: FDI & FPI →](05-Foreign-Investment-FDI-and-FPI.md)
 
 ---
 
@@ -23,7 +23,7 @@
 | **Ways & Means Advances (WMA, 1997)** | RBI's temporary accommodation to Centre/states — replaced **ad hoc T-bills (abolished 1997)** ⭐ ending automatic monetisation |
 | Gold bonds/loans | SGB scheme (2015; discontinued for fresh issues 2024-25) |
 
-- Holders of G-secs: banks (SLR demand), insurance/pension funds, RBI, and now **FPIs (small but rising after index inclusion — File 03)**; **RBI Retail Direct (2021)** opened G-secs to individuals.
+- Holders of G-secs: banks (SLR demand), insurance/pension funds, RBI, and now **FPIs (small but rising after index inclusion — File 05)**; **RBI Retail Direct (2021)** opened G-secs to individuals.
 
 ## 2. The numbers & rules (label the year; update before exam)
 
@@ -71,7 +71,7 @@
 | Verdict | Mainstay — deep G-sec market is a strength | Useful at the margin, concessional & project-tied; cap on short-term/commercial exposure |
 
 - Debt-financing pathologies to cite: **interest treadmill → revenue deficit → borrowing for consumption** (violates golden rule); ratings pressure; financial repression (SLR captive demand).
-- Counter-view (functional finance/Keynes): in slumps, borrowing-financed **capex has multiplier ≈2.5×** (File 04) — composition of spending matters more than the deficit number alone.
+- Counter-view (functional finance/Keynes): in slumps, borrowing-financed **capex has multiplier ≈2.5×** (File 06) — composition of spending matters more than the deficit number alone.
 
 ## 6. AP debt picture (Mains localiser)
 
@@ -105,4 +105,4 @@
 3. **Multilateral development banks in India's development — from IDA schoolrooms to AIIB metros.** Agency-wise evidence incl. Amaravati/VCIC → conditionality debate → India as shaper (AIIB/NDB member-founder).
 4. **Assess the states' debt problem with reference to Andhra Pradesh.** Ceilings & 293(3) → AP's revenue-deficit + off-budget issue → capex loans & multilateral projects → fiscal-transparency prescription (CAG, guarantee caps).
 
-[← Budgetary Resources](01-Resource-Mobilization-and-Budgetary-Resources.md) · [Index](README.md) · [Next: FDI & FPI →](03-Foreign-Investment-FDI-and-FPI.md)
+[← Budgetary Resources](03-Resource-Mobilization-and-Budgetary-Resources.md) · [Index](README.md) · [Next: FDI & FPI →](05-Foreign-Investment-FDI-and-FPI.md)

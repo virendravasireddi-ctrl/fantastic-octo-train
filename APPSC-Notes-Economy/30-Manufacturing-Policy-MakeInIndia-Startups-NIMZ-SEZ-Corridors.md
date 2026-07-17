@@ -1,6 +1,6 @@
-# 14 · Manufacturing Policy — Make in India · Startup India · NIMZs · SEZs · Industrial Corridors
+# 30 · Manufacturing Policy — Make in India · Startup India · NIMZs · SEZs · Industrial Corridors
 
-[← MSMEs & Industrial Sickness](13-MSMEs-and-Industrial-Sickness.md) · [Index](README.md) · [Next: AP Industrial Policy, Corridors, SEZs & Power →](15-AP-Industrial-Policy-Corridors-SEZs-Power.md)
+[← MSMEs & Industrial Sickness](29-MSMEs-and-Industrial-Sickness.md) · [Index](README.md) · [Next: AP Industrial Policy, Corridors, SEZs & Power →](31-AP-Industrial-Policy-Corridors-SEZs-Power.md)
 
 ---
 
@@ -17,7 +17,7 @@ Manufacturing stuck ≈ **17% of GVA**; jobs thin; imports (especially electroni
 ## 2. Make in India (Sept 2014) ⭐⭐
 
 - **Four pillars:** new processes (EoDB), new infrastructure (corridors/clusters), new sectors (FDI opening — defence, railways, insurance, space), new mindset (facilitator state). **25 sectors** initially; Make in India 2.0 → **27 (15 mfg + 12 services)**.
-- Supporting stack: **PLI (14 sectors, ≈₹1.97 lakh cr — File 06)**, **15% corporate tax for new manufacturing cos (Sec 115BAB, 2019 — sunset lapsed Mar 2024)** ⭐, National Single Window System (2021), **four Labour Codes in force Nov 2025**, GST, IBC.
+- Supporting stack: **PLI (14 sectors, ≈₹1.97 lakh cr — File 08)**, **15% corporate tax for new manufacturing cos (Sec 115BAB, 2019 — sunset lapsed Mar 2024)** ⭐, National Single Window System (2021), **four Labour Codes in force Nov 2025**, GST, IBC.
 - **Scoreboard — wins:** EoDB rank **142 → 63 (2019; World Bank series discontinued 2021** ⭐); **2nd-largest mobile-phone maker** — electronics exports ≈ **$38–40 bn (FY25)**, iPhones a top export line; defence production ≈ ₹1.3 lakh cr with **exports ≈ ₹24,000 cr (FY25)**; toys/bicycles import substitution; first India-packaged **semiconductor chips (2025)**.
 - **Critique:** manufacturing **share flat ≈17%**; assembly-heavy (import content high — "screwdriver" charge); jobs modest; tariff protection crept up even as new FTAs (**EFTA TEPA 2024, UK CETA 2025**) pull the other way. Balanced close: *scale achieved in pockets; breadth and value-addition pending.*
 
@@ -40,8 +40,8 @@ Manufacturing stuck ≈ **17% of GVA**; jobs thin; imports (especially electroni
 
 - **National Industrial Corridor Development Programme: 11 corridors / 32 projects**, executed by **NICDC** (renamed from DMICDC, 2020). First mover: **DMIC (2007-08, with Japan; rides the Western DFC)**.
 - Others to name: Amritsar–Kolkata (AKIC), **Chennai–Bengaluru (CBIC)**, **Visakhapatnam–Chennai (VCIC — ADB-financed, ≈$631 mn; phase-1 of the East Coast Economic Corridor, India's first coastal corridor)** ⭐, Hyderabad–Bengaluru (HBIC), Hyderabad–Nagpur, East-Coast (ECEC).
-- **12 new industrial smart cities (Aug 2024, ₹28,602 cr)** ⭐⭐ — greenfield "plug-and-play" nodes under NICDP; **two in AP: Orvakal (Kurnool) & Kopparthy (YSR Kadapa)** — the pair every AP aspirant must know (detail in File 15).
-- Logic: corridors = **infrastructure + land + logistics bundled**, aligned with **PM Gati Shakti** master-planning (File 06) — the "new infrastructure" pillar of Make in India made concrete.
+- **12 new industrial smart cities (Aug 2024, ₹28,602 cr)** ⭐⭐ — greenfield "plug-and-play" nodes under NICDP; **two in AP: Orvakal (Kurnool) & Kopparthy (YSR Kadapa)** — the pair every AP aspirant must know (detail in File 31).
+- Logic: corridors = **infrastructure + land + logistics bundled**, aligned with **PM Gati Shakti** master-planning (File 08) — the "new infrastructure" pillar of Make in India made concrete.
 
 ---
 
@@ -63,6 +63,6 @@ Manufacturing stuck ≈ **17% of GVA**; jobs thin; imports (especially electroni
 1. **"From Make in India to PLI to smart cities — India's manufacturing policy has moved from slogans to instruments." Evaluate.** NMP targets missed → MII pillars & scoreboard → PLI/corridor hardware → gaps (value-addition, jobs, MSME linkage).
 2. **Have SEZs served India's industrialisation?** Kandla→2005 arc, export numbers vs enclave critique, MAT/sunset self-goals, WTO problem → Baba Kalyani/DESH redesign as the answer; compare China's SEZ-as-reform-lab vs India's SEZ-as-tax-island.
 3. **Startups as an industrial policy.** Ecosystem stats → what state support actually did (FFS, procurement, angel-tax removal) → quality problems (governance, flipping) → deep-tech imperative.
-4. **Industrial corridors: infrastructure-led industrialisation.** Corridor logic (agglomeration, logistics) → NICDP/Gati Shakti integration → AP's three nodes as the worked example (File 15).
+4. **Industrial corridors: infrastructure-led industrialisation.** Corridor logic (agglomeration, logistics) → NICDP/Gati Shakti integration → AP's three nodes as the worked example (File 31).
 
-[← MSMEs & Industrial Sickness](13-MSMEs-and-Industrial-Sickness.md) · [Index](README.md) · [Next: AP Industrial Policy, Corridors, SEZs & Power →](15-AP-Industrial-Policy-Corridors-SEZs-Power.md)
+[← MSMEs & Industrial Sickness](29-MSMEs-and-Industrial-Sickness.md) · [Index](README.md) · [Next: AP Industrial Policy, Corridors, SEZs & Power →](31-AP-Industrial-Policy-Corridors-SEZs-Power.md)

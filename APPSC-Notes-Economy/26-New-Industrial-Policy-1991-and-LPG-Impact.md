@@ -1,6 +1,6 @@
-# 10 · New Industrial Policy 1991 — Content, Impact, and LPG on Indian Industry
+# 26 · New Industrial Policy 1991 — Content, Impact, and LPG on Indian Industry
 
-[← Industrial Sector & Policy Evolution](09-Industrial-Sector-Role-and-Policy-Evolution.md) · [Index](README.md) · [Next: Public Sector, Disinvestment & Privatization →](11-Public-Sector-Disinvestment-and-Privatization.md)
+[← Industrial Sector & Policy Evolution](25-Industrial-Sector-Role-and-Policy-Evolution.md) · [Index](README.md) · [Next: Public Sector, Disinvestment & Privatization →](27-Public-Sector-Disinvestment-and-Privatization.md)
 
 ---
 
@@ -15,7 +15,7 @@
 | Pillar | 1991 change | Where it stands now |
 |---|---|---|
 | **1. Industrial licensing abolished** | Licensing retained for only **18** industries (security/strategic/hazardous) | Whittled to **4**: defence-electronics/aerospace, industrial explosives, hazardous chemicals, cigarettes/tobacco ⭐ (potable alcohol = state subject; SC 9-judge bench **2024** upheld state power over *industrial* alcohol too ⭐) |
-| **2. Public sector dereservation** | Reserved list cut **17 (1956) → 8 (1991)** | Effectively only **atomic energy (+ scheduled atomic minerals)**; even rail operations selectively opened (File 11) |
+| **2. Public sector dereservation** | Reserved list cut **17 (1956) → 8 (1991)** | Effectively only **atomic energy (+ scheduled atomic minerals)**; even rail operations selectively opened (File 27) |
 | **3. MRTP defanged** | Assets threshold & pre-entry approvals **abolished** | MRTP Act → **Competition Act 2002; CCI fully functional 2009** (Raghavan Committee); Competition (Amendment) Act **2023** adds deal-value threshold & settlements ⭐ |
 | **4. FDI welcomed** | **51% automatic route in 34 industry groups**; FIPB for the rest; automatic technology agreements | **FEMA 1999** replaced FERA; **FIPB abolished 2017**; today most sectors 74–100% automatic (defence 74% automatic; insurance 74%, Budget 2025 proposed 100%; space liberalised 2024) |
 | **5. External opening** | **Phased Manufacturing Programme abolished**, import licensing dismantled, tariffs begin descent | LERMS 1992 → unified rate 1993 → **current-account convertibility, Aug 1994 (IMF Art. VIII)** |
@@ -37,15 +37,15 @@
 
 ## 3. LPG unpacked — effects on industrial development
 
-- **Liberalisation** (internal + external decontrol): freed entry/expansion; industrial decisions moved from ministries to markets. Effect: efficiency up, but shake-out of protected firms → some **industrial sickness** (File 13).
-- **Privatisation** (ownership/management shift; disinvestment → strategic sale): full treatment in **File 11**.
-- **Globalisation:** trade (goods+services) ≈ **45% of GDP**; GVC insertion (mobiles, autos); but exposure to global cycles, dumping, and now **CBAM/China+1 geopolitics** (Files 12, 14).
+- **Liberalisation** (internal + external decontrol): freed entry/expansion; industrial decisions moved from ministries to markets. Effect: efficiency up, but shake-out of protected firms → some **industrial sickness** (File 29).
+- **Privatisation** (ownership/management shift; disinvestment → strategic sale): full treatment in **File 27**.
+- **Globalisation:** trade (goods+services) ≈ **45% of GDP**; GVC insertion (mobiles, autos); but exposure to global cycles, dumping, and now **CBAM/China+1 geopolitics** (Files 28, 30).
 - Balanced verdict formula: *1991 fixed the state-vs-market question; the unfinished agenda is state capacity — infrastructure, skills, factor markets, and manufacturing jobs.*
 
 ## 4. AP box ⭐ — liberalisation's Andhra chapter
 
-- 1990s AP was an **early state-level reformer** (power-sector unbundling 1998–2000 — File 15; e-governance push, "Vision 2020").
-- Post-bifurcation (2014) the residual state had to rebuild an industrial base without Hyderabad: wins include **Kia (Anantapur, 2019)**, **Sri City (2008–)**, Vizag pharma cluster, aqua-processing; policy vehicle = successive AP industrial policies and **EoDB top ranks** (File 15).
+- 1990s AP was an **early state-level reformer** (power-sector unbundling 1998–2000 — File 31; e-governance push, "Vision 2020").
+- Post-bifurcation (2014) the residual state had to rebuild an industrial base without Hyderabad: wins include **Kia (Anantapur, 2019)**, **Sri City (2008–)**, Vizag pharma cluster, aqua-processing; policy vehicle = successive AP industrial policies and **EoDB top ranks** (File 31).
 - Use in answers: AP as evidence that post-1991, **states became the real industrial policymakers** — competitive federalism in action.
 
 ---
@@ -66,8 +66,8 @@
 ## 6. Mains angles
 
 1. **"1991 was a watershed in India's industrial history." Examine.** Crisis → five demolitions table → growth/FDI/competition evidence → qualify with jobs & manufacturing-share stagnation → unfinished agenda (labour codes, land, logistics).
-2. **Assess the impact of LPG on Indian industrial development.** Take L, P, G separately with one named example each; close: gains real but *industrial deepening* still policy-dependent (PLI, corridors — File 14).
+2. **Assess the impact of LPG on Indian industrial development.** Take L, P, G separately with one named example each; close: gains real but *industrial deepening* still policy-dependent (PLI, corridors — File 30).
 3. **"Liberalisation shifted industrial policy from Delhi to the states." Discuss** — competitive federalism, EoDB rankings, AP/TN/Gujarat investor summits; risks (incentive wars, race-to-the-bottom).
-4. **Why did manufacturing not become India's engine of growth after 1991?** Factor markets, infrastructure costs, small-firm dwarfism (File 13), import competition; remedies preview (File 14).
+4. **Why did manufacturing not become India's engine of growth after 1991?** Factor markets, infrastructure costs, small-firm dwarfism (File 29), import competition; remedies preview (File 30).
 
-[← Industrial Sector & Policy Evolution](09-Industrial-Sector-Role-and-Policy-Evolution.md) · [Index](README.md) · [Next: Public Sector, Disinvestment & Privatization →](11-Public-Sector-Disinvestment-and-Privatization.md)
+[← Industrial Sector & Policy Evolution](25-Industrial-Sector-Role-and-Policy-Evolution.md) · [Index](README.md) · [Next: Public Sector, Disinvestment & Privatization →](27-Public-Sector-Disinvestment-and-Privatization.md)

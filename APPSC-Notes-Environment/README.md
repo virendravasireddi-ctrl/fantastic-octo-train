@@ -56,7 +56,7 @@ This series is **source-first and answer-oriented**: every file closes with **pr
 ## Companion series (other Group-I papers)
 
 - [`../APPSC-Notes/`](../APPSC-Notes/README.md) — History, Culture & Geography of India and AP (the **Physical Features & Resources** files 16–20 overlap directly with this series).
-- [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) — Indian Economy: Resource Mobilization (its **Physical & Energy Resources** file 07 is the economic complement to Files 03–04 here).
+- [`../APPSC-Notes-Economy/`](../APPSC-Notes-Economy/README.md) — Indian Economy: Resource Mobilization (its **Physical & Energy Resources** file 09 is the economic complement to Files 03–04 here).
 - [`../APPSC-Notes-PubAd/`](../APPSC-Notes-PubAd/README.md) — Public Administration & Governance.
 - [`../APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md`](../APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md) — Paper-II syllabus with previous-year questions (the **Environmental Geography** sub-heading maps to this series).
 

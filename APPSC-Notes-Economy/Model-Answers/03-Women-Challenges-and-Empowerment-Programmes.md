@@ -1,6 +1,6 @@
 # Model Answer 03 — Challenges Faced by Women & Recent Empowerment Programmes
 
-[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 18 §3C](../18-Inclusive-Growth-and-Financial-Inclusion.md) · [File 17 §9](../17-Major-Challenges-of-Indian-Economy.md)
+[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 02 §3C](../02-Inclusive-Growth-and-Financial-Inclusion.md) · [File 01 §9](../01-Major-Challenges-of-Indian-Economy.md)
 
 **Q. What are the challenges faced by women in India? Throw some light on the recent programmes initiated by the government for women empowerment.**
 
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Women are nearly **half of India's population** but remain far from equal partners in development. **Empowerment** means expanding their **access** (to education, jobs, credit, health), **agency** (decision-making, mobility, political voice) and **safety**. India's low standing on the **WEF Global Gender Gap Index (~129/146, 2024)** — weakest on *economic participation* and *health* — shows why women's empowerment is central to **inclusive growth** (File 17 §9). Andhra Pradesh, a pioneer of the women's SHG movement, offers both models and cautionary lessons.
+Women are nearly **half of India's population** but remain far from equal partners in development. **Empowerment** means expanding their **access** (to education, jobs, credit, health), **agency** (decision-making, mobility, political voice) and **safety**. India's low standing on the **WEF Global Gender Gap Index (~129/146, 2024)** — weakest on *economic participation* and *health* — shows why women's empowerment is central to **inclusive growth** (File 01 §9). Andhra Pradesh, a pioneer of the women's SHG movement, offers both models and cautionary lessons.
 
 ## Challenges faced by women in India
 
@@ -58,7 +58,7 @@ Women are nearly **half of India's population** but remain far from equal partne
 
 - **Aadabidda Nidhi** — ₹1,500/month to women (19–59); **Deepam-2** — 3 free LPG cylinders; **free APSRTC bus travel for women**; **Thalliki Vandanam** — ₹15,000/yr routed to mothers (Super Six).
 - **NTR Bharosa** widow/single-women pensions.
-- **The SHG engine ⭐:** AP pioneered **DWCRA/"Podupu Lakshmi"**; today **SERP (Velugu/IKP)** women's federations + **Sthree Nidhi Credit Cooperative (2011)** deliver low-cost credit — the backbone of women's financial inclusion (File 18 §10C).
+- **The SHG engine ⭐:** AP pioneered **DWCRA/"Podupu Lakshmi"**; today **SERP (Velugu/IKP)** women's federations + **Sthree Nidhi Credit Cooperative (2011)** deliver low-cost credit — the backbone of women's financial inclusion (File 02 §10C).
 
 ## Critical note (evaluation)
 

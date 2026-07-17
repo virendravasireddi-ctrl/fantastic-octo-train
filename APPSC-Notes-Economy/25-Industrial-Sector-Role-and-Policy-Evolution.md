@@ -1,6 +1,6 @@
-# 09 · Role of the Industrial Sector & Evolution of Industrial Policy (1948–1991)
+# 25 · Role of the Industrial Sector & Evolution of Industrial Policy (1948–1991)
 
-[← Economy Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: Industrial Policy 1991 & LPG →](10-New-Industrial-Policy-1991-and-LPG-Impact.md)
+[← Budgeting Revision & Practice](24-Budgeting-and-Federal-Finance-Revision-and-Practice.md) · [Index](README.md) · [Next: Industrial Policy 1991 & LPG →](26-New-Industrial-Policy-1991-and-LPG-Impact.md)
 
 ---
 
@@ -16,7 +16,7 @@
 
 - Industrial sector = **manufacturing + mining & quarrying + electricity/gas/water + construction**.
 - **IIP** (NSO, monthly; base **2011-12**): weights — **manufacturing 77.63%, mining 14.37%, electricity 7.99%** ⭐. Use-based classes (capital goods = investment proxy; consumer durables = urban demand proxy) are frequent prelims fodder.
-- **Index of Eight Core Industries (ICI)** carries **40.27% weight inside IIP** (detail in File 12).
+- **Index of Eight Core Industries (ICI)** carries **40.27% weight inside IIP** (detail in File 28).
 - **ASI (Annual Survey of Industries)** = factory-sector database; **Tamil Nadu leads in number of factories; AP ranks in the top 4–5** ⭐ (AP tie-in).
 
 ## 2. Evolution of industrial policy since independence ⭐⭐ (the exam's favourite timeline)
@@ -35,20 +35,20 @@
 | **IP 1980** | Return to efficiency: capacity **regularisation** (excess capacity legalised), **automatic expansion**, **nucleus plants** for backward areas | Pro-competition U-turn begins |
 | **1985–86 (Rajiv era)** | **Broad-banding**, delicensing of ~25 industries, MRTP threshold raised to ₹100 crore, **MODVAT (1986)**, technology missions | "Reform by stealth" — dress rehearsal for 1991 |
 
-**Small-scale reservation arc** (cross-ref File 13): began **1967 (47 items)** → peaked ≈ **800+ items** → phased out, **fully de-reserved by April 2015** ⭐.
+**Small-scale reservation arc** (cross-ref File 29): began **1967 (47 items)** → peaked ≈ **800+ items** → phased out, **fully de-reserved by April 2015** ⭐.
 
 ## 3. Balance sheet of the pre-1991 regime (argue both sides in Mains)
 
-**Achievements:** diversified industrial base from near-zero capital goods capacity; public-sector heavy industry (steel, machines, power, oil — File 11); S&T/managerial base; some regional spread; self-reliance in a forex-scarce era.
+**Achievements:** diversified industrial base from near-zero capital goods capacity; public-sector heavy industry (steel, machines, power, oil — File 27); S&T/managerial base; some regional spread; self-reliance in a forex-scarce era.
 
 **Failures:** **licence-permit-quota raj** — rent-seeking, entry barriers, capacity caps; high-cost, low-quality protected economy; **"Hindu rate of growth" (~3.5%, Raj Krishna's phrase)** ⭐; export pessimism; SSI reservation froze firms small; controls meant to curb concentration often entrenched incumbents (Hazari/Dutt findings).
 
 ## 4. AP box — the early industrial map of coastal Andhra ⭐
 
 - **Visakhapatnam Port (1933)** and **Hindustan Shipyard (Scindia 1941; later a PSU, under Ministry of Defence since 2010)** made Vizag the anchor of Andhra industry.
-- **"Visakha ukku — Andhrula hakku" agitation (1966)** ⭐ won the **Visakhapatnam Steel Plant** (foundation 1971; production 1992; RINL — File 11's disinvestment flashpoint).
+- **"Visakha ukku — Andhrula hakku" agitation (1966)** ⭐ won the **Visakhapatnam Steel Plant** (foundation 1971; production 1992; RINL — File 27's disinvestment flashpoint).
 - Other legacy PSUs: **BHPV Visakhapatnam (1966; merged into BHEL 2013)**, Hindustan Zinc smelter (Visakhapatnam), **HPCL Visakh refinery (1957, Caltex origin; nationalised into HPCL 1976)**.
-- Use pattern: pre-1991 AP industry = port + PSU story; private manufacturing depth came only after liberalisation (Files 10, 15).
+- Use pattern: pre-1991 AP industry = port + PSU story; private manufacturing depth came only after liberalisation (Files 26, 31).
 
 ---
 
@@ -68,9 +68,9 @@
 
 ## 6. Mains angles
 
-1. **"Industrialisation is development."** Discuss with reference to linkages, Kaldor and India's services-led anomaly — can India skip the manufacturing stage? (Verdict: services complement but cannot replace manufacturing for mass jobs; hence Files 14's Make-in-India toolkit.)
-2. **Trace the evolution of India's industrial policy from 1948 to 1991.** Use the table's arc: state-led (1948/56) → anti-concentration (1969–77) → efficiency turn (1980–85) → crisis and rupture (1991, File 10).
+1. **"Industrialisation is development."** Discuss with reference to linkages, Kaldor and India's services-led anomaly — can India skip the manufacturing stage? (Verdict: services complement but cannot replace manufacturing for mass jobs; hence Files 30's Make-in-India toolkit.)
+2. **Trace the evolution of India's industrial policy from 1948 to 1991.** Use the table's arc: state-led (1948/56) → anti-concentration (1969–77) → efficiency turn (1980–85) → crisis and rupture (1991, File 26).
 3. **"The licence raj failed at its own objectives."** Evaluate using Hazari/Dutt evidence (concentration rose), growth data, and the SSI-reservation freeze.
-4. **AP tie-in closer:** early PSU-port industrialisation of Vizag as both a legacy strength and a monoculture the state must now diversify beyond (Files 12, 15).
+4. **AP tie-in closer:** early PSU-port industrialisation of Vizag as both a legacy strength and a monoculture the state must now diversify beyond (Files 28, 31).
 
-[← Economy Revision & Practice](08-Economy-Revision-and-Practice.md) · [Index](README.md) · [Next: Industrial Policy 1991 & LPG →](10-New-Industrial-Policy-1991-and-LPG-Impact.md)
+[← Budgeting Revision & Practice](24-Budgeting-and-Federal-Finance-Revision-and-Practice.md) · [Index](README.md) · [Next: Industrial Policy 1991 & LPG →](26-New-Industrial-Policy-1991-and-LPG-Impact.md)

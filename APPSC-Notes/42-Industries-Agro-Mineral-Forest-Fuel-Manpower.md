@@ -107,4 +107,4 @@
 
 ---
 
-*Cross-links: minerals → Files 17/19/23; power projects & dams → Files 17/18; ports & corridors → File 43. Sources: NCERT XII "India — People & Economy" (industrial regions), Economic Survey, AP Socio-Economic Survey, Ministry of Steel/Petroleum annual reports, APIIC/AP Industries Dept.*
+*Cross-links: minerals → Files 17/19/41; power projects & dams → Files 17/18; ports & corridors → File 43. Sources: NCERT XII "India — People & Economy" (industrial regions), Economic Survey, AP Socio-Economic Survey, Ministry of Steel/Petroleum annual reports, APIIC/AP Industries Dept.*

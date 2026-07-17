@@ -1,6 +1,6 @@
 # Model Answer 04 — Industrial Policy of Andhra Pradesh: Initiatives, Support & Bottlenecks
 
-[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 06 §5 (AP projects)](../06-Investment-in-Industries-and-Infrastructure.md) · [File 17 §2B](../17-Major-Challenges-of-Indian-Economy.md)
+[← Model-Answers Index](README.md) · [Economy Index](../README.md) · Related: [File 08 §5 (AP projects)](../08-Investment-in-Industries-and-Infrastructure.md) · [File 01 §2B](../01-Major-Challenges-of-Indian-Economy.md)
 
 **Q. Critically examine the industrial policy of the Andhra Pradesh government. What are the major initiatives, support measures and bottlenecks to industrial development in the state?**
 
@@ -27,13 +27,13 @@ Industrialisation is **existential** for Andhra Pradesh. **Bifurcation (2014) ha
 - **National industrial cities (2024):** **Orvakal (Kurnool)** and **Kopparthy (YSR Kadapa)** in the Centre's 12-city NICDP list.
 - **Ports-led industrialisation:** Visakhapatnam (major port) + greenfield **Ramayapatnam, Machilipatnam, Mulapeta**.
 - **Sector clusters:** Vizag **pharma (JNPC, Parawada)**; **electronics/mobiles (Tirupati, Sri City)**; **aqua & food processing** (AP is India's aqua leader); textiles.
-- **Capital & clean energy:** **Amaravati (World Bank $800 mn + ADB ~$790 mn, 2024-25 restart)**; **green-hydrogen/renewables** (Pinnapuram integrated RE-storage, NTPC Pudimadaka GH2 — File 07); a push to attract **Global Capability Centres** to Vizag.
+- **Capital & clean energy:** **Amaravati (World Bank $800 mn + ADB ~$790 mn, 2024-25 restart)**; **green-hydrogen/renewables** (Pinnapuram integrated RE-storage, NTPC Pudimadaka GH2 — File 09); a push to attract **Global Capability Centres** to Vizag.
 
 ## Support measures (enablers)
 
 - **Single-window / Single Desk clearance** and a track record of EoDB leadership ("speed of doing business").
 - **Fiscal incentives:** capital subsidy, **SGST reimbursement, power-cost reimbursement, interest subsidy, stamp-duty exemption**; enhanced incentives for **SC/ST/women/BC entrepreneurs** and MSMEs.
-- **Institutions:** **APIIC** (industrial parks & land bank), **AP Economic Development Board (APEDB)** (investment promotion), **APSFC** (MSME term finance — File 05), **AP Skill Development Corporation** (skilling + skill census).
+- **Institutions:** **APIIC** (industrial parks & land bank), **AP Economic Development Board (APEDB)** (investment promotion), **APSFC** (MSME term finance — File 07), **AP Skill Development Corporation** (skilling + skill census).
 - **Infrastructure & power:** corridor + port + road/rail links; a generally **power-surplus** grid.
 
 ## Bottlenecks to industrial development

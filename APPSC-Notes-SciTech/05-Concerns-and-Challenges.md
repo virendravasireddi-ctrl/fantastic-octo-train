@@ -27,7 +27,7 @@ S&T is **dual-use and double-edged**: the same knowledge that feeds and heals al
 - **Digital divide:** ~97-99 cr internet users but a hard rural/gender/language tail; **language barrier** (English-dominant tech) → why **Bhashini** matters; affordability & digital literacy. Divide risks turning DPI's inclusion story into new exclusion.
 - **AI & jobs/ethics:** automation vs employment in a young country; algorithmic bias; deepfakes and electoral misinformation; **India's approach = "pro-innovation, light-touch"** + AI Safety Institute + IndiaAI's safe-AI pillar; global coordination at the **AI Impact Summit (India, Feb 2026)**.
 - **AMR:** overuse of antibiotics in humans, animals, aquaculture (**AP's aqua sector is a stakeholder** ⭐) → resistant infections; responses: NAP-AMR, Schedule H1, Red Line, surveillance (ICMR AMRSN).
-- **E-waste & climate:** India 3rd-largest e-waste generator; **E-Waste (Management) Rules 2022 (EPR)**; circular-economy and critical-mineral recovery link (see Economy series, File 07 on minerals).
+- **E-waste & climate:** India 3rd-largest e-waste generator; **E-Waste (Management) Rules 2022 (EPR)**; circular-economy and critical-mineral recovery link (see Economy series, File 09 on minerals).
 - **Brain drain → brain gain:** diaspora is huge; schemes **Ramanujan/VAJRA/Ramalingaswami/VAIBHAV** + GCC/startup boom now retaining and reversing some flow.
 - **Bioethics/biosafety:** **GEAC** clears GMOs; **ART & Surrogacy Acts 2021**; **DPDP Act 2023** for data; need for a standing national bioethics/emerging-tech framework.
 

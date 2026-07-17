@@ -1,6 +1,6 @@
-# 11 · Public Sector's Contribution, Disinvestment & Privatization
+# 27 · Public Sector's Contribution, Disinvestment & Privatization
 
-[← Industrial Policy 1991 & LPG](10-New-Industrial-Policy-1991-and-LPG-Impact.md) · [Index](README.md) · [Next: Core Industries & Their Problems →](12-Core-Industries-and-Their-Problems.md)
+[← Industrial Policy 1991 & LPG](26-New-Industrial-Policy-1991-and-LPG-Impact.md) · [Index](README.md) · [Next: Core Industries & Their Problems →](28-Core-Industries-and-Their-Problems.md)
 
 ---
 
@@ -14,18 +14,18 @@
 - **Heavy-industry base:** SAIL's plants built with Cold-War-era collaboration — **Bhilai (USSR), Rourkela (West Germany), Durgapur (UK)**, Bokaro (USSR) ⭐; BHEL (machines), HMT, HAL, ONGC (**1956**), IOC, NTPC (**1975**), GAIL.
 - **Nationalisation wave:** coal (1971–73 → **Coal India 1975**), oil (1974–76), banks (1969/1980) — put finance and fuel behind planned industry.
 - **Regional spread & townships** (Bhilai, Bokaro, and in AP — Vizag Steel); large formal employment; managerial/technical cadre for the whole economy.
-- Scale today: ≈ **390 CPSEs (~270 operational)**; FY24 aggregate net profit ≈ **₹3.2 lakh crore**; large dividend payer to the Budget (non-tax revenue — File 01 link) ⭐.
+- Scale today: ≈ **390 CPSEs (~270 operational)**; FY24 aggregate net profit ≈ **₹3.2 lakh crore**; large dividend payer to the Budget (non-tax revenue — File 03 link) ⭐.
 - Autonomy ladder: **Maharatna (14, HAL latest 2024) — Navratna (~25, additions 2023–25) — Miniratna (~150)** (counts move; re-verify).
 
 ## 2. What went wrong — the critique
 
-- Low return on the enormous capital employed; **administered pricing** losses; overstaffing; board decisions second-guessed by ministries; monopoly slack; sick units kept alive (BIFR-era — File 13).
+- Low return on the enormous capital employed; **administered pricing** losses; overstaffing; board decisions second-guessed by ministries; monopoly slack; sick units kept alive (BIFR-era — File 29).
 - Fiscal drain exemplars: pre-sale **Air India** (₹20 cr/day losses), **BSNL/MTNL** (revival packages cumulating ≈ **₹3.2 lakh crore**, 2019/2022/2023) ⭐.
 - Economic-Survey framing: government should exit where **markets work**, stay where **market failure** is real.
 
 ## 3. Disinvestment vs privatization — definitions first ⭐ (examiners love this)
 
-- **Disinvestment:** sale of a **minority** stake; government keeps control. Proceeds = **non-debt capital receipts, NOT revenue** ⭐ (classic trap — File 01).
+- **Disinvestment:** sale of a **minority** stake; government keeps control. Proceeds = **non-debt capital receipts, NOT revenue** ⭐ (classic trap — File 03).
 - **Strategic disinvestment/sale:** sale of a substantial block **with transfer of management control**.
 - **Privatization:** ownership/control passes to private hands (strategic sale is the vehicle).
 
@@ -42,7 +42,7 @@
 | **2021–22** ⭐⭐ | **New PSE Policy 2021**; **Air India → Tata (Jan 2022, ~₹18,000 cr EV)** — first big privatization in ~2 decades; **LIC IPO (May 2022, ₹21,000 cr — then India's largest; overtaken by Hyundai 2024)**; NINL → Tata Steel (2022) |
 | Now | **IDBI Bank strategic sale in process**; SCI, BEML, Concor queued but slow; Budgets since FY24 show **no separate disinvestment target** — folded into "miscellaneous capital receipts" (≈₹47,000 cr BE FY26); emphasis shifted to **dividends & value creation** ⭐ |
 
-**PSE Policy 2021** ⭐⭐ — the doctrine: in **four strategic sectors** — (i) atomic energy, space, defence; (ii) transport & telecom; (iii) power, petroleum, coal, minerals; (iv) banking, insurance, financial services — keep a **bare minimum** CPSE presence, privatise/merge/close the rest; **non-strategic sectors: exit**. Nodal agency: **DIPAM**. Companion instrument: **asset monetisation (NMP)** — File 06.
+**PSE Policy 2021** ⭐⭐ — the doctrine: in **four strategic sectors** — (i) atomic energy, space, defence; (ii) transport & telecom; (iii) power, petroleum, coal, minerals; (iv) banking, insurance, financial services — keep a **bare minimum** CPSE presence, privatise/merge/close the rest; **non-strategic sectors: exit**. Nodal agency: **DIPAM**. Companion instrument: **asset monetisation (NMP)** — File 08.
 
 ## 5. The debate — arguments to deploy
 
@@ -79,4 +79,4 @@
 3. **Is privatization of profit-making PSUs justified?** Efficiency-vs-equity framework; Hindustan Zinc/Maruti evidence; safeguards: competition regulation, transparent valuation, worker protection.
 4. **AP tie-in:** "Discuss the RINL disinvestment controversy as a window on the political economy of privatization in India."
 
-[← Industrial Policy 1991 & LPG](10-New-Industrial-Policy-1991-and-LPG-Impact.md) · [Index](README.md) · [Next: Core Industries & Their Problems →](12-Core-Industries-and-Their-Problems.md)
+[← Industrial Policy 1991 & LPG](26-New-Industrial-Policy-1991-and-LPG-Impact.md) · [Index](README.md) · [Next: Core Industries & Their Problems →](28-Core-Industries-and-Their-Problems.md)
