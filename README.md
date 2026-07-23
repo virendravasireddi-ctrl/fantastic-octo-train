@@ -15,6 +15,10 @@ A structured, source-first revision set for the **Andhra Pradesh Public Service 
 - [`Telugu-Country-Vengi-to-Reddi.md`](Telugu-Country-Vengi-to-Reddi.md) — the Eastern Chalukya → Kakatiya → Musunuri → Reddi arc: the political, economic, social and linguistic making of the Telugu country.
 - [`Molla-and-Telugu-Authors.md`](Molla-and-Telugu-Authors.md) — caste, gender and the vernacular counter-current in Telugu literary history (c. 1420–1950).
 
+## Career & governance reference
+
+- [`Deputy-Collector-Career-Postings-and-AP-Zonal-System.md`](Deputy-Collector-Career-Postings-and-AP-Zonal-System.md) — *how far from home is a Deputy Collector posted?* The **district → zonal → multi-zonal → state** cadre ladder, the **AP Public Employment Order 2025** (6 zones, 2 multi-zones, 95% local quota, Deputy Collector = multi-zonal), and the **Art. 371D / Six-Point Formula / Presidential Order** backbone — part career guide, part Polity/Governance exam topic.
+
 ## Paper overview & previous-year questions
 
 - [`APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md`](APPSC-Group-I-Mains-Paper-II-Syllabus-with-PYQs.md) — the full **Paper-II (History, Culture & Geography)** syllabus mapped topic-wise to previous years' questions. Start here to prioritise your revision.
