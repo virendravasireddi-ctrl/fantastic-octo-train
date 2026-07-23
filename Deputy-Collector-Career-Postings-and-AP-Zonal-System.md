@@ -22,6 +22,28 @@
 
 ---
 
+## 0.5 The reality *in practice* — how often, actually ⭐⭐ (this is the real question)
+
+**No government publishes a "% of postings near home" figure**, so distrust any clean number. But the practical pattern for a directly-recruited Deputy Collector is well established:
+
+- **You get moved roughly every 2–3 years.** On paper you are only *liable* for transfer at **5 years** in a station and may *request* one at **3 years** — but in practice DCs/RDOs are churned faster through **batch reshuffles** tied to elections, a change of government, or administrative need. Real examples: **83 Deputy Collectors/RDOs moved in one order (Oct 2023)**, **32 (incl. 7 DCs) in another (Oct 2024)**, **35 DCs/DROs** in yet another. Expect **~10–15 postings across a career**, sometimes at short notice.
+- **Same region as home (your multi-zone): almost always** — you are recruited as a *local*, so your cadre sits in your half of the state. This is the part that genuinely works in your favour.
+- **Home district / a neighbouring district: sometimes — and *more as you get senior*.** Postings are allotted by **seniority-based web counselling**: juniors get the leftover (farther, less-wanted) vacancies, seniors pick the good near-home slots. **Near-home is earned with seniority, not a day-one guarantee.**
+- **Your *exact* native mandal / home town: usually avoided *on purpose*.** Revenue posts (RDO/Sub-Collector, Tahsildar) carry land + quasi-judicial powers, so the convention keeps you *out* of your own native mandal to prevent local pressure. "Posted literally at home" is the *least* likely outcome.
+- **Opposite edge of the whole state: no longer** (multi-zonal cadre since 2025).
+
+**What actually moves the needle:** seniority in counselling (biggest lever) › open vacancies that cycle › special-preference categories (spouse employed, 40%+ disability, health, special-needs child) › ITDA/tribal-area tenure (2 yrs → place of choice) › and, realistically, administrative need, elections and informal influence.
+
+| Career stage | What actually happens on postings |
+|---|---|
+| **Probation + first ~5–6 yrs** | Government-assigned; often **not** near home — you take what you get. |
+| **Mid-career** | Seniority lets you bid near-home in counselling; a good share of postings can be around your region, but you still rotate across your half of the state. |
+| **Senior** | Best bargaining power — **but** promotion to Joint Collector / IAS puts you back on **state cadre** (anywhere in AP). |
+
+**Blunt bottom line:** *same region* → almost always · *near-home district* → part of the career, mostly once senior · *your own town* → usually avoided · *far edge of state* → not any more · and you move every ~2–3 years regardless.
+
+---
+
 ## 1. Why this happens — the cadre ladder (lower post = closer to home) ⭐⭐
 
 Under a Presidential Order every civil post is slotted into a **"local area / cadre unit."** The higher the post, the *larger* the area you can be shuffled across:
@@ -127,5 +149,6 @@ Under a Presidential Order every civil post is slotted into a **"local area / ca
 - AP Public Employment (Organisation of Local Cadres & Regulation of Direct Recruitment) **Order, 2025** — Presidential Order S.O. 5777(E), 15 Dec 2025; and implementation **G.O.Ms.No.45 / 46** (cadre strength, zonal allocation).
 - News/coverage of the 6-zone, 2-multi-zone, 95%-local-quota notification (Deccan Chronicle, Dec 2025) and zone-wise district lists (AP employee/education portals; official gazette).
 - Constitutional background: **Article 371D**, 32nd Amendment (1973), Six-Point Formula (1973), A.P. Public Employment Order (1975).
+- Practice/frequency: AP **Transfers & Postings Guidelines** — G.O.Ms.No.116 (2022) and G.O.Ms.No.23 (2025) — tenure thresholds (3 yrs request / 5 yrs liable), web-counselling by seniority, ITDA 2-year rule, special-preference categories; and news reports of Deputy Collector/RDO batch reshuffles (e.g. 83 in Oct 2023; 32 incl. 7 DCs in Oct 2024; 35 DCs/DROs) — Deccan Chronicle, The Hans India, The Pioneer.
 
 *Compiled July 2026. The 2025 Presidential Order is very recent — re-verify the exact multi-zone composition, cadre classification of any specific post, and the latest implementation G.O.s from the AP gazette / GAD before relying on them in an interview or answer script.*
