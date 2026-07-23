@@ -284,6 +284,7 @@
   // ---------------------------------------------------------------------------
   var CITIES = [
     { name:"Visakhapatnam", region:"nc", lat:17.69, lon:83.22, div:2, cir:14, dx: 10, dy:-4, anchor:"start" },
+    { name:"Anakapalli",    region:"nc", lat:17.58, lon:82.78, div:0, cir:3,  dx:-10, dy: 9, anchor:"end", lab:true },
     { name:"Vizianagaram",  region:"nc", lat:18.11, lon:83.41, div:1, cir:4,  dx: 10, dy: 2, anchor:"start" },
     { name:"Srikakulam",    region:"nc", lat:18.30, lon:83.90, div:1, cir:4,  dx: 10, dy: 2, anchor:"start" },
     { name:"Kakinada",      region:"ca", lat:16.96, lon:82.24, div:1, cir:7,  dx: 10, dy: 0, anchor:"start" },
@@ -378,7 +379,7 @@
   // --- labels (top posts get a direct label; rest on hover) -------------------
   var LABEL_MIN = 6;
   CITIES.forEach(function(c){
-    if(c.posts < LABEL_MIN) return;
+    if(c.posts < LABEL_MIN && !c.lab) return;
     var lx = c._x + c.dx, ly = c._y + c.dy;
     var t = el("text",{x:lx, y:ly, class:"city-lab", "text-anchor":c.anchor,
       "dominant-baseline":"middle", "data-lab":c.name});
