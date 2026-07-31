@@ -1,6 +1,6 @@
 # 15 · Quick Revision + Practice — Mughals · Marathas · Europeans (Unit 3)
 
-[← Advent of Europeans](14-Advent-of-Europeans-in-India.md) · [Index](README.md)
+[← Advent of Europeans](14-Advent-of-Europeans-in-India.md) · [Index](README.md) · [Next: Physical Features of India →](16-India-Physical-Features.md)
 
 *This file gives Unit-3 master tables, "firsts", books & authors, titles, a timeline, then 18 MCQs (APPSC pattern) with key and 10 Mains questions with answer skeletons.*
 
@@ -205,4 +205,4 @@ Ghazi–Babur (after Khanwa) · Jannat-Ashiyani–Humayun · Sikandar-i-Sani ech
 - [ ] European order & HQs (Portuguese-Goa, Dutch-Pulicat, English-Madras/Calcutta, French-Pondicherry, Danish-Tranquebar)?
 - [ ] Carnatic Wars sequence + Wandiwash 1760; Northern Circars route to the British (1765–66); Bobbili 1757; Masulipatnam 1611/1759?
 
-[← Advent of Europeans](14-Advent-of-Europeans-in-India.md) · [Index](README.md)
+[← Advent of Europeans](14-Advent-of-Europeans-in-India.md) · [Index](README.md) · [Next: Physical Features of India →](16-India-Physical-Features.md)

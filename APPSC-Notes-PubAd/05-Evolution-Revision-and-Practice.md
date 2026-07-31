@@ -1,6 +1,6 @@
 # 05 · Evolution of Indian Administration — Master Tables, Quotes, MCQs & Mains Practice
 
-[← Legacy of British Rule](04-Legacy-of-British-Rule.md) · [Index](README.md)
+[← Legacy of British Rule](04-Legacy-of-British-Rule.md) · [Index](README.md) · [Next: Development Processes — Civil Society & NGOs →](06-Development-Processes-Civil-Society-NGOs-Stakeholders.md)
 
 ---
 
@@ -118,4 +118,4 @@ c. 10th c.     Chola village assemblies (Uttaramerur) — classical local self-g
 - [ ] Arthur Cotton — Dowleswaram 1852; Guntur famine 1832–33; Hyderabad subsidiary alliance 1798
 - [ ] IIPA 1954; Appleby 1953/56; ARC-I 1966 (Lokpal); ARC-II 2005 (citizen-centric); Karmayogi 2020
 
-[← Legacy of British Rule](04-Legacy-of-British-Rule.md) · [Index](README.md)
+[← Legacy of British Rule](04-Legacy-of-British-Rule.md) · [Index](README.md) · [Next: Development Processes — Civil Society & NGOs →](06-Development-Processes-Civil-Society-NGOs-Stakeholders.md)

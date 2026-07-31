@@ -67,6 +67,35 @@
 
 ---
 
+## 3A. Epigraphy & memorial culture — **hero stones and tank inscriptions**
+
+⭐ Two faces of the same social order: the **sword** (hero stones) and the **spade** (tank inscriptions) as parallel routes to merit and memory — both wrote **non-royal names permanently into the landscape**, which is how Kakatiya rule "made" Telangana.
+
+### 3A.1 Hero stones (*veeragallu*) and sati stones
+- **What:** sculpted memorial slabs for a warrior who died a "good death" — in battle, defending the village, or in a cattle raid. Telangana and coastal Andhra are thickly scattered with them.
+- **Three-tier composition (read bottom → top):**
+  1. **Combat panel** — hero with sword/shield, arrows in his body, foes or cattle around him (a catalogue of Kakatiya-era arms & dress).
+  2. **Ascension panel** — apsaras carry the fallen hero heavenward (death marked as meritorious).
+  3. **Eternity panel** — hero worshipping a **Shiva linga** (the realm's Shaiva ethos).
+- **Variants to cite:** **sati stones** (upraised bangled right arm — the widow who followed); **self-sacrifice/head-offering stones** to a goddess for victory (extreme *vira* cult); stones for men who died protecting **tanks, herds, or village boundaries** (heroism = civic protection too).
+- **Why it matters (Mains):** these commemorate mostly **non-royal, often non-elite men** — nayakas' retainers, herdsmen, village fighters. In a dynasty that proclaimed its own **Shudra origin**, the hero stone was the ordinary warrior's route to permanent public honour — **status earned by deed, recorded in stone** (the material basis of **Cynthia Talbot's** "open, service-based rank" argument).
+- ⭐ **Star example — CHANDUPATLA (1289, Nalgonda):** records **Rudramadevi's death** vs the rebel Ambadeva; set up by her subordinate **Puvvula Mummadi**, who gifted to god **Somanatha** for the departed queen's merit — effectively the death-record of a sovereign queen fallen in the field (serves BOTH "hero stone" and "female sovereignty" themes).
+
+### 3A.2 Tank inscriptions
+Pattern to remember: **big tanks were built not only by kings but by generals, ministers, queens, and royal women — and the inscription always records who, why, and on what terms.**
+
+| Tank | Builder / attribution | The inscriptional point |
+|---|---|---|
+| **Pakhal lake** (c. 1213) | **Jagadala Mummadi**, general-minister of Ganapatideva | a *subordinate* builds one of the Deccan's largest tanks — nayaka-level resources |
+| **Ramappa lake** (c. 1213) | **Recherla Rudra**, Ganapatideva's general | same man built the Ramappa temple beside it — the classic **temple + tank + settlement** package founding a new agrarian node |
+| **Lakhnavaram, Ghanpur lakes** | Ganapatideva's reign | the **chain-tank** (*golusukattu*) design — each tank's overflow feeds the next |
+| **Bayyaram tank** (Khammam side) | **Mailamba (Mailama), Ganapatideva's sister**, named for their mother **Bayyamba** | the **Bayyaram inscription** is doubly precious — a woman builds a major tank, and its text preserves one of the fullest **Kakatiya genealogies** (a key political source, not just an irrigation record) |
+
+- **What the texts record:** **DASABANDHA** grants — tax-free land to whoever built/maintained a tank (a fixed share of the irrigated yield/land) — the state's standing **incentive scheme** that institutionalised private investment in public irrigation (the legal engine of the tank revolution); **merit dedications** — tank-building counted among the **saptasantanas** (seven meritorious "offspring" that keep one's name alive), which is why queens, sisters and officers competed to build them; **naming** (*-samudram* "sea", e.g. Ganapasamudram) so the map of Telangana still reads as a Kakatiya donor register.
+- **Comparative capstone:** the **Porumamilla (Anantasagaram) tank inscription, 1369** (Vijayanagara-era, just after the Kakatiyas) enumerates the **twelve requirements of a good tank** — proof that Kakatiya hydraulic expertise was inherited and codified by successors.
+
+---
+
 ## 4. Contemporary South Indian kingdoms (snapshot — the syllabus asks for them)
 
 | Kingdom | Period/fall | Culture headlines |
@@ -98,6 +127,9 @@
 9. Prataparudra Yashobhushanam — Vidyanatha.
 10. Golaki matha — Saiva-Siddhanta network; guru Visvesvara Shivacharya.
 11. Tanks: Pakhal, Ramappa, Lakhnavaram; **dasabandha** tenure.
+11a. **Pakhal — Jagadala Mummadi; Bayyaram tank — Mailama (Ganapatideva's sister)**, its inscription holds the fullest Kakatiya genealogy.
+11b. **Porumamilla (Anantasagaram) tank inscription, 1369** — lists the **twelve requirements of a good tank** (Vijayanagara-era, quote as the Kakatiya legacy capstone).
+11c. **Hero stones (veeragallu)** = three-tier (combat → apsaras → linga); **sati stone** = bangled raised arm; Chandupatla 1289 (Rudramadevi's death) is a hero-stone-style memorial by **Puvvula Mummadi**.
 12. **Sangita Ratnakara — Sharngadeva — Yadava Devagiri court** (not Kakatiya — classic trap).
 13. Kapaya Nayaka: Warangal 1336; title Andhra Suratrana; Golconda ceded 1364; killed 1368 (Bhimavaram).
 

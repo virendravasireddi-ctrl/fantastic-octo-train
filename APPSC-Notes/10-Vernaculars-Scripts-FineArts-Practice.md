@@ -1,6 +1,6 @@
 # 10 · Growth of Vernacular Languages, Scripts, Literature & Fine Arts (c. 1000–1687) — Synthesis + Unit-2 Practice
 
-[← Bahmanis & Qutb Shahis](09-Bahmani-and-Qutb-Shahi.md) · [Index](README.md)
+[← Bahmanis & Qutb Shahis](09-Bahmani-and-Qutb-Shahi.md) · [Index](README.md) · [Next: The Mughal Empire & Administration →](11-Mughal-Empire-and-Administration.md)
 
 *This file answers the syllabus phrase head-on — "Growth of Vernacular Languages, Scripts, Literature, Fine Arts" — as a cross-dynasty theme, then gives Unit-2 revision tables, MCQs and Mains questions.*
 
@@ -136,4 +136,4 @@ Kakatiya **toranas & Ramappa engineering** → Reddi **Kondavidu & Srisailam man
 - [ ] Ramadasu & Kuchipudi grant details; Madanna-Akkanna; 1687 siege?
 - [ ] Music-treatise chain in order with patrons?
 
-[← Bahmanis & Qutb Shahis](09-Bahmani-and-Qutb-Shahi.md) · [Index](README.md)
+[← Bahmanis & Qutb Shahis](09-Bahmani-and-Qutb-Shahi.md) · [Index](README.md) · [Next: The Mughal Empire & Administration →](11-Mughal-Empire-and-Administration.md)

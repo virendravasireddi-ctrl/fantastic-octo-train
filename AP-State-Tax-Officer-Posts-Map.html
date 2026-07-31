@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Proportional-symbol map of Andhra Pradesh: Group-I State Tax officer posts by city, bubble size proportional to post count.">
+<style>*{margin:0;padding:0;box-sizing:border-box}html,body{background:#eef1ee}@media (prefers-color-scheme:dark){html,body{background:#0b0e0c}}</style>
+</head>
+<body>
+<title>AP State Tax — Officer Posts by City</title>
+<style>
+  .app {
+    color-scheme: light;
+    --page:      #eef1ee;
+    --surface:   #fbfcfb;
+    --surface-2: #f4f6f3;
+    --ink:       #10130f;
+    --ink-2:     #4f5652;
+    --muted:     #83887f;
+    --hair:      #e1e4dd;
+    --hair-2:    #ecefe8;
+    --sea:       #e7eff8;
+    --sea-line:  #cfe0f2;
+    --land:      #eceeE9;
+    --land-line: #d6dbd1;
+    /* region accents (validated categorical slots 1-3) */
+    --nc:  #2a78d6;  /* North Coastal / Uttarandhra */
+    --ca:  #eb6834;  /* Coastal-Central Andhra */
+    --ry:  #1baf7a;  /* Rayalaseema */
+    --nc-ink: #1c5cab;
+    --ca-ink: #b84a1f;
+    --ry-ink: #0f7d56;
+    --shadow: 0 1px 2px rgba(16,19,15,.05), 0 8px 24px rgba(16,19,15,.06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .app {
+      color-scheme: dark;
+      --page:      #0b0e0c;
+      --surface:   #141815;
+      --surface-2: #191e1a;
+      --ink:       #f2f5f0;
+      --ink-2:     #b8beb4;
+      --muted:     #868c81;
+      --hair:      #262b26;
+      --hair-2:    #1e231e;
+      --sea:       #0f1f2d;
+      --sea-line:  #1d3448;
+      --land:      #191f1b;
+      --land-line: #2a312a;
+      --nc:  #3987e5;
+      --ca:  #d95926;
+      --ry:  #199e70;
+      --nc-ink: #7db2ee;
+      --ca-ink: #e8a07f;
+      --ry-ink: #58c69e;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="dark"] .app {
+    color-scheme: dark;
+    --page:      #0b0e0c;
+    --surface:   #141815;
+    --surface-2: #191e1a;
+    --ink:       #f2f5f0;
+    --ink-2:     #b8beb4;
+    --muted:     #868c81;
+    --hair:      #262b26;
+    --hair-2:    #1e231e;
+    --sea:       #0f1f2d;
+    --sea-line:  #1d3448;
+    --land:      #191f1b;
+    --land-line: #2a312a;
+    --nc:  #3987e5;
+    --ca:  #d95926;
+    --ry:  #199e70;
+    --nc-ink: #7db2ee;
+    --ca-ink: #e8a07f;
+    --ry-ink: #58c69e;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px rgba(0,0,0,.4);
+  }
+
+  * { box-sizing: border-box; }
+  .app {
+    background: var(--page);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+    min-height: 100vh;
+    padding: clamp(16px, 3vw, 40px);
+  }
+  .wrap { max-width: 1120px; margin: 0 auto; }
+
+  .serif { font-family: Georgia, "Times New Roman", serif; }
+
+  header.head { margin-bottom: clamp(18px, 3vw, 30px); }
+  .eyebrow {
+    font-size: 12px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--muted); font-weight: 600; margin: 0 0 10px;
+  }
+  h1.title {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 600; letter-spacing: -.01em;
+    font-size: clamp(27px, 4.4vw, 44px); line-height: 1.08;
+    margin: 0 0 12px; text-wrap: balance; color: var(--ink);
+  }
+  .lede {
+    max-width: 68ch; color: var(--ink-2);
+    font-size: clamp(15px, 1.5vw, 17px); margin: 0;
+  }
+  .lede b { color: var(--ink); font-weight: 600; }
+
+  .stats {
+    display: grid; grid-template-columns: repeat(4, 1fr);
+    gap: 12px; margin: 22px 0 0;
+  }
+  @media (max-width: 720px){ .stats{ grid-template-columns: repeat(2,1fr);} }
+  .stat {
+    background: var(--surface); border: 1px solid var(--hair);
+    border-radius: 14px; padding: 14px 16px;
+  }
+  .stat .n {
+    font-size: clamp(22px, 2.6vw, 30px); font-weight: 700;
+    letter-spacing: -.02em; font-variant-numeric: tabular-nums;
+    line-height: 1; color: var(--ink);
+  }
+  .stat .l { font-size: 12.5px; color: var(--muted); margin-top: 7px; letter-spacing:.01em;}
+
+  .grid {
+    display: grid; grid-template-columns: 1.55fr 1fr;
+    gap: clamp(14px, 2vw, 22px); margin-top: clamp(18px, 3vw, 26px);
+    align-items: start;
+  }
+  @media (max-width: 900px){ .grid{ grid-template-columns: 1fr; } }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--hair);
+    border-radius: 18px; box-shadow: var(--shadow); overflow: hidden;
+  }
+  .card-h { padding: 16px 18px 0; }
+  .card-h h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px; font-weight: 600; margin: 0; color: var(--ink);
+  }
+  .card-h p { margin: 5px 0 0; font-size: 13px; color: var(--muted); }
+
+  /* map */
+  .mapwrap { padding: 6px 8px 10px; position: relative; }
+  svg.map { width: 100%; height: auto; display: block; overflow: visible; }
+  .city-dot { cursor: pointer; transition: opacity .12s ease; }
+  .city-lab {
+    font-size: 11px; fill: var(--ink-2); font-weight: 600;
+    paint-order: stroke; stroke: var(--surface); stroke-width: 3px;
+    stroke-linejoin: round; pointer-events: none;
+  }
+  .geo-lab { font-size: 11px; fill: var(--muted); font-style: italic; letter-spacing:.03em; }
+  .app.dim .city-dot { opacity: .28; }
+  .app.dim .city-dot.on { opacity: 1; }
+
+  /* legend */
+  .legend { padding: 4px 18px 18px; }
+  .leg-row { display:flex; flex-wrap: wrap; gap: 16px 20px; align-items:flex-end; }
+  .leg-block .lt {
+    font-size: 11px; letter-spacing:.1em; text-transform:uppercase;
+    color: var(--muted); font-weight:600; margin: 0 0 9px;
+  }
+  .reg-item { display:flex; align-items:center; gap:8px; font-size:13px; color:var(--ink-2); margin: 6px 0; }
+  .reg-item .sw { width:12px; height:12px; border-radius:50%; flex:none; }
+  .size-scale { display:flex; align-items:flex-end; gap:14px; }
+  .size-unit { display:flex; flex-direction:column; align-items:center; gap:5px; }
+  .size-unit .ring {
+    border-radius:50%; border:1.5px solid var(--muted);
+    background: color-mix(in srgb, var(--muted) 14%, transparent);
+  }
+  .size-unit .cap { font-size:11px; color:var(--muted); font-variant-numeric:tabular-nums; }
+
+  /* ranked list */
+  .rank { padding: 6px 18px 16px; }
+  .rank ol { list-style:none; margin:0; padding:0; }
+  .rank li {
+    display:grid; grid-template-columns: 15px 1fr auto; align-items:center;
+    gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--hair-2);
+    cursor: pointer;
+  }
+  .rank li:last-child { border-bottom: none; }
+  .rank .rk { font-size:11px; color:var(--muted); font-variant-numeric:tabular-nums; text-align:right;}
+  .rank .nm { font-size:13.5px; color:var(--ink); font-weight:500; }
+  .rank .nm .rg { font-size:11px; color:var(--muted); font-weight:400; margin-left:6px;}
+  .rank .barwrap { grid-column: 2 / 4; height: 7px; border-radius:5px; background:var(--hair-2); overflow:hidden; margin-top:2px;}
+  .rank .bar { height:100%; border-radius:5px; }
+  .rank .val { font-size:13px; font-weight:600; color:var(--ink); font-variant-numeric:tabular-nums; }
+  .rank li:hover .nm { color: var(--ink); }
+
+  /* tooltip */
+  .tt {
+    position: fixed; z-index: 30; pointer-events: none; opacity: 0;
+    transform: translate(-50%, -112%); transition: opacity .1s ease;
+    background: var(--surface); color: var(--ink);
+    border: 1px solid var(--hair); border-radius: 12px;
+    box-shadow: var(--shadow); padding: 10px 12px; min-width: 176px;
+    font-size: 12.5px;
+  }
+  .tt .tt-nm { font-weight:700; font-size:13.5px; display:flex; align-items:center; gap:7px; }
+  .tt .tt-nm .sw { width:9px; height:9px; border-radius:50%; flex:none; }
+  .tt .tt-rg { color: var(--muted); font-size:11.5px; margin: 1px 0 8px 16px; }
+  .tt .tt-row { display:flex; justify-content:space-between; gap:16px; padding:2px 0; color:var(--ink-2);}
+  .tt .tt-row b { color: var(--ink); font-variant-numeric:tabular-nums; }
+  .tt .tt-total { margin-top:6px; padding-top:6px; border-top:1px solid var(--hair); }
+
+  .note {
+    margin-top: 20px; font-size: 12.5px; color: var(--muted);
+    line-height: 1.55; max-width: 92ch;
+  }
+  .note b { color: var(--ink-2); }
+  .note a { color: var(--nc-ink); }
+</style>
+
+<div class="app" id="app">
+  <div class="wrap">
+    <header class="head">
+      <p class="eyebrow">Andhra Pradesh · State Tax (Commercial Taxes) Department</p>
+      <h1 class="title">Commissioner of State Tax — Group‑I officer posts across Andhra Pradesh</h1>
+      <p class="lede">A proportional‑symbol map of AP's <b>State Tax field administration</b>. Each bubble is a city where <b>Group‑I State Tax officers</b> (Deputy&nbsp;Commissioner &amp; Assistant&nbsp;Commissioner of State Tax) are posted — <b>the more posts a city holds, the bigger its bubble</b>. Colour marks the zone.</p>
+
+      <div class="stats">
+        <div class="stat"><div class="n">16</div><div class="l">Territorial Divisions (Dy. Commissioner)</div></div>
+        <div class="stat"><div class="n">109</div><div class="l">Circles (Asst. Commissioner)</div></div>
+        <div class="stat"><div class="n">6</div><div class="l">Nodal Divisions</div></div>
+        <div class="stat"><div class="n" id="stCities">—</div><div class="l">Cities on the map</div></div>
+      </div>
+    </header>
+
+    <div class="grid">
+      <!-- MAP -->
+      <section class="card">
+        <div class="card-h">
+          <h2>Where the officers sit</h2>
+          <p>Bubble area ∝ number of State Tax officer posts in the city. Hover a bubble for the breakdown.</p>
+        </div>
+        <div class="mapwrap">
+          <svg class="map" id="map" viewBox="0 0 800 640" role="img"
+               aria-label="Map of Andhra Pradesh showing State Tax officer posts per city as proportional bubbles"></svg>
+        </div>
+        <div class="legend">
+          <div class="leg-row">
+            <div class="leg-block">
+              <p class="lt">Zone</p>
+              <div class="reg-item"><span class="sw" style="background:var(--nc)"></span>North Coastal (Uttarandhra)</div>
+              <div class="reg-item"><span class="sw" style="background:var(--ca)"></span>Coastal / Central Andhra</div>
+              <div class="reg-item"><span class="sw" style="background:var(--ry)"></span>Rayalaseema</div>
+            </div>
+            <div class="leg-block">
+              <p class="lt">Officer posts (bubble size)</p>
+              <div class="size-scale" id="sizeScale"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- RANKED -->
+      <section class="card">
+        <div class="card-h">
+          <h2>Cities ranked by posts</h2>
+          <p>Same data as the map. Hover to highlight it on the map.</p>
+        </div>
+        <div class="rank"><ol id="rankList"></ol></div>
+      </section>
+    </div>
+
+    <p class="note" id="note"></p>
+  </div>
+</div>
+
+<div class="tt" id="tt" role="tooltip"></div>
+
+<script>
+(function(){
+  // ---------------------------------------------------------------------------
+  // DATA — edit these numbers to plug in exact figures from the APCT notification.
+  // posts = Dy.Commissioner posts (1 per division) + Asst.Commissioner posts
+  //         (1 per circle) located in the city.  Circle counts are approximate,
+  //         reconstructed from the July-2022 reorganisation (16 divisions /
+  //         109 circles); division locations are exact.  region: nc | ca | ry
+  // ---------------------------------------------------------------------------
+  var CITIES = [
+    { name:"Visakhapatnam", region:"nc", lat:17.69, lon:83.22, div:2, cir:14, dx: 10, dy:-4, anchor:"start" },
+    { name:"Anakapalli",    region:"nc", lat:17.58, lon:82.78, div:0, cir:3,  dx:-10, dy: 9, anchor:"end", lab:true },
+    { name:"Vizianagaram",  region:"nc", lat:18.11, lon:83.41, div:1, cir:4,  dx: 10, dy: 2, anchor:"start" },
+    { name:"Srikakulam",    region:"nc", lat:18.30, lon:83.90, div:1, cir:4,  dx: 10, dy: 2, anchor:"start" },
+    { name:"Kakinada",      region:"ca", lat:16.96, lon:82.24, div:1, cir:7,  dx: 10, dy: 0, anchor:"start" },
+    { name:"Rajahmundry",   region:"ca", lat:17.00, lon:81.78, div:1, cir:7,  dx:-10, dy:-6, anchor:"end" },
+    { name:"Eluru",         region:"ca", lat:16.71, lon:81.10, div:1, cir:6,  dx: 9,  dy:-6, anchor:"start" },
+    { name:"Bhimavaram",    region:"ca", lat:16.54, lon:81.52, div:0, cir:4,  dx: 8,  dy:10, anchor:"start" },
+    { name:"Machilipatnam", region:"ca", lat:16.19, lon:81.14, div:0, cir:4,  dx: 8,  dy:11, anchor:"start" },
+    { name:"Vijayawada",    region:"ca", lat:16.51, lon:80.65, div:2, cir:12, dx:-11, dy:-2, anchor:"end" },
+    { name:"Guntur",        region:"ca", lat:16.31, lon:80.44, div:1, cir:10, dx:-11, dy:10, anchor:"end" },
+    { name:"Ongole",        region:"ca", lat:15.50, lon:80.05, div:1, cir:5,  dx:-10, dy: 4, anchor:"end" },
+    { name:"Nellore",       region:"ca", lat:14.44, lon:79.99, div:1, cir:6,  dx: 10, dy: 2, anchor:"start" },
+    { name:"Kurnool",       region:"ry", lat:15.83, lon:78.04, div:1, cir:7,  dx: 10, dy:-2, anchor:"start" },
+    { name:"Nandyal",       region:"ry", lat:15.48, lon:78.48, div:0, cir:3,  dx: 9,  dy: 6, anchor:"start" },
+    { name:"Adoni",         region:"ry", lat:15.63, lon:77.27, div:0, cir:3,  dx:-9,  dy: 2, anchor:"end" },
+    { name:"Anantapur",     region:"ry", lat:14.68, lon:77.60, div:1, cir:6,  dx:-10, dy: 2, anchor:"end" },
+    { name:"Hindupur",      region:"ry", lat:13.83, lon:77.49, div:0, cir:3,  dx:-9,  dy: 6, anchor:"end" },
+    { name:"Kadapa",        region:"ry", lat:14.47, lon:78.82, div:1, cir:6,  dx: 10, dy: 0, anchor:"start" },
+    { name:"Tirupati",      region:"ry", lat:13.63, lon:79.42, div:1, cir:7,  dx: 10, dy: 6, anchor:"start" },
+    { name:"Chittoor",      region:"ry", lat:13.22, lon:79.10, div:1, cir:5,  dx:-10, dy: 8, anchor:"end" }
+  ];
+
+  // Approximate AP land outline (lon,lat), clockwise from the north-east tip.
+  var BOUNDARY = [
+    [84.02,19.11],[83.90,18.30],[83.30,17.70],[82.30,16.98],[81.20,16.30],
+    [80.75,15.85],[80.10,15.50],[80.15,14.43],[80.05,13.55],[79.55,13.35],
+    [78.55,13.20],[78.30,12.78],[77.60,13.30],[77.30,13.85],[76.95,14.70],
+    [77.00,15.60],[77.40,15.95],[77.85,16.05],[78.60,16.30],[79.40,16.75],
+    [80.20,17.30],[80.90,17.80],[81.80,18.30],[82.60,18.80],[83.30,19.00]
+  ];
+
+  var REG = {
+    nc:{ name:"North Coastal (Uttarandhra)", varc:"--nc" },
+    ca:{ name:"Coastal / Central Andhra",    varc:"--ca" },
+    ry:{ name:"Rayalaseema",                 varc:"--ry" }
+  };
+
+  CITIES.forEach(function(c){ c.posts = c.div + c.cir; });
+
+  var app = document.getElementById("app");
+  var svg = document.getElementById("map");
+  var NS  = "http://www.w3.org/2000/svg";
+  var VW = 800, VH = 640, PAD = 46;
+
+  // --- projection (equirectangular, longitude corrected by cos(mid-lat)) ------
+  var lons = BOUNDARY.map(function(p){return p[0];}).concat(CITIES.map(function(c){return c.lon;}));
+  var lats = BOUNDARY.map(function(p){return p[1];}).concat(CITIES.map(function(c){return c.lat;}));
+  var lon0 = Math.min.apply(null,lons), lon1 = Math.max.apply(null,lons);
+  var lat0 = Math.min.apply(null,lats), lat1 = Math.max.apply(null,lats);
+  var midLat = (lat0+lat1)/2, kx = Math.cos(midLat*Math.PI/180);
+  var spanX = (lon1-lon0)*kx, spanY = (lat1-lat0);
+  var s = Math.min((VW-2*PAD)/spanX, (VH-2*PAD)/spanY);
+  var offX = (VW - spanX*s)/2, offY = (VH - spanY*s)/2;
+  function proj(lon,lat){
+    return [ offX + (lon-lon0)*kx*s, offY + (lat1-lat)*s ];
+  }
+  function el(tag,attrs){ var e=document.createElementNS(NS,tag);
+    for(var k in attrs) e.setAttribute(k,attrs[k]); return e; }
+
+  // --- sea + land -------------------------------------------------------------
+  svg.appendChild(el("rect",{x:0,y:0,width:VW,height:VH,fill:"var(--sea)",rx:14}));
+
+  var dd = BOUNDARY.map(function(p,i){ var xy=proj(p[0],p[1]);
+    return (i?"L":"M")+xy[0].toFixed(1)+" "+xy[1].toFixed(1); }).join(" ")+" Z";
+  svg.appendChild(el("path",{d:dd, fill:"var(--land)", stroke:"var(--land-line)",
+    "stroke-width":1.4, "stroke-linejoin":"round"}));
+
+  // geographic labels
+  var seaLab = proj(83.1,15.2);
+  var bay = el("text",{x:seaLab[0], y:seaLab[1], class:"geo-lab", "text-anchor":"middle",
+    transform:"rotate(-58 "+seaLab[0]+" "+seaLab[1]+")"}); bay.textContent="Bay of Bengal";
+  svg.appendChild(bay);
+
+  // --- bubble size scale ------------------------------------------------------
+  var maxPosts = Math.max.apply(null, CITIES.map(function(c){return c.posts;}));
+  var R_MAX = 30, R_MIN = 7;
+  function radius(p){ return R_MIN + (R_MAX-R_MIN)*Math.sqrt(p/maxPosts); }
+
+  // --- draw bubbles (largest first so small sit on top) -----------------------
+  var order = CITIES.slice().sort(function(a,b){return b.posts-a.posts;});
+  order.forEach(function(c){
+    var xy = proj(c.lon,c.lat); c._x=xy[0]; c._y=xy[1]; c._r=radius(c.posts);
+    var col = REG[c.region].varc;
+    var g = el("g",{class:"city-dot", "data-name":c.name});
+    g.appendChild(el("circle",{cx:xy[0],cy:xy[1],r:c._r,
+      fill:"color-mix(in srgb, var("+col+") 62%, transparent)",
+      stroke:"var("+col+")","stroke-width":1.6}));
+    g.appendChild(el("circle",{cx:xy[0],cy:xy[1],r:2,fill:"var("+col+")"}));
+    c._g = g;
+    svg.appendChild(g);
+  });
+
+  // --- labels (top posts get a direct label; rest on hover) -------------------
+  var LABEL_MIN = 6;
+  CITIES.forEach(function(c){
+    if(c.posts < LABEL_MIN && !c.lab) return;
+    var lx = c._x + c.dx, ly = c._y + c.dy;
+    var t = el("text",{x:lx, y:ly, class:"city-lab", "text-anchor":c.anchor,
+      "dominant-baseline":"middle", "data-lab":c.name});
+    t.textContent = c.name;
+    svg.appendChild(t);
+  });
+
+  // --- size legend swatches ---------------------------------------------------
+  var scale = document.getElementById("sizeScale");
+  [4,8,maxPosts].forEach(function(v){
+    var r = radius(v), d = Math.round(r*2);
+    var u = document.createElement("div"); u.className="size-unit";
+    var ring = document.createElement("div"); ring.className="ring";
+    ring.style.width=d+"px"; ring.style.height=d+"px";
+    var cap = document.createElement("div"); cap.className="cap"; cap.textContent=v;
+    u.appendChild(ring); u.appendChild(cap); scale.appendChild(u);
+  });
+
+  // --- ranked list ------------------------------------------------------------
+  var rankList = document.getElementById("rankList");
+  order.forEach(function(c,i){
+    var col = REG[c.region].varc;
+    var li = document.createElement("li"); li.setAttribute("data-name",c.name);
+    li.innerHTML =
+      '<div class="rk">'+(i+1)+'</div>'+
+      '<div class="nm">'+c.name+'<span class="rg">'+REG[c.region].name.split(" ")[0]+'</span></div>'+
+      '<div class="val">'+c.posts+'</div>'+
+      '<div class="barwrap"><div class="bar" style="width:'+(100*c.posts/maxPosts)+'%;background:var('+col+')"></div></div>';
+    rankList.appendChild(li);
+    li.addEventListener("mouseenter",function(){ focus(c.name); });
+    li.addEventListener("mouseleave",function(){ unfocus(); showTip(false); });
+    li.addEventListener("mousemove", function(ev){ tipAt(c, ev.clientX, ev.clientY); });
+  });
+
+  document.getElementById("stCities").textContent = CITIES.length;
+
+  // --- interaction ------------------------------------------------------------
+  var tt = document.getElementById("tt");
+  var byName = {}; CITIES.forEach(function(c){ byName[c.name]=c; });
+
+  function focus(name){
+    app.classList.add("dim");
+    CITIES.forEach(function(c){ c._g.classList.toggle("on", c.name===name); });
+  }
+  function unfocus(){
+    app.classList.remove("dim");
+    CITIES.forEach(function(c){ c._g.classList.remove("on"); });
+  }
+  function showTip(on){ tt.style.opacity = on ? "1" : "0"; }
+  function tipAt(c, cx, cy){
+    var col = REG[c.region].varc;
+    tt.innerHTML =
+      '<div class="tt-nm"><span class="sw" style="background:var('+col+')"></span>'+c.name+'</div>'+
+      '<div class="tt-rg">'+REG[c.region].name+'</div>'+
+      '<div class="tt-row"><span>Dy. Commissioner (divisions)</span><b>'+c.div+'</b></div>'+
+      '<div class="tt-row"><span>Asst. Commissioner (circles)</span><b>'+c.cir+'</b></div>'+
+      '<div class="tt-row tt-total"><span>Officer posts</span><b>'+c.posts+'</b></div>';
+    tt.style.left = cx+"px"; tt.style.top = cy+"px";
+    showTip(true);
+  }
+
+  CITIES.forEach(function(c){
+    c._g.addEventListener("mouseenter",function(){ focus(c.name); });
+    c._g.addEventListener("mousemove", function(ev){ tipAt(c, ev.clientX, ev.clientY); });
+    c._g.addEventListener("mouseleave",function(){ unfocus(); showTip(false); });
+  });
+
+  // --- footnote ---------------------------------------------------------------
+  var totalPosts = CITIES.reduce(function(a,c){return a+c.posts;},0);
+  document.getElementById("note").innerHTML =
+    '<b>How to read it.</b> Bubble <b>area</b> is proportional to the number of Group‑I State Tax officer '+
+    'posts a city holds (one Deputy Commissioner per territorial division + one Assistant Commissioner per '+
+    'circle). Bigger bubble = more posts. Colour groups the city by zone. '+
+    '<br><br><b>Data basis.</b> The AP Commercial Taxes (State Tax) Department was reorganised w.e.f. 1 July 2022 into '+
+    '<b>16 territorial Divisions, 109 Circles and 6 Nodal Divisions</b>. Division locations are exact; per‑city '+
+    'circle counts here are <b>approximate reconstructions</b> (~'+totalPosts+' posts mapped) meant to show the '+
+    'shape of the distribution — replace the numbers in the <code>CITIES</code> array with the exact figures from '+
+    'the current APCT jurisdiction notification (G.O.Ms.No.502) for a definitive map. '+
+    'Deputy / Assistant Commissioner of State Tax are recruited through the APPSC Group‑I services.';
+})();
+</script>
+</body>
+</html>
