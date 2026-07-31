@@ -9,7 +9,7 @@
 ## 0. AP's industrial profile after bifurcation (2014)
 
 - Lost **Hyderabad** — the IT-industrial-fiscal engine; residual AP = agri-coastal economy with industry ≈ **22–24% of GSVA**.
-- **Endowments to build on:** ~**1,000-km coastline (India's second-longest)** with **Visakhapatnam major port + a chain of non-major ports**; KG gas basin; limestone/barytes/bauxite (Mangampeta barytes = world-class ⭐); **#1 state in aquaculture (~30% of India's fish/shrimp)**; pharma at Vizag; cement belt; **Kia (Anantapur)**; **Sri City (Tirupati dist.)**; **AMTZ Visakhapatnam — India's first medical-devices manufacturing park** ⭐; ASI top-5 state by factories.
+- **Endowments to build on:** a **~974 km coastline (1,053 km per the 2024 re-survey) — India's second-longest** with **Visakhapatnam major port + a chain of non-major ports**; KG gas basin; limestone/barytes/bauxite (Mangampeta barytes = world-class ⭐); **#1 state in aquaculture (~30% of India's fish/shrimp)**; pharma at Vizag; cement belt; **Kia (Anantapur)**; **Sri City (Tirupati dist.)**; **AMTZ Visakhapatnam — India's first medical-devices manufacturing park** ⭐; ASI top-5 state by factories.
 - Announced/emerging (label as such): **AM/NS steel (Anakapalli)**, **Google AI data-centre hub (Visakhapatnam, announced 2025)**, BPCL/petchem interest, drone city (Orvakal).
 
 ## 1. Industrial policy of the AP government ⭐⭐

@@ -26,7 +26,7 @@
 
 - Forest + tree cover ≈ **25.17% of India** (forest cover ~21.76%); **Madhya Pradesh** — largest forest area; **Mizoram** — highest %; **Lakshadweep/A&N** top UT %.
 - **Mangroves ~4,992 sq km** — West Bengal > Gujarat > A&N; **AP ~404 sq km (4th)** ⭐.
-- **AP: recorded forest area ~37,258 sq km (~22.9% of the state); actual forest cover ~29,800 sq km (~18.3%)** — below the 33% national-policy goal; AP posted **gains in recent ISFRs** (plantations, mangrove restoration).
+- **AP: recorded forest area ~37,258 sq km (~22.9% of the state); actual forest cover ~29,800 sq km (~18.3%)** — below the 33% national-policy goal. **Direction of change (state it carefully):** **ISFR 2023 recorded a net *loss* of ~139 km² of forest cover in AP against 2021, even as mangrove cover rose ~13 km²** ⭐ — plantation and mangrove-restoration gains have not offset losses outside recorded forest areas. *(The Paper-V Environment series, File 02, carries the same figures — keep the two answers consistent.)*
 - National Forest Policy **1988** — 33% cover goal, ecological balance + people's needs; **FRA 2006** (community/individual forest rights — agency-area relevance ⭐), **CAMPA/Green India Mission**, Godavarman case (forest definition).
 
 ---

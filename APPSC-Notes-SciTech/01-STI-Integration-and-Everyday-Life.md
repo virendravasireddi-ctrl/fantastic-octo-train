@@ -52,7 +52,7 @@ Standalone science produces papers; standalone technology produces imports; **in
 - Vaccines (adaptive immunity), antibiotics (watch **AMR** — File 05), **X-ray/CT/MRI/ultrasound** (MRI = nuclear magnetic resonance, no ionising radiation ⭐), pulse oximeter (light absorption by haemoglobin), RT-PCR (DNA amplification — household word after COVID), pacemakers, IVF (ART Act 2021 regulates).
 
 ### 2.4 Farm & market (AP-flavoured)
-- Soil Health Cards (soil chemistry), drip/sprinkler (**APMIP** — AP Micro Irrigation Project, first such state project, 2003), **PFZ advisories** — INCOIS Potential Fishing Zone alerts used by AP's ~600-km coastline fishers ⭐, weather-based crop insurance, aqua-culture sensors (AP = India's **aqua hub, ~30%+ of fish/shrimp production**), cold chains, **drones for nano-urea spraying (Namo Drone Didi, 2023-24)**.
+- Soil Health Cards (soil chemistry), drip/sprinkler (**APMIP** — AP Micro Irrigation Project, first such state project, 2003), **PFZ advisories** — INCOIS Potential Fishing Zone alerts used by the fishers of AP's **~974 km coast (1,053 km per the 2024 re-survey)** ⭐, weather-based crop insurance, aqua-culture sensors (AP = India's **aqua hub, ~30%+ of fish/shrimp production**), cold chains, **drones for nano-urea spraying (Namo Drone Didi, 2023-24)**.
 
 ### 2.5 Travel & civic life
 - FASTag (RFID), metro signalling (CBTC), traffic ANPR cameras, weather forecast in every pocket, **Aadhaar e-KYC**, DigiLocker, ration via **ePoS + iris/fingerprint** (AP pioneered biometric PDS), electronic voting machines + VVPAT.
