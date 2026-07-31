@@ -123,19 +123,19 @@ This series now covers **all three parts of Paper-II end-to-end**:
 
 | File | Coverage | Weight for APPSC |
 |---|---|---|
-| [44-Population-Distribution-Density-Age-Sex.md](44-Population-Distribution-Density-Age-Sex.md) | Population distribution, density and age-sex structure; the demographic profile of India & AP | ⭐⭐⭐ |
-| [45-Migration-and-Population-Movements.md](45-Migration-and-Population-Movements.md) | Types, causes and consequences of migration and population movements | ⭐⭐ |
-| [46-Settlements-Habitations-Urbanisation.md](46-Settlements-Habitations-Urbanisation.md) | Rural & urban settlements, habitation patterns and urbanisation trends | ⭐⭐ |
-| [47-Race-Caste-Tribe-Religion-Language-Education.md](47-Race-Caste-Tribe-Religion-Language-Education.md) | Social geography — race, caste, tribe, religion, language and education | ⭐⭐ |
+| [44-Population-Distribution-Density-Age-Sex.md](44-Population-Distribution-Density-Age-Sex.md) | India-vs-AP one-glance indicator table; distribution & density controls, the 1921 "Great Divide"; **demographic dividend (conditions, the staggered-by-state twist, ageing)**; sex composition & vital indicators | ⭐⭐⭐ |
+| [45-Migration-and-Population-Movements.md](45-Migration-and-Population-Movements.md) | **Theory bank (Ravenstein, Lee, Lewis, Todaro, Zelinsky, Stark)** & how migration is measured; Census composition table (distance/stream/sex/reason); **AP's six migration streams incl. the "loss of Hyderabad" reversal and Polavaram displacement**; law & policy (ISMW Act→OSH Code, ONORC, e-Shram, 2021 draft policy); match-pairs + Mains skeletons | ⭐⭐⭐ (the connective tissue of Unit 9) |
+| [46-Settlements-Habitations-Urbanisation.md](46-Settlements-Habitations-Urbanisation.md) | Four rural settlement types × factors × patterns (the 2023 PYQ grid), **site/situation, house types & village morphology**; census vs statutory towns, UAs, size classes, **Burgess-Hoyt-Harris/Ullman models**; **AP's corridor urbanisation, the "missing metropolis", ULB/mandal governance and Amaravati land pooling**; match-pairs + Mains skeletons | ⭐⭐⭐ (two direct PYQs) |
+| [47-Race-Caste-Tribe-Religion-Language-Education.md](47-Race-Caste-Tribe-Religion-Language-Education.md) | Race classifications (Risley, Guha) with the ANI-ASI caveat; SC composition & **AP's lettered BC sub-groups and reservation arithmetic**; **ST profile — the agency vs plains tribes, PVTGs and the LTR/PESA/FRA/ITDA protection grid**; religion & language (Eighth Schedule, classical-language list, Austroasiatic tribal islands); **AP's literacy paradox** + institutions; match-pairs + Mains skeletons | ⭐⭐⭐ (2020b & 2025b PYQs) |
 | [48-Social-Geography-Revision-and-Practice.md](48-Social-Geography-Revision-and-Practice.md) | Social & population geography revision: tables, MCQs with key, Mains skeletons | Revision aid |
 
 ### Unit 10 — Geography IV: Bio-Geography
 
 | File | Coverage | Weight for APPSC |
 |---|---|---|
-| [49-Biodiversity-and-Biogeography.md](49-Biodiversity-and-Biogeography.md) | Biodiversity concepts and the biogeographic zones/realms of India | ⭐⭐⭐ |
+| [49-Biodiversity-and-Biogeography.md](49-Biodiversity-and-Biogeography.md) | Biodiversity levels, **alpha/beta/gamma diversity, MEA ecosystem services, keystone-flagship-umbrella-indicator species and the IPBES drivers of loss**; zoogeographic realms, phytogeographic regions, **Rodgers & Panwar's 10 zones**, hotspots and **the "AP is in no hotspot" trap**; Eastern-Ghats endemism, IUCN categories, AP snapshot | ⭐⭐⭐ |
 | [50-Faunal-Geography-Wild-Animals-Birds-Reptiles-Mammals.md](50-Faunal-Geography-Wild-Animals-Birds-Reptiles-Mammals.md) | Faunal geography — wild animals, birds, reptiles, mammals and their distribution | ⭐⭐ |
-| [51-Floral-Geography-Trees-Plants-Forests-Medicinal.md](51-Floral-Geography-Trees-Plants-Forests-Medicinal.md) | Floral geography — trees, plants, forest types and medicinal flora | ⭐⭐ |
+| [51-Floral-Geography-Trees-Plants-Forests-Medicinal.md](51-Floral-Geography-Trees-Plants-Forests-Medicinal.md) | Plant symbols; **habitat groups (xerophyte→halophyte) as a compressed AP transect**; economic trees, **Eastern-Ghats endemics (red sanders, *Cycas beddomei*)**, grassland, wetland-mangrove-marine and medicinal flora; **threats (invasives, red-sanders trade, fire) and the in-situ/ex-situ conservation toolkit**; match-pairs | ⭐⭐ |
 | [52-Wildlife-Conservation-Insitu-Exsitu-Projects.md](52-Wildlife-Conservation-Insitu-Exsitu-Projects.md) | Wildlife conservation — in-situ/ex-situ, protected areas and species-recovery projects | ⭐⭐⭐ |
 | [53-Fauna-Flora-Revision-and-Practice.md](53-Fauna-Flora-Revision-and-Practice.md) | Bio-geography revision: match-pairs, MCQs with key, Mains skeletons | Revision aid |
 
@@ -143,10 +143,10 @@ This series now covers **all three parts of Paper-II end-to-end**:
 
 | File | Coverage | Weight for APPSC |
 |---|---|---|
-| [54-Weather-Elements-and-Special-Phenomena.md](54-Weather-Elements-and-Special-Phenomena.md) | Elements of weather and special atmospheric phenomena | ⭐⭐ |
-| [55-Natural-Hazards-Earthquakes-Landslides-Floods.md](55-Natural-Hazards-Earthquakes-Landslides-Floods.md) | Natural hazards — earthquakes, landslides, floods — and their geography | ⭐⭐⭐ |
-| [56-Cyclones-Droughts-Disaster-Management.md](56-Cyclones-Droughts-Disaster-Management.md) | Cyclones and droughts (the Bay-of-Bengal coast) and disaster-management frameworks | ⭐⭐⭐ (AP-core hazards) |
-| [57-Pollution-EIA-Sustainable-Development-Globalization.md](57-Pollution-EIA-Sustainable-Development-Globalization.md) | Pollution, Environmental Impact Assessment, sustainable development and globalization | ⭐⭐ |
+| [54-Weather-Elements-and-Special-Phenomena.md](54-Weather-Elements-and-Special-Phenomena.md) | Temperature, humidity, cloudiness and winds (planetary/periodic/local + jet streams); **ENSO-IOD-MJO table, western disturbances, lightning, fog & the IMD heat-wave/cold-wave criteria**; **tropical vs temperate cyclone comparison** | ⭐⭐ |
+| [55-Natural-Hazards-Earthquakes-Landslides-Floods.md](55-Natural-Hazards-Earthquakes-Landslides-Floods.md) | Earthquakes (waves, scales, BIS zones, **BIS code-based mitigation, AP's Zone II/III position**), landslides (**Varnes types, GSI zonation, agency ghat-roads**), floods (**causes, the embankment paradox, AP's delta & urban floods**), cloudbursts; the mitigation ladder + **who-warns-for-what agency map**; match-pairs + Mains skeletons | ⭐⭐⭐ |
+| [56-Cyclones-Droughts-Disaster-Management.md](56-Cyclones-Droughts-Disaster-Management.md) | Cyclone mechanism, **IMD intensity ladder & AP's storm roll-call (Diviseema, Hudhud, Titli, Michaung)**; drought types, prone areas, **how drought is declared (2016 Manual, triggers, SPI/NDVI indices)** and the **Rayalaseema vulnerability kit**; DM Act architecture **with section numbers, the SDRF/NDRF money map and Sendai's priorities/targets**; match-pairs + Mains skeletons | ⭐⭐⭐ (AP-core hazards) |
+| [57-Pollution-EIA-Sustainable-Development-Globalization.md](57-Pollution-EIA-Sustainable-Development-Globalization.md) | Pollution types & driver chain, the legal framework and **the standards bank (AQI bands, NAAQS, CPCB water classes, noise limits)**; **APPCB & post-disaster pollution management (LG Polymers)**; EIA process, categories, **companion clearances (CRZ, FCA, SIA) and the reform list**; sustainable development milestones; globalization, **the Kuznets-curve caveat and CBAM**; match-pairs + Mains skeletons | ⭐⭐⭐ (four PYQ options) |
 | [58-Environmental-Geography-Revision-and-Practice.md](58-Environmental-Geography-Revision-and-Practice.md) | Environmental & climatology revision: tables, MCQs with key, Mains skeletons | Revision aid |
 
 > The environmental-geography files (55–58) treat hazards, pollution and sustainability from the **geography-paper** angle. The **science/policy** treatment of the same topics lives in the Paper-V series [`../APPSC-Notes-Environment/`](../APPSC-Notes-Environment/README.md) — cross-read the two before the exam.

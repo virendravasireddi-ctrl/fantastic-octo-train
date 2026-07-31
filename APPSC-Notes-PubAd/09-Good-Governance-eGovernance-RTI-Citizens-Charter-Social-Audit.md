@@ -1,5 +1,7 @@
 # 09 — Good Governance & e-Governance · Transparency, Accountability, Responsiveness · Citizen's Charter · RTI · Public Services Acts · Social Audit
 
+[← Role of civil services in democracy](08-Role-of-Civil-Services-in-Democracy.md) · [Index](README.md) · [Next: Ethics in public service, corruption, Lokpal & Lokayukta →](10-Ethics-in-Public-Service-Governance-Corruption-Lokpal-Lokayukta.md)
+
 **Syllabus item:** *"Good governance and e-governance — Transparency, accountability and responsiveness in governance — Citizen's Charter, RTI, Public Service Act and their implications, Concept of Social Audit and its importance."*
 
 ---
@@ -241,3 +243,7 @@ Notified services list → designated officer + stipulated period → **first & 
 3. **The Citizen's Charter in India has remained a promise without a remedy. Do Public Services Acts fix this? Critically examine.** *(Charter origin & Indian record → why toothless → Sevottam → state Acts' penalty-appeal design (MP 2010 onwards) → evidence of limits (penalties rare, quality untouched) → need: central framework + e-delivery integration.)*
 4. **Fifteen-plus years on, evaluate the RTI Act as an instrument of transparency. Have recent amendments weakened it?** *(Achievements & cases → structural problems (Sec. 4, pendency, attacks) → 2019 amendment + DPDP Sec. 8(1)(j) analysis → balanced verdict + Anjali Bhardwaj directions.)*
 5. **What is social audit? Explain its statutory basis and Andhra Pradesh's pioneering contribution to its institutionalisation.** *(Definition + table vs CAG audit → MKSS origins → MGNREGA Sec. 17 + 2011 Rules → SSAAT design (autonomy, village auditors, public hearings, recoveries) → Meghalaya 2017 → importance list → challenges/way forward.)*
+
+---
+
+[← Role of civil services in democracy](08-Role-of-Civil-Services-in-Democracy.md) · [Index](README.md) · [Next: Ethics in public service, corruption, Lokpal & Lokayukta →](10-Ethics-in-Public-Service-Governance-Corruption-Lokpal-Lokayukta.md)

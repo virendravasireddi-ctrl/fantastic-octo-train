@@ -1,5 +1,7 @@
 # 08 — Role of Civil Services in a Democracy
 
+[← Statutory, regulatory & quasi-judicial authorities](07-Statutory-Regulatory-Quasi-Judicial-Authorities.md) · [Index](README.md) · [Next: Good governance, e-governance, RTI & social audit →](09-Good-Governance-eGovernance-RTI-Citizens-Charter-Social-Audit.md)
+
 **Syllabus item (second half):** *"…Role of Civil Services in Democracy."*
 
 ---
@@ -135,3 +137,7 @@ A democracy is run by **amateur, temporary politicians** answerable to the peopl
 3. **Examine the generalist–specialist debate in Indian administration. Has lateral entry settled it?** *(Colonial generalist DNA → 1st & 2nd ARC positions → domain-assignment (Surinder Nath/Hota) → lateral entry 2018: scale too small, but signals; Mission Karmayogi's competency route as the deeper answer.)*
 4. **How have e-governance initiatives changed the citizen–bureaucracy interface? Illustrate from Andhra Pradesh.** *(Discretion→transparency logic → MeeSeva, Spandana, village secretariats, RBKs → gains (speed, doorstep, disintermediation) → risks (exclusion, over-centralised data) → Sevottam frame.)*
 5. **"Civil servants should serve the government of the day without becoming servants of the party in power." Comment.** *(Neutrality vs commitment debate; Indira-era "committed bureaucracy"; conduct rules; conclusion: commitment to Constitution, not party.)*
+
+---
+
+[← Statutory, regulatory & quasi-judicial authorities](07-Statutory-Regulatory-Quasi-Judicial-Authorities.md) · [Index](README.md) · [Next: Good governance, e-governance, RTI & social audit →](09-Good-Governance-eGovernance-RTI-Citizens-Charter-Social-Audit.md)

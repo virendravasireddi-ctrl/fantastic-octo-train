@@ -1,5 +1,7 @@
 # 10 — Ethics in Public Service & Governance: Concept of Public Service · Philosophical Basis · Right Understanding & Holistic Technologies · Codes of Ethics/Conduct · Leadership Ethics · Work Culture · Organisational Ethics · Ethics in International Relations · Corruption · Lokpal & Lokayukta
 
+[← Good governance, e-governance, RTI & social audit](09-Good-Governance-eGovernance-RTI-Citizens-Charter-Social-Audit.md) · [Index](README.md) · [Next paper-mate: the Ethics series →](../APPSC-Notes-Ethics/README.md)
+
 **Syllabus item:** *"Concept of Public Service — Philosophical basis of Governance — Professional ethics in the light of right understanding and Vision for Holistic Technologies — Codes of Ethics, Codes of Conduct — RTI, Public Service Act (ethical dimension) — Leadership ethics, Work culture, Ethical principles within an organisational context — Ethical and moral values in governance — Ethical issues in international relations — Corruption — Lokpal, Lokayukta."*
 
 **How to read this file:** Sections 1–8 build the ethics vocabulary and frameworks; Sections 9–11 (corruption, Lokpal, Lokayukta) are the fact-heavy, MCQ-dense core — learn them to Act-section level. RTI and Public Services Acts are covered in **File 09**; here only their *ethical* significance is added.
@@ -356,3 +358,5 @@ Partial **state funding of elections**; tighten anti-defection; **Sec. 8 RPA** �
 ---
 
 *Cross-links: File 06 (civil society & the Anna movement; NGO coverage under Lokpal), File 07 (CVC, CIC, tribunals), File 08 (civil-service values, T.S.R. Subramanian, Mission Karmayogi), File 09 (RTI, Public Services Acts, social audit — the transparency half of this file's accountability story).*
+
+[← Good governance, e-governance, RTI & social audit](09-Good-Governance-eGovernance-RTI-Citizens-Charter-Social-Audit.md) · [Index](README.md) · [Next paper-mate: the Ethics series →](../APPSC-Notes-Ethics/README.md)

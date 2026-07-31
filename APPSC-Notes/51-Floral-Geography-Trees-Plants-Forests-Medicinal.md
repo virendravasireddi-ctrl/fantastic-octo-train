@@ -10,6 +10,12 @@
 
 - National **tree** — **Banyan** (*Ficus benghalensis*); National **flower** — **Lotus**; National **fruit** — **Mango**. **AP state tree — NEEM; state flower — JASMINE (malle)** ⭐ (contrast with the national symbols in Prelims).
 
+### 1.1 How plants are grouped by habitat ⭐ (the vocabulary that makes descriptions precise)
+
+**Xerophytes** — drought-adapted (thick cuticle, sunken stomata, spines, deep roots): the **Rayalaseema thorn scrub — *Acacia*, *Prosopis*, *Euphorbia*, cactus-like succulents**. **Mesophytes** — the ordinary moderate-moisture flora of the deciduous forests and farmland. **Hydrophytes** — water plants (lotus, *Typha*, hyacinth) of **Kolleru** and delta tanks. **Halophytes** — salt-tolerant **mangroves of Coringa** (pneumatophores, vivipary, salt glands). **Epiphytes & lianas** — orchids and climbers of the moist north-Ghats semi-evergreen blocks. **Lithophytes** on the bare Eastern-Ghats rock faces.
+
+*One-line use:* AP holds all six groups within 400 km — the state is a **compressed transect from halophyte to xerophyte**, which is the neatest opening line for a floral-geography answer ⭐.
+
 ## 2. Trees of ecological & economic importance (place each) ⭐
 
 | Tree | Forest type / zone | Note |
@@ -63,6 +69,17 @@
 | State symbols | Tree **neem**; flower **jasmine** |
 
 **Mains line:** AP's flora mirrors its rainfall map (File 18) — evergreen-to-deciduous on the wet northern Ghats, thorn-scrub-and-grassland in rain-shadow Rayalaseema, mangroves on the deltas — and its endemism, concentrated in Seshachalam, is a hotspot-grade asset that hotspot maps miss.
+
+## 8. Threats to AP's flora and how plants are conserved ⭐
+
+- **Threats:** illegal felling and the **red-sanders trade** (a CITES-listed international racket, policed by a dedicated task force); **podu/shifting cultivation and forest fragmentation** in the agency; quarrying and mining on Eastern-Ghats slopes (File 19); **grazing and grassland conversion** in Rayalaseema; **invasive alien species** — ***Lantana camara*** and ***Prosopis juliflora*** on dry lands, **water hyacinth and *Salvinia*** choking Kolleru ⭐; over-collection of medicinal roots (*Decalepis*, *Gymnema*); coastal aquaculture converting mangrove fringe; and **forest fire** in the dry-deciduous belt each summer.
+- **The conservation toolkit — split it in two:**
+  - **In-situ:** protected areas and the tiger reserve (File 52), **sacred groves and temple-hill forests (Tirumala, Srisailam, Ahobilam)**, the **Seshachalam Biosphere Reserve (2010)**, **Coringa mangrove restoration**, community reserves and **Van Sanrakshan Samitis (JFM)** ⭐.
+  - **Ex-situ:** **botanical gardens and herbaria (BSI's Deccan Circle)**, arboreta, **seed and gene banks (NBPGR)**, **cryopreservation and tissue culture** for red sanders and *Cycas beddomei*, medicinal-plant nurseries under the **National Medicinal Plants Board**, and **People's Biodiversity Registers** compiled by BMCs under the **Biological Diversity Act 2002 (amended 2023)** — the legal route to **access-and-benefit-sharing** when a company commercialises local plant knowledge ⭐⭐ (details in File 52).
+
+## 9. Prelims match-pairs
+
+**Banyan → national tree; lotus → national flower; mango → national fruit** · **AP: neem → state tree; jasmine → state flower** ⭐ · ***Pterocarpus santalinus* → red sanders, Eastern-Ghats endemic, CITES** · ***Cycas beddomei* → Tirumala/Seshachalam, CITES Appendix I** · ***Syzygium alternifolium*, *Terminalia pallida* → Seshachalam endemics** · ***Sterculia urens* → gum karaya (AP agency NTFP)** · ***Decalepis hamiltonii* → nannari** · ***Andrographis paniculata* → nela vemu** · **Pneumatophores, vivipary → mangrove adaptations** · **Xerophyte → Rayalaseema thorn scrub; halophyte → Coringa mangrove** · ***Lantana*, *Prosopis*, water hyacinth → invasive aliens** · **Bamboo → de-notified as a "tree" in 2017 (Indian Forest Act amendment)** · **BSI 1890, Kolkata → floral survey custodian**.
 
 ---
 

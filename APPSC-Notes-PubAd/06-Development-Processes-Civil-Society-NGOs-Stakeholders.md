@@ -1,5 +1,7 @@
 # 06 — Development Processes: the Role of Civil Society, NGOs and Other Stakeholders
 
+[← Evolution revision & practice](05-Evolution-Revision-and-Practice.md) · [Index](README.md) · [Next: Statutory, regulatory & quasi-judicial authorities →](07-Statutory-Regulatory-Quasi-Judicial-Authorities.md)
+
 **Syllabus item:** *"Development processes — the role of civil society, NGOs and other stakeholders."*
 
 ---
@@ -282,3 +284,7 @@ A "stakeholder" is any actor with an interest in, or affected by, development in
 4. **The 2010 microfinance crisis began in Andhra Pradesh and ended in national regulation. Trace the sequence and its lessons.** *(SHG density → MFI loan-stacking, coercive recovery, suicides → AP MFI Act 2010 → Malegam → NBFC-MFI norms → lessons: credit ≠ livelihoods; consumer protection in financial inclusion.)*
 5. **The FCRA amendments of 2020 have redefined State–NGO relations. Critically examine.** *(Provisions → rationale (sovereignty, accountability) → criticism (grassroots sub-granting, admin cap) → balance: 2nd ARC accreditation route.)*
 6. **"Development is now a multi-stakeholder enterprise." Identify the stakeholders and their complementary roles.** *(State-market-civil society triangle + PRIs, SHGs, cooperatives, corporates/CSR, media, academia, donors — one example each; AP participation architecture as case study.)*
+
+---
+
+[← Evolution revision & practice](05-Evolution-Revision-and-Practice.md) · [Index](README.md) · [Next: Statutory, regulatory & quasi-judicial authorities →](07-Statutory-Regulatory-Quasi-Judicial-Authorities.md)

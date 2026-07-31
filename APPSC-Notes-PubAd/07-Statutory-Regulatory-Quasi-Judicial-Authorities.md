@@ -1,5 +1,7 @@
 # 07 — Statutory, Regulatory and Various Quasi-Judicial Authorities
 
+[← Development processes, civil society & NGOs](06-Development-Processes-Civil-Society-NGOs-Stakeholders.md) · [Index](README.md) · [Next: Role of civil services in democracy →](08-Role-of-Civil-Services-in-Democracy.md)
+
 **Syllabus item (first half):** *"Statutory, regulatory and various quasi-judicial authorities."*
 
 ---
@@ -158,3 +160,7 @@ A **quasi-judicial authority** determines the **rights and liabilities of partie
 2. **Tribunalisation of justice in India: boon or bane? Discuss in the light of recent Supreme Court judgments.** *(42nd Am. → Sampath Kumar → L. Chandra Kumar → Rojer Mathew/Madras Bar Assn./Tribunals Reforms Act 2021 → NTC as way forward.)*
 3. **Distinguish constitutional, statutory and quasi-judicial bodies with two examples each. Why did the NCBC's status change in 2018?** *(Definition table → 102nd Amendment context — Indra Sawhney backdrop, parity with NCSC/NCST.)*
 4. **Quasi-judicial authorities must follow natural justice though not the Evidence Act. Explain with examples.** *(Audi alteram partem, nemo judex, speaking orders → CAT/consumer fora/EC symbol cases → judicial review as check.)*
+
+---
+
+[← Development processes, civil society & NGOs](06-Development-Processes-Civil-Society-NGOs-Stakeholders.md) · [Index](README.md) · [Next: Role of civil services in democracy →](08-Role-of-Civil-Services-in-Democracy.md)

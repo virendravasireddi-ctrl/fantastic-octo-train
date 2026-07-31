@@ -61,7 +61,21 @@
 - **Western disturbances** — extratropical lows from the Mediterranean via the STWJ → NW-India winter rain/snow (rabi crops) and cold waves ⭐.
 - **Thunderstorms, hail & lightning** — convective; **lightning is now India's biggest natural-hazard killer (~2,500+ deaths/yr)** ⭐, AP among the higher-incidence states (Damini app, IMD warnings).
 - **Tornadoes** — rare in India (localised, Bengal/east).
-- **Fog** (winter, Indo-Gangetic plain — transport hazard), **frost** (rabi damage), **heat waves & cold waves** (IMD criteria; heat waves a rising killer — AP's 2015 toll of 1,700+, File 18) ⭐.
+- **Fog** (winter, Indo-Gangetic plain — transport hazard), **frost** (rabi damage), **heat waves & cold waves** — heat waves a rising killer, AP's 2015 toll of 1,700+ (File 18) ⭐.
+  - **IMD criteria worth quoting ⭐⭐:** a **heat wave** is declared when the maximum reaches **≥40 °C in the plains, ≥37 °C on the coast, ≥30 °C in the hills** *and* the departure from normal is **4.5–6.4 °C** (**severe** if >6.4 °C); alternatively **≥45 °C = heat wave, ≥47 °C = severe** regardless of departure. A **cold wave** needs a minimum **≤10 °C in the plains** with a departure of **−4.5 to −6.4 °C** (severe beyond that), or **≤4 °C** outright.
+  - Policy layer: **Heat Action Plans** (the Ahmedabad 2013 plan is the national template) — colour-coded alerts, work-hour shifts, water points, cool roofs; NDMA has folded heat into state DM plans, and AP's coastal humidity makes the **wet-bulb/heat-index** measure, not the thermometer, the honest indicator ⭐.
+
+### 5.3 Temperate vs tropical cyclones (the comparison examiners love)
+
+| | **Tropical cyclone** | **Temperate (extratropical) cyclone** |
+|---|---|---|
+| Origin | Over **warm oceans, 5°–20°** latitude | Over land or sea in the **mid-latitudes (35°–65°)**, along the polar front |
+| Energy | **Latent heat of condensation** | **Temperature contrast between air masses (fronts)** ⭐ |
+| Fronts | **None** | **Warm and cold fronts**, occlusion |
+| Size / life | Smaller (300–800 km), a few days–a week | Larger (up to ~2,000 km), longer-lived |
+| Movement | East → west (trades), then recurve | **West → east** (westerlies) |
+| Rain | Torrential, in bands around the eye | Steady, prolonged, frontal |
+| India example | **Bay of Bengal cyclones** (File 56) | **Western disturbances** ⭐ |
 - **Cloudbursts** (>100 mm/hr over a small area — an orographic Himalayan hazard) → developed in File 55.
 
 **Mains hook:** these phenomena convert "climate" into "hazard" — an El Niño year foreshadows Rayalaseema drought (File 56), a warm Bay + La Niña foreshadows an AP cyclone season (File 56); linking the special phenomenon to the hazard is what lifts an environmental-geography answer.
